@@ -1,0 +1,2421 @@
+Year,Startup,Sector,City,Investment_Type,Funding_Amount_MillionUSD,Funding_Amount_USD
+2015,Startup_1,SpaceTech,Bengaluru,Angel,195.19,195190000.0
+2015,Startup_2,FinTech,Gurgaon,Angel,469.27,469270000.0
+2015,Startup_3,AI,Bengaluru,Series B,402.53,402530000.0
+2015,Startup_4,Gaming,Delhi,Series E,648.32,648320000.0
+2015,Startup_5,HealthTech,Kolkata,Series E,730.76,730760000.0
+2015,Startup_6,FinTech,Noida,Seed,362.51,362510000.0
+2015,Startup_7,SaaS,Noida,Series D,234.38,234380000.0
+2015,Startup_8,AgriTech,Noida,Series C,290.07,290070000.0
+2015,Startup_9,SaaS,Mumbai,Angel,76.09,76090000.0
+2015,Startup_10,AgriTech,Noida,Private Equity,61.25,61250000.0
+2015,Startup_11,FoodTech,Pune,Series F,766.9,766900000.0
+2015,Startup_12,SaaS,Noida,Series E,345.46,345460000.0
+2015,Startup_13,Mobility,Noida,Series B,349.14,349140000.0
+2015,Startup_14,EdTech,Kolkata,Pre-Seed,3.66,3660000.0
+2015,Startup_15,EdTech,Hyderabad,Private Equity,770.65,770650000.0
+2015,Startup_16,CleanTech,Noida,Series E,359.55,359550000.0
+2015,Startup_17,E-commerce,Kolkata,Series D,121.59,121590000.0
+2015,Startup_18,E-commerce,Mumbai,Series A,493.86,493860000.0
+2015,Startup_19,E-commerce,Pune,Series E,383.75,383750000.0
+2015,Startup_20,Gaming,Gurgaon,Seed,727.14,727140000.0
+2015,Startup_21,FinTech,Bengaluru,Series F,273.63,273630000.0
+2015,Startup_22,SpaceTech,Mumbai,Private Equity,216.37,216370000.0
+2015,Startup_23,Gaming,Pune,Series D,158.01,158010000.0
+2015,Startup_24,Mobility,Hyderabad,Pre-Seed,792.04,792040000.0
+2015,Startup_25,SaaS,Hyderabad,Series E,619.61,619610000.0
+2015,Startup_26,FinTech,Delhi,Angel,163.7,163700000.0
+2015,Startup_27,SpaceTech,Bengaluru,Private Equity,647.78,647780000.0
+2015,Startup_28,SaaS,Chennai,Series D,242.22,242220000.0
+2015,Startup_29,HealthTech,Kolkata,Pre-Seed,682.43,682430000.0
+2015,Startup_30,Mobility,Pune,Series A,638.53,638530000.0
+2015,Startup_31,AgriTech,Noida,Seed,4.62,4620000.0
+2015,Startup_32,EdTech,Delhi,Angel,333.71,333710000.0
+2015,Startup_33,Gaming,Hyderabad,Series D,13.35,13350000.0
+2015,Startup_34,AgriTech,Gurgaon,Series C,755.86,755860000.0
+2015,Startup_35,E-commerce,Mumbai,Series A,783.25,783250000.0
+2015,Startup_36,HealthTech,Mumbai,Series B,29.65,29650000.0
+2015,Startup_37,SaaS,Noida,Series A,240.14,240140000.0
+2015,Startup_38,CleanTech,Gurgaon,Series C,135.84,135840000.0
+2015,Startup_39,SpaceTech,Noida,Pre-Seed,127.43,127430000.0
+2015,Startup_40,Mobility,Hyderabad,Angel,172.57,172570000.0
+2015,Startup_41,HealthTech,Gurgaon,Angel,97.19,97190000.0
+2015,Startup_42,AgriTech,Kolkata,Private Equity,476.01,476010000.0
+2015,Startup_43,EdTech,Delhi,Series A,657.37,657370000.0
+2015,Startup_44,Gaming,Pune,Angel,715.98,715980000.0
+2015,Startup_45,FoodTech,Gurgaon,Pre-Seed,361.64,361640000.0
+2015,Startup_46,EdTech,Hyderabad,Pre-Seed,219.66,219660000.0
+2015,Startup_47,FoodTech,Noida,Series A,632.44,632440000.0
+2015,Startup_48,E-commerce,Chennai,Private Equity,13.75,13750000.0
+2015,Startup_49,AI,Bengaluru,Series F,386.29,386290000.0
+2015,Startup_50,E-commerce,Gurgaon,Series F,125.85,125850000.0
+2015,Startup_51,AgriTech,Bengaluru,Series D,46.47,46470000.0
+2015,Startup_52,E-commerce,Chennai,Seed,750.68,750680000.0
+2015,Startup_53,SaaS,Kolkata,Series F,703.09,703090000.0
+2015,Startup_54,SaaS,Noida,Series C,399.92,399920000.0
+2015,Startup_55,CleanTech,Mumbai,Series A,701.75,701750000.0
+2015,Startup_56,AgriTech,Bengaluru,Private Equity,153.4,153400000.0
+2015,Startup_57,EdTech,Chennai,Series A,689.04,689040000.0
+2015,Startup_58,E-commerce,Noida,Private Equity,120.56,120560000.0
+2015,Startup_59,Gaming,Mumbai,Series C,452.46,452460000.0
+2015,Startup_60,CleanTech,Mumbai,Seed,222.26,222260000.0
+2015,Startup_61,EdTech,Delhi,Series C,775.99,775990000.0
+2015,Startup_62,E-commerce,Hyderabad,Series E,525.83,525830000.00000006
+2015,Startup_63,Mobility,Chennai,Series F,554.81,554810000.0
+2015,Startup_64,AI,Mumbai,Series E,637.11,637110000.0
+2015,Startup_65,FinTech,Hyderabad,Series E,760.96,760960000.0
+2015,Startup_66,FoodTech,Chennai,Pre-Seed,425.64,425640000.0
+2015,Startup_67,FinTech,Kolkata,Series F,236.9,236900000.0
+2015,Startup_68,CleanTech,Hyderabad,Series B,64.85,64849999.99999999
+2015,Startup_69,CleanTech,Kolkata,Series D,563.25,563250000.0
+2015,Startup_70,EdTech,Delhi,Series A,306.4,306400000.0
+2015,Startup_71,AgriTech,Hyderabad,Seed,347.05,347050000.0
+2015,Startup_72,Gaming,Hyderabad,Series D,611.29,611290000.0
+2015,Startup_73,AI,Hyderabad,Angel,485.96,485960000.0
+2015,Startup_74,Gaming,Noida,Series F,428.15,428150000.0
+2015,Startup_75,SpaceTech,Mumbai,Pre-Seed,297.7,297700000.0
+2015,Startup_76,AI,Noida,Series E,603.4,603400000.0
+2015,Startup_77,AgriTech,Gurgaon,Series F,636.59,636590000.0
+2015,Startup_78,FinTech,Pune,Series E,340.32,340320000.0
+2015,Startup_79,FoodTech,Hyderabad,Series A,600.05,600050000.0
+2015,Startup_80,AgriTech,Delhi,Private Equity,270.22,270220000.0
+2015,Startup_81,Mobility,Pune,Angel,421.51,421510000.0
+2015,Startup_82,FinTech,Hyderabad,Series C,753.36,753360000.0
+2015,Startup_83,SpaceTech,Hyderabad,Angel,442.96,442960000.0
+2015,Startup_84,E-commerce,Kolkata,Series B,47.8,47800000.0
+2015,Startup_85,E-commerce,Hyderabad,Seed,793.19,793190000.0
+2015,Startup_86,EdTech,Delhi,Series B,501.06,501060000.0
+2015,Startup_87,FoodTech,Delhi,Angel,392.52,392520000.0
+2015,Startup_88,HealthTech,Bengaluru,Series F,629.07,629070000.0
+2015,Startup_89,E-commerce,Noida,Private Equity,213.76,213760000.0
+2015,Startup_90,Gaming,Mumbai,Angel,261.37,261370000.0
+2015,Startup_91,CleanTech,Delhi,Seed,285.41,285410000.0
+2015,Startup_92,Mobility,Delhi,Series A,610.47,610470000.0
+2015,Startup_93,FinTech,Kolkata,Series A,109.37,109370000.0
+2015,Startup_94,CleanTech,Kolkata,Angel,142.22,142220000.0
+2015,Startup_95,SpaceTech,Bengaluru,Series C,544.21,544210000.0
+2015,Startup_96,CleanTech,Mumbai,Angel,134.98,134980000.0
+2015,Startup_97,HealthTech,Noida,Series E,546.37,546370000.0
+2015,Startup_98,CleanTech,Delhi,Angel,274.72,274720000.0
+2015,Startup_99,AI,Kolkata,Series D,505.89,505890000.0
+2015,Startup_100,SpaceTech,Mumbai,Seed,341.55,341550000.0
+2015,Startup_101,AI,Kolkata,Pre-Seed,689.08,689080000.0
+2015,Startup_102,HealthTech,Noida,Series B,291.3,291300000.0
+2015,Startup_103,Mobility,Noida,Private Equity,428.82,428820000.0
+2015,Startup_104,SaaS,Mumbai,Angel,784.08,784080000.0
+2015,Startup_105,Mobility,Mumbai,Pre-Seed,204.38,204380000.0
+2015,Startup_106,E-commerce,Mumbai,Series F,9.83,9830000.0
+2015,Startup_107,AI,Kolkata,Pre-Seed,641.56,641560000.0
+2015,Startup_108,FinTech,Bengaluru,Series A,739.46,739460000.0
+2015,Startup_109,Gaming,Bengaluru,Series C,799.22,799220000.0
+2015,Startup_110,FinTech,Pune,Seed,720.6,720600000.0
+2015,Startup_111,AgriTech,Gurgaon,Series B,570.54,570540000.0
+2015,Startup_112,Mobility,Noida,Angel,479.13,479130000.0
+2015,Startup_113,SpaceTech,Mumbai,Series F,624.8,624800000.0
+2015,Startup_114,CleanTech,Chennai,Series F,283.71,283710000.0
+2015,Startup_115,CleanTech,Delhi,Series F,675.27,675270000.0
+2015,Startup_116,CleanTech,Hyderabad,Seed,277.33,277330000.0
+2015,Startup_117,Gaming,Delhi,Series D,601.58,601580000.0
+2015,Startup_118,FoodTech,Gurgaon,Series E,64.35,64349999.99999999
+2015,Startup_119,FoodTech,Delhi,Series D,600.9,600900000.0
+2015,Startup_120,EdTech,Delhi,Pre-Seed,240.43,240430000.0
+2015,Startup_121,E-commerce,Kolkata,Pre-Seed,67.52,67520000.0
+2015,Startup_122,AI,Chennai,Angel,584.6,584600000.0
+2015,Startup_123,SpaceTech,Mumbai,Pre-Seed,791.05,791050000.0
+2015,Startup_124,FinTech,Bengaluru,Series D,152.66,152660000.0
+2015,Startup_125,HealthTech,Kolkata,Series E,570.82,570820000.0
+2015,Startup_126,FinTech,Gurgaon,Seed,135.4,135400000.0
+2015,Startup_127,E-commerce,Bengaluru,Series E,262.93,262930000.0
+2015,Startup_128,HealthTech,Hyderabad,Private Equity,376.35,376350000.0
+2015,Startup_129,CleanTech,Noida,Series B,587.17,587170000.0
+2015,Startup_130,Gaming,Gurgaon,Seed,42.18,42180000.0
+2015,Startup_131,FoodTech,Mumbai,Series F,42.23,42230000.0
+2015,Startup_132,AgriTech,Mumbai,Pre-Seed,788.91,788910000.0
+2015,Startup_133,EdTech,Bengaluru,Series C,31.88,31880000.0
+2015,Startup_134,E-commerce,Kolkata,Private Equity,453.12,453120000.0
+2015,Startup_135,CleanTech,Kolkata,Series C,349.14,349140000.0
+2015,Startup_136,FinTech,Bengaluru,Angel,492.04,492040000.0
+2015,Startup_137,CleanTech,Pune,Series B,505.77,505770000.0
+2015,Startup_138,SpaceTech,Noida,Series C,366.72,366720000.0
+2015,Startup_139,CleanTech,Chennai,Series C,650.53,650530000.0
+2015,Startup_140,Gaming,Pune,Series B,443.0,443000000.0
+2015,Startup_141,FoodTech,Kolkata,Series B,258.96,258959999.99999997
+2015,Startup_142,Mobility,Mumbai,Series C,264.82,264820000.0
+2015,Startup_143,CleanTech,Noida,Private Equity,784.41,784410000.0
+2015,Startup_144,FinTech,Bengaluru,Series F,367.32,367320000.0
+2015,Startup_145,HealthTech,Delhi,Series D,585.12,585120000.0
+2015,Startup_146,CleanTech,Hyderabad,Angel,158.7,158700000.0
+2015,Startup_147,FoodTech,Gurgaon,Series A,178.05,178050000.0
+2015,Startup_148,HealthTech,Mumbai,Series C,798.71,798710000.0
+2015,Startup_149,AgriTech,Delhi,Private Equity,445.24,445240000.0
+2015,Startup_150,SaaS,Mumbai,Series C,396.38,396380000.0
+2015,Startup_151,E-commerce,Hyderabad,Seed,636.71,636710000.0
+2015,Startup_152,CleanTech,Gurgaon,Series D,24.92,24920000.0
+2015,Startup_153,SpaceTech,Noida,Series E,584.81,584810000.0
+2015,Startup_154,CleanTech,Kolkata,Series F,205.21,205210000.0
+2015,Startup_155,Mobility,Hyderabad,Series D,740.84,740840000.0
+2015,Startup_156,SpaceTech,Chennai,Private Equity,545.19,545190000.0
+2015,Startup_157,SaaS,Mumbai,Seed,218.63,218630000.0
+2015,Startup_158,E-commerce,Pune,Seed,30.62,30620000.0
+2015,Startup_159,SpaceTech,Kolkata,Series D,197.08,197080000.0
+2015,Startup_160,FinTech,Mumbai,Pre-Seed,99.75,99750000.0
+2015,Startup_161,Gaming,Gurgaon,Series B,7.19,7190000.0
+2015,Startup_162,SaaS,Pune,Seed,330.17,330170000.0
+2015,Startup_163,EdTech,Chennai,Series B,37.01,37010000.0
+2015,Startup_164,CleanTech,Pune,Angel,228.86,228860000.0
+2015,Startup_165,FinTech,Noida,Private Equity,369.48,369480000.0
+2015,Startup_166,CleanTech,Gurgaon,Pre-Seed,612.97,612970000.0
+2015,Startup_167,AgriTech,Chennai,Private Equity,702.96,702960000.0
+2015,Startup_168,Gaming,Kolkata,Private Equity,221.83,221830000.0
+2015,Startup_169,SaaS,Gurgaon,Series C,283.66,283660000.0
+2015,Startup_170,FoodTech,Kolkata,Series C,711.78,711780000.0
+2015,Startup_171,EdTech,Hyderabad,Series C,401.23,401230000.0
+2015,Startup_172,FoodTech,Delhi,Series E,119.08,119080000.0
+2015,Startup_173,CleanTech,Gurgaon,Private Equity,779.51,779510000.0
+2015,Startup_174,AI,Chennai,Series E,412.78,412780000.0
+2015,Startup_175,Gaming,Kolkata,Series E,489.44,489440000.0
+2015,Startup_176,SaaS,Noida,Series E,579.62,579620000.0
+2015,Startup_177,HealthTech,Chennai,Series F,792.19,792190000.0
+2015,Startup_178,EdTech,Chennai,Angel,415.65,415650000.0
+2015,Startup_179,SpaceTech,Gurgaon,Series E,142.42,142420000.0
+2015,Startup_180,AI,Noida,Angel,74.4,74400000.0
+2015,Startup_181,Mobility,Kolkata,Series D,320.0,320000000.0
+2015,Startup_182,Gaming,Delhi,Series D,795.07,795070000.0
+2015,Startup_183,FinTech,Delhi,Private Equity,117.57,117570000.0
+2015,Startup_184,AI,Delhi,Private Equity,72.89,72890000.0
+2015,Startup_185,EdTech,Gurgaon,Pre-Seed,403.5,403500000.0
+2015,Startup_186,FoodTech,Bengaluru,Series F,91.77,91770000.0
+2015,Startup_187,Mobility,Noida,Series E,571.66,571660000.0
+2015,Startup_188,SpaceTech,Noida,Pre-Seed,554.74,554740000.0
+2015,Startup_189,AgriTech,Chennai,Series A,188.37,188370000.0
+2015,Startup_190,FinTech,Gurgaon,Series F,191.72,191720000.0
+2015,Startup_191,CleanTech,Bengaluru,Pre-Seed,205.9,205900000.0
+2015,Startup_192,EdTech,Delhi,Series E,589.17,589170000.0
+2015,Startup_193,HealthTech,Pune,Series B,582.04,582040000.0
+2015,Startup_194,Mobility,Chennai,Series F,761.5,761500000.0
+2015,Startup_195,E-commerce,Kolkata,Series C,136.6,136600000.0
+2015,Startup_196,FinTech,Chennai,Series D,768.07,768070000.0
+2015,Startup_197,AI,Gurgaon,Pre-Seed,371.4,371400000.0
+2015,Startup_198,HealthTech,Bengaluru,Series B,214.05,214050000.0
+2015,Startup_199,SaaS,Kolkata,Angel,781.81,781810000.0
+2015,Startup_200,E-commerce,Delhi,Series D,107.0,107000000.0
+2015,Startup_201,E-commerce,Mumbai,Series D,395.57,395570000.0
+2015,Startup_202,HealthTech,Chennai,Series A,397.65,397650000.0
+2015,Startup_203,EdTech,Mumbai,Series D,745.43,745430000.0
+2015,Startup_204,AI,Chennai,Series B,788.89,788890000.0
+2015,Startup_205,E-commerce,Hyderabad,Series A,581.13,581130000.0
+2015,Startup_206,FoodTech,Kolkata,Series F,127.1,127100000.0
+2015,Startup_207,E-commerce,Gurgaon,Private Equity,480.11,480110000.0
+2015,Startup_208,SaaS,Bengaluru,Seed,424.25,424250000.0
+2015,Startup_209,EdTech,Gurgaon,Series B,789.97,789970000.0
+2015,Startup_210,HealthTech,Gurgaon,Pre-Seed,442.87,442870000.0
+2015,Startup_211,E-commerce,Pune,Series D,701.67,701670000.0
+2015,Startup_212,HealthTech,Delhi,Private Equity,621.13,621130000.0
+2015,Startup_213,FoodTech,Gurgaon,Series A,298.35,298350000.0
+2015,Startup_214,Mobility,Bengaluru,Pre-Seed,52.18,52180000.0
+2015,Startup_215,SaaS,Chennai,Series C,237.87,237870000.0
+2015,Startup_216,AgriTech,Delhi,Angel,78.63,78630000.0
+2015,Startup_217,AI,Delhi,Series E,439.44,439440000.0
+2015,Startup_218,EdTech,Noida,Series B,274.35,274350000.0
+2015,Startup_219,HealthTech,Kolkata,Angel,799.05,799050000.0
+2015,Startup_220,E-commerce,Noida,Series E,779.16,779160000.0
+2016,Startup_1,Gaming,Kolkata,Private Equity,562.06,562060000.0
+2016,Startup_2,FoodTech,Gurgaon,Seed,714.5,714500000.0
+2016,Startup_3,CleanTech,Pune,Series E,427.82,427820000.0
+2016,Startup_4,SaaS,Hyderabad,Seed,254.8,254800000.0
+2016,Startup_5,AI,Delhi,Seed,603.62,603620000.0
+2016,Startup_6,FoodTech,Hyderabad,Seed,557.64,557640000.0
+2016,Startup_7,SaaS,Chennai,Angel,533.27,533270000.0
+2016,Startup_8,AgriTech,Pune,Pre-Seed,734.43,734430000.0
+2016,Startup_9,SaaS,Bengaluru,Series C,110.41,110410000.0
+2016,Startup_10,HealthTech,Gurgaon,Series E,559.88,559880000.0
+2016,Startup_11,EdTech,Chennai,Series A,677.92,677920000.0
+2016,Startup_12,CleanTech,Delhi,Seed,631.33,631330000.0
+2016,Startup_13,SpaceTech,Noida,Series F,793.48,793480000.0
+2016,Startup_14,E-commerce,Kolkata,Series F,604.17,604170000.0
+2016,Startup_15,FoodTech,Bengaluru,Series F,297.89,297890000.0
+2016,Startup_16,EdTech,Delhi,Seed,249.39,249390000.0
+2016,Startup_17,Gaming,Noida,Series C,618.8,618800000.0
+2016,Startup_18,HealthTech,Gurgaon,Private Equity,268.85,268850000.0
+2016,Startup_19,FoodTech,Chennai,Series D,480.91,480910000.0
+2016,Startup_20,EdTech,Pune,Series E,44.39,44390000.0
+2016,Startup_21,E-commerce,Delhi,Pre-Seed,355.4,355400000.0
+2016,Startup_22,SaaS,Hyderabad,Angel,464.08,464080000.0
+2016,Startup_23,FoodTech,Kolkata,Series A,93.59,93590000.0
+2016,Startup_24,AI,Hyderabad,Series C,763.61,763610000.0
+2016,Startup_25,FoodTech,Chennai,Seed,260.28,260279999.99999997
+2016,Startup_26,AI,Pune,Pre-Seed,223.34,223340000.0
+2016,Startup_27,SpaceTech,Delhi,Pre-Seed,338.36,338360000.0
+2016,Startup_28,SaaS,Hyderabad,Series A,532.05,532049999.99999994
+2016,Startup_29,EdTech,Hyderabad,Series B,273.88,273880000.0
+2016,Startup_30,FoodTech,Pune,Angel,311.66,311660000.0
+2016,Startup_31,FoodTech,Chennai,Series B,57.48,57480000.0
+2016,Startup_32,E-commerce,Bengaluru,Angel,651.66,651660000.0
+2016,Startup_33,CleanTech,Mumbai,Series D,108.18,108180000.0
+2016,Startup_34,SpaceTech,Delhi,Series A,157.18,157180000.0
+2016,Startup_35,Gaming,Pune,Series D,308.01,308010000.0
+2016,Startup_36,AgriTech,Hyderabad,Pre-Seed,336.73,336730000.0
+2016,Startup_37,SaaS,Hyderabad,Series E,511.58,511580000.0
+2016,Startup_38,SaaS,Pune,Private Equity,751.59,751590000.0
+2016,Startup_39,Mobility,Hyderabad,Series F,533.71,533710000.00000006
+2016,Startup_40,EdTech,Mumbai,Series B,616.24,616240000.0
+2016,Startup_41,FoodTech,Noida,Series E,370.54,370540000.0
+2016,Startup_42,AI,Delhi,Series E,2.95,2950000.0
+2016,Startup_43,SaaS,Noida,Private Equity,488.84,488840000.0
+2016,Startup_44,FinTech,Gurgaon,Seed,682.99,682990000.0
+2016,Startup_45,AI,Gurgaon,Series A,579.38,579380000.0
+2016,Startup_46,EdTech,Mumbai,Series C,658.74,658740000.0
+2016,Startup_47,AgriTech,Hyderabad,Pre-Seed,391.5,391500000.0
+2016,Startup_48,EdTech,Mumbai,Seed,46.68,46680000.0
+2016,Startup_49,FoodTech,Delhi,Series E,182.88,182880000.0
+2016,Startup_50,SaaS,Delhi,Series A,29.29,29290000.0
+2016,Startup_51,EdTech,Pune,Series C,619.12,619120000.0
+2016,Startup_52,Gaming,Hyderabad,Series D,162.23,162230000.0
+2016,Startup_53,E-commerce,Gurgaon,Series F,422.15,422150000.0
+2016,Startup_54,FinTech,Kolkata,Seed,229.47,229470000.0
+2016,Startup_55,AI,Delhi,Series A,400.66,400660000.0
+2016,Startup_56,FoodTech,Bengaluru,Series E,627.38,627380000.0
+2016,Startup_57,Gaming,Gurgaon,Pre-Seed,382.29,382290000.0
+2016,Startup_58,AI,Hyderabad,Angel,242.85,242850000.0
+2016,Startup_59,HealthTech,Hyderabad,Angel,428.43,428430000.0
+2016,Startup_60,FinTech,Bengaluru,Seed,454.09,454090000.0
+2016,Startup_61,AgriTech,Bengaluru,Private Equity,657.15,657150000.0
+2016,Startup_62,EdTech,Pune,Private Equity,554.75,554750000.0
+2016,Startup_63,Gaming,Bengaluru,Angel,415.61,415610000.0
+2016,Startup_64,SaaS,Chennai,Pre-Seed,93.88,93880000.0
+2016,Startup_65,HealthTech,Hyderabad,Series D,2.66,2660000.0
+2016,Startup_66,SaaS,Delhi,Series A,343.71,343710000.0
+2016,Startup_67,FoodTech,Hyderabad,Private Equity,451.23,451230000.0
+2016,Startup_68,Mobility,Pune,Pre-Seed,621.68,621680000.0
+2016,Startup_69,HealthTech,Gurgaon,Angel,421.01,421010000.0
+2016,Startup_70,AgriTech,Chennai,Series A,755.45,755450000.0
+2016,Startup_71,FoodTech,Chennai,Seed,784.16,784160000.0
+2016,Startup_72,FinTech,Pune,Pre-Seed,720.79,720790000.0
+2016,Startup_73,FoodTech,Bengaluru,Private Equity,210.34,210340000.0
+2016,Startup_74,Mobility,Hyderabad,Series C,439.1,439100000.0
+2016,Startup_75,EdTech,Chennai,Angel,685.93,685930000.0
+2016,Startup_76,EdTech,Noida,Angel,129.5,129500000.0
+2016,Startup_77,Mobility,Kolkata,Private Equity,540.24,540240000.0
+2016,Startup_78,FinTech,Gurgaon,Series F,710.43,710430000.0
+2016,Startup_79,AI,Delhi,Series B,584.67,584670000.0
+2016,Startup_80,HealthTech,Gurgaon,Series D,567.46,567460000.0
+2016,Startup_81,FinTech,Pune,Series E,72.89,72890000.0
+2016,Startup_82,Gaming,Mumbai,Series E,739.76,739760000.0
+2016,Startup_83,FinTech,Pune,Series D,490.71,490710000.0
+2016,Startup_84,SpaceTech,Kolkata,Pre-Seed,21.44,21440000.0
+2016,Startup_85,Gaming,Gurgaon,Angel,26.25,26250000.0
+2016,Startup_86,AI,Hyderabad,Angel,143.89,143890000.0
+2016,Startup_87,EdTech,Delhi,Series F,536.31,536309999.99999994
+2016,Startup_88,SpaceTech,Pune,Series A,559.88,559880000.0
+2016,Startup_89,AgriTech,Pune,Series B,776.04,776040000.0
+2016,Startup_90,SpaceTech,Hyderabad,Series F,606.46,606460000.0
+2016,Startup_91,AI,Delhi,Series E,693.41,693410000.0
+2016,Startup_92,AgriTech,Delhi,Series D,621.84,621840000.0
+2016,Startup_93,FinTech,Chennai,Angel,206.49,206490000.0
+2016,Startup_94,EdTech,Chennai,Angel,283.01,283010000.0
+2016,Startup_95,SpaceTech,Pune,Series F,759.28,759280000.0
+2016,Startup_96,HealthTech,Mumbai,Seed,703.74,703740000.0
+2016,Startup_97,HealthTech,Chennai,Series F,195.99,195990000.0
+2016,Startup_98,FinTech,Bengaluru,Seed,39.25,39250000.0
+2016,Startup_99,SaaS,Mumbai,Series C,9.54,9540000.0
+2016,Startup_100,AI,Hyderabad,Seed,193.86,193860000.0
+2016,Startup_101,AgriTech,Noida,Series E,595.0,595000000.0
+2016,Startup_102,SpaceTech,Pune,Series B,424.72,424720000.0
+2016,Startup_103,EdTech,Pune,Pre-Seed,251.42,251420000.0
+2016,Startup_104,FoodTech,Hyderabad,Series A,90.63,90630000.0
+2016,Startup_105,SpaceTech,Chennai,Series A,663.88,663880000.0
+2016,Startup_106,Gaming,Delhi,Series F,275.59,275590000.0
+2016,Startup_107,AI,Mumbai,Series B,747.13,747130000.0
+2016,Startup_108,FinTech,Delhi,Series F,142.5,142500000.0
+2016,Startup_109,HealthTech,Pune,Series C,600.26,600260000.0
+2016,Startup_110,AI,Bengaluru,Series E,503.56,503560000.0
+2016,Startup_111,EdTech,Mumbai,Series F,603.04,603040000.0
+2016,Startup_112,FinTech,Chennai,Series F,417.38,417380000.0
+2016,Startup_113,Gaming,Mumbai,Pre-Seed,664.54,664540000.0
+2016,Startup_114,CleanTech,Delhi,Private Equity,693.82,693820000.0
+2016,Startup_115,AI,Hyderabad,Series A,724.86,724860000.0
+2016,Startup_116,CleanTech,Delhi,Private Equity,235.49,235490000.0
+2016,Startup_117,Mobility,Gurgaon,Private Equity,278.01,278010000.0
+2016,Startup_118,Gaming,Pune,Series E,81.64,81640000.0
+2016,Startup_119,FinTech,Delhi,Pre-Seed,3.27,3270000.0
+2016,Startup_120,SaaS,Bengaluru,Seed,233.74,233740000.0
+2016,Startup_121,FoodTech,Chennai,Seed,333.45,333450000.0
+2016,Startup_122,AI,Noida,Private Equity,772.87,772870000.0
+2016,Startup_123,FoodTech,Delhi,Series C,670.54,670540000.0
+2016,Startup_124,FinTech,Delhi,Angel,250.87,250870000.0
+2016,Startup_125,Gaming,Pune,Series A,110.14,110140000.0
+2016,Startup_126,E-commerce,Chennai,Series B,502.13,502130000.0
+2016,Startup_127,AI,Bengaluru,Seed,595.54,595540000.0
+2016,Startup_128,FoodTech,Kolkata,Series C,124.57,124570000.0
+2016,Startup_129,Gaming,Delhi,Series D,96.29,96290000.0
+2016,Startup_130,HealthTech,Bengaluru,Series D,585.89,585890000.0
+2016,Startup_131,AgriTech,Delhi,Series F,749.32,749320000.0
+2016,Startup_132,FoodTech,Delhi,Series C,780.31,780310000.0
+2016,Startup_133,FoodTech,Hyderabad,Series E,314.79,314790000.0
+2016,Startup_134,CleanTech,Chennai,Angel,161.01,161010000.0
+2016,Startup_135,Gaming,Bengaluru,Pre-Seed,727.29,727290000.0
+2016,Startup_136,Mobility,Kolkata,Series A,692.05,692050000.0
+2016,Startup_137,AgriTech,Hyderabad,Series C,739.53,739530000.0
+2016,Startup_138,HealthTech,Bengaluru,Series C,698.87,698870000.0
+2016,Startup_139,FinTech,Mumbai,Series E,97.24,97240000.0
+2016,Startup_140,AI,Chennai,Series C,413.48,413480000.0
+2016,Startup_141,HealthTech,Noida,Private Equity,503.78,503780000.0
+2016,Startup_142,Gaming,Hyderabad,Pre-Seed,760.83,760830000.0
+2016,Startup_143,SpaceTech,Hyderabad,Series E,331.98,331980000.0
+2016,Startup_144,FinTech,Mumbai,Seed,456.66,456660000.0
+2016,Startup_145,Gaming,Hyderabad,Series E,231.44,231440000.0
+2016,Startup_146,FinTech,Chennai,Series C,256.72,256720000.00000003
+2016,Startup_147,AgriTech,Noida,Series F,688.08,688080000.0
+2016,Startup_148,EdTech,Noida,Series D,559.39,559390000.0
+2016,Startup_149,EdTech,Chennai,Series F,745.7,745700000.0
+2016,Startup_150,SpaceTech,Delhi,Series A,125.77,125770000.0
+2016,Startup_151,E-commerce,Delhi,Series E,450.9,450900000.0
+2016,Startup_152,E-commerce,Noida,Private Equity,678.94,678940000.0
+2016,Startup_153,AI,Hyderabad,Series C,656.76,656760000.0
+2016,Startup_154,SaaS,Noida,Series B,150.82,150820000.0
+2016,Startup_155,HealthTech,Noida,Series E,533.82,533820000.00000006
+2016,Startup_156,SpaceTech,Mumbai,Seed,760.09,760090000.0
+2016,Startup_157,EdTech,Delhi,Pre-Seed,308.61,308610000.0
+2016,Startup_158,FoodTech,Kolkata,Series E,786.91,786910000.0
+2016,Startup_159,CleanTech,Noida,Pre-Seed,195.08,195080000.0
+2016,Startup_160,Mobility,Bengaluru,Series B,58.05,58050000.0
+2016,Startup_161,E-commerce,Mumbai,Seed,376.22,376220000.0
+2016,Startup_162,EdTech,Noida,Angel,159.34,159340000.0
+2016,Startup_163,AI,Chennai,Pre-Seed,284.75,284750000.0
+2016,Startup_164,AgriTech,Bengaluru,Private Equity,291.29,291290000.0
+2016,Startup_165,SpaceTech,Chennai,Seed,427.89,427890000.0
+2016,Startup_166,SpaceTech,Hyderabad,Seed,788.35,788350000.0
+2016,Startup_167,FoodTech,Mumbai,Angel,502.8,502800000.0
+2016,Startup_168,Gaming,Pune,Seed,720.49,720490000.0
+2016,Startup_169,Gaming,Delhi,Series D,527.99,527990000.0
+2016,Startup_170,Mobility,Mumbai,Series E,216.61,216610000.0
+2016,Startup_171,HealthTech,Mumbai,Angel,90.59,90590000.0
+2016,Startup_172,HealthTech,Bengaluru,Series F,183.46,183460000.0
+2016,Startup_173,FoodTech,Kolkata,Series A,585.26,585260000.0
+2016,Startup_174,SaaS,Pune,Seed,198.57,198570000.0
+2016,Startup_175,FoodTech,Noida,Series D,372.83,372830000.0
+2016,Startup_176,SaaS,Mumbai,Series C,51.35,51350000.0
+2016,Startup_177,FinTech,Pune,Angel,795.1,795100000.0
+2016,Startup_178,Mobility,Delhi,Series A,389.15,389150000.0
+2016,Startup_179,SpaceTech,Kolkata,Series E,25.59,25590000.0
+2016,Startup_180,SpaceTech,Mumbai,Series B,513.95,513950000.00000006
+2016,Startup_181,AgriTech,Delhi,Series C,425.88,425880000.0
+2016,Startup_182,E-commerce,Gurgaon,Series A,19.08,19080000.0
+2016,Startup_183,SpaceTech,Mumbai,Private Equity,542.01,542010000.0
+2016,Startup_184,EdTech,Noida,Angel,220.6,220600000.0
+2016,Startup_185,FoodTech,Gurgaon,Seed,534.55,534549999.99999994
+2016,Startup_186,E-commerce,Kolkata,Series D,599.77,599770000.0
+2016,Startup_187,EdTech,Chennai,Series E,207.32,207320000.0
+2016,Startup_188,CleanTech,Chennai,Pre-Seed,348.26,348260000.0
+2016,Startup_189,E-commerce,Chennai,Series F,261.88,261880000.0
+2016,Startup_190,EdTech,Hyderabad,Series C,727.58,727580000.0
+2016,Startup_191,Gaming,Chennai,Series A,242.97,242970000.0
+2016,Startup_192,FoodTech,Delhi,Angel,102.85,102850000.0
+2016,Startup_193,Gaming,Noida,Pre-Seed,511.62,511620000.0
+2016,Startup_194,CleanTech,Chennai,Private Equity,546.19,546190000.0
+2016,Startup_195,SaaS,Kolkata,Series A,736.71,736710000.0
+2016,Startup_196,CleanTech,Bengaluru,Series A,249.21,249210000.0
+2016,Startup_197,SaaS,Mumbai,Series F,108.11,108110000.0
+2016,Startup_198,EdTech,Kolkata,Series B,513.53,513530000.0
+2016,Startup_199,Mobility,Noida,Pre-Seed,525.03,525030000.0
+2016,Startup_200,Gaming,Hyderabad,Private Equity,448.78,448780000.0
+2016,Startup_201,SaaS,Delhi,Seed,164.98,164980000.0
+2016,Startup_202,AgriTech,Hyderabad,Series C,675.34,675340000.0
+2016,Startup_203,EdTech,Noida,Series A,453.68,453680000.0
+2016,Startup_204,AgriTech,Kolkata,Private Equity,542.49,542490000.0
+2016,Startup_205,AgriTech,Noida,Series B,564.48,564480000.0
+2016,Startup_206,E-commerce,Kolkata,Series D,701.13,701130000.0
+2016,Startup_207,AI,Bengaluru,Pre-Seed,139.27,139270000.0
+2016,Startup_208,AgriTech,Chennai,Angel,398.09,398090000.0
+2016,Startup_209,Gaming,Chennai,Series D,685.42,685420000.0
+2016,Startup_210,E-commerce,Delhi,Series A,76.25,76250000.0
+2016,Startup_211,FoodTech,Delhi,Series C,670.23,670230000.0
+2016,Startup_212,Gaming,Delhi,Series E,226.21,226210000.0
+2016,Startup_213,AI,Kolkata,Series C,708.06,708060000.0
+2016,Startup_214,FoodTech,Chennai,Series E,295.34,295340000.0
+2016,Startup_215,Mobility,Kolkata,Series C,582.57,582570000.0
+2016,Startup_216,E-commerce,Hyderabad,Series B,439.98,439980000.0
+2016,Startup_217,FinTech,Delhi,Series E,738.53,738530000.0
+2016,Startup_218,AI,Mumbai,Private Equity,195.15,195150000.0
+2016,Startup_219,SpaceTech,Delhi,Series A,457.25,457250000.0
+2016,Startup_220,Mobility,Bengaluru,Private Equity,275.04,275040000.0
+2017,Startup_1,HealthTech,Gurgaon,Pre-Seed,111.28,111280000.0
+2017,Startup_2,E-commerce,Gurgaon,Series C,743.89,743890000.0
+2017,Startup_3,AI,Kolkata,Series D,1.65,1650000.0
+2017,Startup_4,FoodTech,Hyderabad,Series C,606.91,606910000.0
+2017,Startup_5,SaaS,Delhi,Series C,644.25,644250000.0
+2017,Startup_6,SpaceTech,Kolkata,Series F,360.63,360630000.0
+2017,Startup_7,SaaS,Pune,Series D,424.04,424040000.0
+2017,Startup_8,AgriTech,Gurgaon,Angel,432.08,432080000.0
+2017,Startup_9,E-commerce,Noida,Seed,721.58,721580000.0
+2017,Startup_10,SpaceTech,Noida,Seed,479.78,479780000.0
+2017,Startup_11,AI,Pune,Series A,561.89,561890000.0
+2017,Startup_12,CleanTech,Pune,Series A,605.62,605620000.0
+2017,Startup_13,AI,Hyderabad,Pre-Seed,86.18,86180000.0
+2017,Startup_14,Mobility,Noida,Series E,313.39,313390000.0
+2017,Startup_15,AI,Chennai,Series B,491.51,491510000.0
+2017,Startup_16,SaaS,Delhi,Series E,602.22,602220000.0
+2017,Startup_17,Gaming,Kolkata,Seed,456.77,456770000.0
+2017,Startup_18,HealthTech,Gurgaon,Private Equity,172.2,172200000.0
+2017,Startup_19,EdTech,Mumbai,Seed,275.15,275150000.0
+2017,Startup_20,SpaceTech,Hyderabad,Pre-Seed,139.77,139770000.0
+2017,Startup_21,AgriTech,Noida,Seed,135.31,135310000.0
+2017,Startup_22,Mobility,Pune,Series A,516.54,516539999.99999994
+2017,Startup_23,HealthTech,Chennai,Series F,509.41,509410000.0
+2017,Startup_24,Mobility,Mumbai,Series F,19.97,19970000.0
+2017,Startup_25,CleanTech,Gurgaon,Series A,727.98,727980000.0
+2017,Startup_26,FoodTech,Noida,Series B,686.44,686440000.0
+2017,Startup_27,FoodTech,Bengaluru,Angel,57.9,57900000.0
+2017,Startup_28,Mobility,Bengaluru,Private Equity,316.05,316050000.0
+2017,Startup_29,SpaceTech,Chennai,Seed,267.67,267670000.00000003
+2017,Startup_30,HealthTech,Delhi,Series E,289.25,289250000.0
+2017,Startup_31,Mobility,Kolkata,Series F,106.24,106240000.0
+2017,Startup_32,EdTech,Kolkata,Series B,540.67,540670000.0
+2017,Startup_33,HealthTech,Pune,Private Equity,586.44,586440000.0
+2017,Startup_34,AI,Bengaluru,Seed,84.59,84590000.0
+2017,Startup_35,AI,Pune,Seed,374.24,374240000.0
+2017,Startup_36,EdTech,Pune,Series F,759.07,759070000.0
+2017,Startup_37,FoodTech,Pune,Pre-Seed,332.1,332100000.0
+2017,Startup_38,EdTech,Noida,Series A,285.67,285670000.0
+2017,Startup_39,Gaming,Hyderabad,Series F,472.37,472370000.0
+2017,Startup_40,FoodTech,Pune,Series E,72.72,72720000.0
+2017,Startup_41,SaaS,Gurgaon,Private Equity,641.56,641560000.0
+2017,Startup_42,Gaming,Kolkata,Series E,43.94,43940000.0
+2017,Startup_43,Mobility,Mumbai,Series E,379.78,379780000.0
+2017,Startup_44,Mobility,Chennai,Series D,725.75,725750000.0
+2017,Startup_45,Gaming,Gurgaon,Series F,162.0,162000000.0
+2017,Startup_46,AgriTech,Noida,Seed,168.39,168390000.0
+2017,Startup_47,FinTech,Pune,Series E,597.6,597600000.0
+2017,Startup_48,Mobility,Gurgaon,Series B,60.41,60410000.0
+2017,Startup_49,Mobility,Noida,Series D,6.0,6000000.0
+2017,Startup_50,HealthTech,Chennai,Series A,537.54,537540000.0
+2017,Startup_51,EdTech,Mumbai,Series F,46.81,46810000.0
+2017,Startup_52,Gaming,Chennai,Series A,638.68,638680000.0
+2017,Startup_53,SaaS,Gurgaon,Series D,333.15,333150000.0
+2017,Startup_54,HealthTech,Mumbai,Series F,32.31,32310000.000000004
+2017,Startup_55,E-commerce,Hyderabad,Series F,737.01,737010000.0
+2017,Startup_56,EdTech,Mumbai,Seed,564.03,564030000.0
+2017,Startup_57,FoodTech,Kolkata,Seed,46.95,46950000.0
+2017,Startup_58,CleanTech,Hyderabad,Series F,108.18,108180000.0
+2017,Startup_59,FoodTech,Noida,Series C,506.05,506050000.0
+2017,Startup_60,SaaS,Kolkata,Series D,355.46,355460000.0
+2017,Startup_61,Gaming,Mumbai,Series C,709.62,709620000.0
+2017,Startup_62,Gaming,Bengaluru,Pre-Seed,731.4,731400000.0
+2017,Startup_63,SaaS,Bengaluru,Series D,228.04,228040000.0
+2017,Startup_64,SaaS,Noida,Angel,229.83,229830000.0
+2017,Startup_65,SaaS,Chennai,Series A,557.07,557070000.0
+2017,Startup_66,E-commerce,Chennai,Pre-Seed,566.68,566680000.0
+2017,Startup_67,E-commerce,Noida,Series A,695.39,695390000.0
+2017,Startup_68,Gaming,Bengaluru,Angel,264.79,264790000.00000003
+2017,Startup_69,AgriTech,Chennai,Angel,92.91,92910000.0
+2017,Startup_70,HealthTech,Hyderabad,Series A,154.75,154750000.0
+2017,Startup_71,FinTech,Chennai,Series D,69.26,69260000.0
+2017,Startup_72,HealthTech,Gurgaon,Series E,63.14,63140000.0
+2017,Startup_73,SaaS,Noida,Series D,658.99,658990000.0
+2017,Startup_74,AgriTech,Mumbai,Private Equity,534.81,534809999.99999994
+2017,Startup_75,AgriTech,Hyderabad,Series F,158.21,158210000.0
+2017,Startup_76,E-commerce,Kolkata,Private Equity,288.9,288900000.0
+2017,Startup_77,SaaS,Bengaluru,Series E,143.03,143030000.0
+2017,Startup_78,SpaceTech,Kolkata,Series E,210.38,210380000.0
+2017,Startup_79,SaaS,Chennai,Angel,454.16,454160000.0
+2017,Startup_80,Gaming,Kolkata,Series C,601.03,601030000.0
+2017,Startup_81,Gaming,Delhi,Seed,573.48,573480000.0
+2017,Startup_82,AgriTech,Chennai,Pre-Seed,713.38,713380000.0
+2017,Startup_83,FoodTech,Chennai,Pre-Seed,793.4,793400000.0
+2017,Startup_84,SaaS,Pune,Series F,559.19,559190000.0
+2017,Startup_85,HealthTech,Bengaluru,Series F,505.27,505270000.0
+2017,Startup_86,AI,Noida,Private Equity,733.71,733710000.0
+2017,Startup_87,CleanTech,Noida,Pre-Seed,323.14,323140000.0
+2017,Startup_88,Mobility,Chennai,Series A,489.03,489030000.0
+2017,Startup_89,E-commerce,Pune,Series C,414.8,414800000.0
+2017,Startup_90,SaaS,Pune,Series C,752.64,752640000.0
+2017,Startup_91,HealthTech,Kolkata,Series A,92.04,92040000.0
+2017,Startup_92,E-commerce,Pune,Pre-Seed,163.28,163280000.0
+2017,Startup_93,FoodTech,Noida,Pre-Seed,686.72,686720000.0
+2017,Startup_94,E-commerce,Chennai,Series A,410.5,410500000.0
+2017,Startup_95,Mobility,Gurgaon,Series E,629.86,629860000.0
+2017,Startup_96,CleanTech,Chennai,Private Equity,196.3,196300000.0
+2017,Startup_97,Gaming,Pune,Series D,353.56,353560000.0
+2017,Startup_98,CleanTech,Gurgaon,Series E,140.65,140650000.0
+2017,Startup_99,FinTech,Chennai,Series C,349.48,349480000.0
+2017,Startup_100,Mobility,Kolkata,Pre-Seed,490.82,490820000.0
+2017,Startup_101,FinTech,Noida,Seed,587.55,587550000.0
+2017,Startup_102,Gaming,Hyderabad,Angel,785.43,785430000.0
+2017,Startup_103,FinTech,Noida,Private Equity,755.1,755100000.0
+2017,Startup_104,EdTech,Kolkata,Series B,456.88,456880000.0
+2017,Startup_105,Gaming,Gurgaon,Series E,258.15,258149999.99999997
+2017,Startup_106,E-commerce,Mumbai,Series D,388.4,388400000.0
+2017,Startup_107,SpaceTech,Pune,Series D,548.72,548720000.0
+2017,Startup_108,FoodTech,Noida,Angel,625.69,625690000.0
+2017,Startup_109,SaaS,Pune,Series B,282.01,282010000.0
+2017,Startup_110,FinTech,Bengaluru,Angel,328.49,328490000.0
+2017,Startup_111,EdTech,Chennai,Series D,565.48,565480000.0
+2017,Startup_112,E-commerce,Noida,Series C,365.53,365530000.0
+2017,Startup_113,EdTech,Kolkata,Series F,360.21,360210000.0
+2017,Startup_114,Gaming,Pune,Series E,151.24,151240000.0
+2017,Startup_115,CleanTech,Hyderabad,Series E,785.7,785700000.0
+2017,Startup_116,Gaming,Hyderabad,Series F,552.55,552550000.0
+2017,Startup_117,AgriTech,Kolkata,Series C,256.46,256459999.99999997
+2017,Startup_118,E-commerce,Kolkata,Series D,95.07,95070000.0
+2017,Startup_119,SpaceTech,Delhi,Series B,122.38,122380000.0
+2017,Startup_120,HealthTech,Hyderabad,Private Equity,504.63,504630000.0
+2017,Startup_121,AgriTech,Delhi,Series D,456.55,456550000.0
+2017,Startup_122,CleanTech,Chennai,Pre-Seed,777.64,777640000.0
+2017,Startup_123,E-commerce,Pune,Series D,224.14,224140000.0
+2017,Startup_124,CleanTech,Chennai,Private Equity,608.45,608450000.0
+2017,Startup_125,EdTech,Mumbai,Series D,128.49,128490000.00000001
+2017,Startup_126,SpaceTech,Bengaluru,Pre-Seed,137.2,137200000.0
+2017,Startup_127,AgriTech,Bengaluru,Series A,322.02,322020000.0
+2017,Startup_128,HealthTech,Noida,Seed,105.68,105680000.0
+2017,Startup_129,AI,Mumbai,Seed,194.55,194550000.0
+2017,Startup_130,E-commerce,Delhi,Pre-Seed,9.89,9890000.0
+2017,Startup_131,SpaceTech,Bengaluru,Series B,29.83,29830000.0
+2017,Startup_132,SaaS,Bengaluru,Series D,777.56,777560000.0
+2017,Startup_133,AgriTech,Pune,Series E,48.69,48690000.0
+2017,Startup_134,Mobility,Pune,Series F,670.42,670420000.0
+2017,Startup_135,EdTech,Mumbai,Series D,474.72,474720000.0
+2017,Startup_136,AgriTech,Pune,Angel,226.15,226150000.0
+2017,Startup_137,EdTech,Gurgaon,Series A,238.29,238290000.0
+2017,Startup_138,FinTech,Noida,Series D,670.31,670310000.0
+2017,Startup_139,E-commerce,Delhi,Series F,181.59,181590000.0
+2017,Startup_140,FinTech,Delhi,Seed,224.3,224300000.0
+2017,Startup_141,AgriTech,Kolkata,Series B,333.08,333080000.0
+2017,Startup_142,SpaceTech,Gurgaon,Pre-Seed,3.36,3360000.0
+2017,Startup_143,HealthTech,Kolkata,Seed,5.87,5870000.0
+2017,Startup_144,EdTech,Noida,Pre-Seed,185.61,185610000.0
+2017,Startup_145,SpaceTech,Kolkata,Angel,453.88,453880000.0
+2017,Startup_146,SaaS,Noida,Series B,59.45,59450000.0
+2017,Startup_147,CleanTech,Bengaluru,Seed,205.47,205470000.0
+2017,Startup_148,FinTech,Mumbai,Series A,171.81,171810000.0
+2017,Startup_149,FoodTech,Bengaluru,Series C,611.69,611690000.0
+2017,Startup_150,E-commerce,Pune,Series C,517.69,517690000.00000006
+2017,Startup_151,FinTech,Chennai,Pre-Seed,413.45,413450000.0
+2017,Startup_152,AI,Pune,Series A,641.31,641310000.0
+2017,Startup_153,SaaS,Delhi,Pre-Seed,226.23,226230000.0
+2017,Startup_154,AI,Noida,Angel,9.74,9740000.0
+2017,Startup_155,EdTech,Pune,Series D,195.53,195530000.0
+2017,Startup_156,AgriTech,Noida,Series D,754.83,754830000.0
+2017,Startup_157,FoodTech,Delhi,Series E,595.11,595110000.0
+2017,Startup_158,AgriTech,Noida,Series C,500.53,500530000.0
+2017,Startup_159,Gaming,Hyderabad,Series D,611.32,611320000.0
+2017,Startup_160,HealthTech,Gurgaon,Pre-Seed,539.19,539190000.0
+2017,Startup_161,E-commerce,Noida,Pre-Seed,286.72,286720000.0
+2017,Startup_162,CleanTech,Pune,Series D,192.32,192320000.0
+2017,Startup_163,Mobility,Pune,Seed,451.31,451310000.0
+2017,Startup_164,EdTech,Gurgaon,Series B,237.78,237780000.0
+2017,Startup_165,E-commerce,Delhi,Series F,267.77,267769999.99999997
+2017,Startup_166,E-commerce,Pune,Series A,683.83,683830000.0
+2017,Startup_167,Mobility,Pune,Pre-Seed,242.63,242630000.0
+2017,Startup_168,Gaming,Gurgaon,Series F,776.68,776680000.0
+2017,Startup_169,SpaceTech,Delhi,Seed,311.27,311270000.0
+2017,Startup_170,AI,Pune,Series A,528.96,528960000.00000006
+2017,Startup_171,CleanTech,Kolkata,Series E,180.94,180940000.0
+2017,Startup_172,FoodTech,Chennai,Series F,62.74,62740000.0
+2017,Startup_173,AgriTech,Chennai,Series B,179.44,179440000.0
+2017,Startup_174,CleanTech,Delhi,Series F,222.35,222350000.0
+2017,Startup_175,FinTech,Bengaluru,Series E,76.88,76880000.0
+2017,Startup_176,FoodTech,Gurgaon,Angel,175.86,175860000.0
+2017,Startup_177,Gaming,Kolkata,Series E,443.8,443800000.0
+2017,Startup_178,SpaceTech,Chennai,Pre-Seed,123.46,123460000.0
+2017,Startup_179,SaaS,Gurgaon,Seed,504.47,504470000.0
+2017,Startup_180,FinTech,Mumbai,Seed,171.06,171060000.0
+2017,Startup_181,FinTech,Hyderabad,Series E,757.95,757950000.0
+2017,Startup_182,FinTech,Noida,Seed,59.43,59430000.0
+2017,Startup_183,FinTech,Bengaluru,Series E,315.29,315290000.0
+2017,Startup_184,SaaS,Hyderabad,Series C,606.86,606860000.0
+2017,Startup_185,AI,Noida,Series E,280.7,280700000.0
+2017,Startup_186,FinTech,Gurgaon,Series E,238.89,238890000.0
+2017,Startup_187,E-commerce,Mumbai,Seed,458.65,458650000.0
+2017,Startup_188,SpaceTech,Kolkata,Series E,503.77,503770000.0
+2017,Startup_189,FinTech,Gurgaon,Series E,40.67,40670000.0
+2017,Startup_190,AI,Hyderabad,Seed,298.4,298400000.0
+2017,Startup_191,Gaming,Mumbai,Angel,540.57,540570000.0
+2017,Startup_192,SaaS,Gurgaon,Angel,2.77,2770000.0
+2017,Startup_193,HealthTech,Pune,Series A,596.85,596850000.0
+2017,Startup_194,AI,Kolkata,Series C,305.53,305530000.0
+2017,Startup_195,Mobility,Gurgaon,Series F,359.51,359510000.0
+2017,Startup_196,AgriTech,Pune,Series D,525.96,525960000.00000006
+2017,Startup_197,AgriTech,Gurgaon,Private Equity,38.78,38780000.0
+2017,Startup_198,E-commerce,Pune,Series D,657.84,657840000.0
+2017,Startup_199,E-commerce,Chennai,Series D,239.95,239950000.0
+2017,Startup_200,AgriTech,Delhi,Series A,17.57,17570000.0
+2017,Startup_201,FinTech,Delhi,Series F,306.02,306020000.0
+2017,Startup_202,Gaming,Chennai,Series A,676.64,676640000.0
+2017,Startup_203,FinTech,Mumbai,Seed,12.29,12290000.0
+2017,Startup_204,Gaming,Bengaluru,Pre-Seed,718.82,718820000.0
+2017,Startup_205,HealthTech,Delhi,Private Equity,85.52,85520000.0
+2017,Startup_206,SaaS,Pune,Series B,80.86,80860000.0
+2017,Startup_207,CleanTech,Chennai,Series A,74.62,74620000.0
+2017,Startup_208,FoodTech,Kolkata,Series C,400.23,400230000.0
+2017,Startup_209,FoodTech,Pune,Seed,261.43,261430000.0
+2017,Startup_210,SpaceTech,Pune,Pre-Seed,554.2,554200000.0
+2017,Startup_211,EdTech,Kolkata,Series D,756.98,756980000.0
+2017,Startup_212,SpaceTech,Hyderabad,Pre-Seed,754.78,754780000.0
+2017,Startup_213,SpaceTech,Bengaluru,Private Equity,139.31,139310000.0
+2017,Startup_214,SaaS,Mumbai,Series F,500.71,500710000.0
+2017,Startup_215,FinTech,Pune,Angel,433.96,433960000.0
+2017,Startup_216,Mobility,Delhi,Series D,553.51,553510000.0
+2017,Startup_217,HealthTech,Pune,Pre-Seed,213.68,213680000.0
+2017,Startup_218,Gaming,Delhi,Series B,346.08,346080000.0
+2017,Startup_219,FoodTech,Gurgaon,Pre-Seed,697.07,697070000.0
+2017,Startup_220,SpaceTech,Pune,Private Equity,451.8,451800000.0
+2018,Startup_1,AgriTech,Bengaluru,Series A,424.04,424040000.0
+2018,Startup_2,E-commerce,Delhi,Series F,769.0,769000000.0
+2018,Startup_3,HealthTech,Kolkata,Private Equity,60.26,60260000.0
+2018,Startup_4,AI,Bengaluru,Series B,578.7,578700000.0
+2018,Startup_5,SpaceTech,Delhi,Series C,774.37,774370000.0
+2018,Startup_6,Gaming,Delhi,Series F,760.86,760860000.0
+2018,Startup_7,AgriTech,Noida,Seed,697.3,697300000.0
+2018,Startup_8,E-commerce,Kolkata,Series A,401.4,401400000.0
+2018,Startup_9,SpaceTech,Chennai,Series F,269.04,269040000.0
+2018,Startup_10,Gaming,Noida,Angel,469.55,469550000.0
+2018,Startup_11,SpaceTech,Kolkata,Series E,77.36,77360000.0
+2018,Startup_12,FoodTech,Noida,Series F,51.64,51640000.0
+2018,Startup_13,AgriTech,Pune,Series A,131.39,131389999.99999999
+2018,Startup_14,EdTech,Gurgaon,Series A,630.23,630230000.0
+2018,Startup_15,SpaceTech,Gurgaon,Series C,522.59,522590000.00000006
+2018,Startup_16,AgriTech,Pune,Private Equity,680.95,680950000.0
+2018,Startup_17,SpaceTech,Noida,Series B,543.97,543970000.0
+2018,Startup_18,SpaceTech,Gurgaon,Seed,708.26,708260000.0
+2018,Startup_19,AgriTech,Kolkata,Series B,554.22,554220000.0
+2018,Startup_20,Mobility,Noida,Series B,512.53,512530000.0
+2018,Startup_21,HealthTech,Chennai,Series C,318.32,318320000.0
+2018,Startup_22,Mobility,Noida,Seed,82.95,82950000.0
+2018,Startup_23,HealthTech,Mumbai,Pre-Seed,623.21,623210000.0
+2018,Startup_24,SpaceTech,Bengaluru,Seed,788.05,788050000.0
+2018,Startup_25,E-commerce,Kolkata,Private Equity,559.63,559630000.0
+2018,Startup_26,E-commerce,Kolkata,Pre-Seed,795.79,795790000.0
+2018,Startup_27,EdTech,Delhi,Series A,676.76,676760000.0
+2018,Startup_28,CleanTech,Noida,Series B,567.0,567000000.0
+2018,Startup_29,FinTech,Delhi,Angel,383.4,383400000.0
+2018,Startup_30,CleanTech,Kolkata,Series A,552.76,552760000.0
+2018,Startup_31,Gaming,Delhi,Series C,431.23,431230000.0
+2018,Startup_32,Mobility,Noida,Series C,94.74,94740000.0
+2018,Startup_33,HealthTech,Pune,Series D,671.83,671830000.0
+2018,Startup_34,FoodTech,Delhi,Series F,795.99,795990000.0
+2018,Startup_35,AgriTech,Chennai,Private Equity,390.73,390730000.0
+2018,Startup_36,FoodTech,Noida,Private Equity,88.42,88420000.0
+2018,Startup_37,EdTech,Pune,Angel,159.93,159930000.0
+2018,Startup_38,AgriTech,Pune,Series F,519.94,519940000.00000006
+2018,Startup_39,E-commerce,Gurgaon,Series B,220.74,220740000.0
+2018,Startup_40,Gaming,Bengaluru,Seed,404.07,404070000.0
+2018,Startup_41,Mobility,Delhi,Series C,293.73,293730000.0
+2018,Startup_42,FoodTech,Noida,Seed,647.68,647680000.0
+2018,Startup_43,FoodTech,Kolkata,Series C,167.2,167200000.0
+2018,Startup_44,FoodTech,Kolkata,Angel,122.41,122410000.0
+2018,Startup_45,CleanTech,Pune,Pre-Seed,160.72,160720000.0
+2018,Startup_46,HealthTech,Noida,Series D,39.06,39060000.0
+2018,Startup_47,E-commerce,Kolkata,Series C,430.95,430950000.0
+2018,Startup_48,E-commerce,Mumbai,Series F,266.64,266640000.0
+2018,Startup_49,Mobility,Kolkata,Series E,227.51,227510000.0
+2018,Startup_50,AgriTech,Hyderabad,Series B,322.88,322880000.0
+2018,Startup_51,SpaceTech,Kolkata,Pre-Seed,273.84,273840000.0
+2018,Startup_52,AgriTech,Chennai,Series D,291.64,291640000.0
+2018,Startup_53,SpaceTech,Mumbai,Series A,346.9,346900000.0
+2018,Startup_54,FoodTech,Pune,Series A,605.91,605910000.0
+2018,Startup_55,SpaceTech,Gurgaon,Series E,572.08,572080000.0
+2018,Startup_56,Mobility,Chennai,Series C,149.67,149670000.0
+2018,Startup_57,EdTech,Chennai,Series C,383.4,383400000.0
+2018,Startup_58,FoodTech,Kolkata,Seed,117.42,117420000.0
+2018,Startup_59,Gaming,Pune,Seed,167.71,167710000.0
+2018,Startup_60,Mobility,Hyderabad,Series B,43.1,43100000.0
+2018,Startup_61,AgriTech,Hyderabad,Series D,256.28,256279999.99999997
+2018,Startup_62,E-commerce,Pune,Private Equity,114.42,114420000.0
+2018,Startup_63,EdTech,Hyderabad,Series D,700.08,700080000.0
+2018,Startup_64,HealthTech,Gurgaon,Pre-Seed,56.08,56080000.0
+2018,Startup_65,SaaS,Bengaluru,Series C,399.97,399970000.0
+2018,Startup_66,CleanTech,Pune,Series F,323.77,323770000.0
+2018,Startup_67,SpaceTech,Delhi,Series E,267.87,267870000.0
+2018,Startup_68,HealthTech,Delhi,Series D,416.28,416280000.0
+2018,Startup_69,HealthTech,Gurgaon,Series F,295.53,295530000.0
+2018,Startup_70,FinTech,Mumbai,Seed,368.65,368650000.0
+2018,Startup_71,SpaceTech,Noida,Series A,612.05,612050000.0
+2018,Startup_72,SaaS,Gurgaon,Series C,480.49,480490000.0
+2018,Startup_73,EdTech,Noida,Series A,380.19,380190000.0
+2018,Startup_74,AI,Pune,Series E,508.17,508170000.0
+2018,Startup_75,EdTech,Hyderabad,Series C,143.79,143790000.0
+2018,Startup_76,SaaS,Pune,Series D,673.51,673510000.0
+2018,Startup_77,Gaming,Pune,Series B,110.71,110710000.0
+2018,Startup_78,CleanTech,Pune,Series B,760.41,760410000.0
+2018,Startup_79,EdTech,Noida,Pre-Seed,739.25,739250000.0
+2018,Startup_80,E-commerce,Chennai,Series A,382.21,382210000.0
+2018,Startup_81,SaaS,Mumbai,Series D,266.34,266339999.99999997
+2018,Startup_82,E-commerce,Mumbai,Pre-Seed,741.24,741240000.0
+2018,Startup_83,FoodTech,Chennai,Pre-Seed,29.89,29890000.0
+2018,Startup_84,Gaming,Bengaluru,Series D,153.77,153770000.0
+2018,Startup_85,HealthTech,Delhi,Angel,215.56,215560000.0
+2018,Startup_86,Mobility,Delhi,Private Equity,407.3,407300000.0
+2018,Startup_87,SpaceTech,Pune,Angel,5.92,5920000.0
+2018,Startup_88,CleanTech,Delhi,Series A,606.53,606530000.0
+2018,Startup_89,Mobility,Chennai,Angel,3.32,3320000.0
+2018,Startup_90,HealthTech,Gurgaon,Series A,756.15,756150000.0
+2018,Startup_91,AgriTech,Mumbai,Private Equity,536.77,536770000.0
+2018,Startup_92,AgriTech,Chennai,Series A,637.86,637860000.0
+2018,Startup_93,SaaS,Chennai,Seed,452.61,452610000.0
+2018,Startup_94,CleanTech,Noida,Pre-Seed,275.65,275650000.0
+2018,Startup_95,SaaS,Kolkata,Series F,308.81,308810000.0
+2018,Startup_96,FinTech,Noida,Pre-Seed,777.83,777830000.0
+2018,Startup_97,FinTech,Hyderabad,Series D,780.02,780020000.0
+2018,Startup_98,AgriTech,Mumbai,Series E,124.77,124770000.0
+2018,Startup_99,E-commerce,Hyderabad,Series A,549.3,549300000.0
+2018,Startup_100,SaaS,Mumbai,Pre-Seed,141.08,141080000.0
+2018,Startup_101,EdTech,Delhi,Series D,734.56,734560000.0
+2018,Startup_102,SpaceTech,Pune,Angel,608.46,608460000.0
+2018,Startup_103,FinTech,Delhi,Series E,750.34,750340000.0
+2018,Startup_104,SaaS,Pune,Series F,54.7,54700000.0
+2018,Startup_105,AgriTech,Noida,Seed,55.98,55980000.0
+2018,Startup_106,CleanTech,Bengaluru,Pre-Seed,626.48,626480000.0
+2018,Startup_107,Gaming,Noida,Angel,596.55,596550000.0
+2018,Startup_108,FoodTech,Bengaluru,Series E,756.73,756730000.0
+2018,Startup_109,AI,Noida,Series E,391.12,391120000.0
+2018,Startup_110,E-commerce,Noida,Series F,404.01,404010000.0
+2018,Startup_111,AgriTech,Hyderabad,Series D,764.03,764030000.0
+2018,Startup_112,SpaceTech,Gurgaon,Angel,253.04,253040000.0
+2018,Startup_113,SaaS,Bengaluru,Pre-Seed,691.35,691350000.0
+2018,Startup_114,E-commerce,Gurgaon,Series D,543.09,543090000.0
+2018,Startup_115,EdTech,Kolkata,Pre-Seed,86.48,86480000.0
+2018,Startup_116,FoodTech,Gurgaon,Series D,562.79,562790000.0
+2018,Startup_117,E-commerce,Mumbai,Series C,225.56,225560000.0
+2018,Startup_118,FoodTech,Mumbai,Series B,663.68,663680000.0
+2018,Startup_119,HealthTech,Bengaluru,Series A,711.0,711000000.0
+2018,Startup_120,Gaming,Chennai,Series B,110.28,110280000.0
+2018,Startup_121,CleanTech,Hyderabad,Angel,630.6,630600000.0
+2018,Startup_122,Mobility,Bengaluru,Seed,750.24,750240000.0
+2018,Startup_123,Gaming,Pune,Private Equity,260.58,260579999.99999997
+2018,Startup_124,AI,Mumbai,Series D,166.97,166970000.0
+2018,Startup_125,FinTech,Chennai,Series A,655.53,655530000.0
+2018,Startup_126,SaaS,Gurgaon,Series D,279.14,279140000.0
+2018,Startup_127,FoodTech,Hyderabad,Pre-Seed,33.45,33450000.000000004
+2018,Startup_128,AgriTech,Gurgaon,Private Equity,292.44,292440000.0
+2018,Startup_129,SaaS,Chennai,Series D,507.2,507200000.0
+2018,Startup_130,Mobility,Bengaluru,Pre-Seed,230.52,230520000.0
+2018,Startup_131,HealthTech,Chennai,Series C,186.06,186060000.0
+2018,Startup_132,HealthTech,Bengaluru,Angel,394.72,394720000.0
+2018,Startup_133,HealthTech,Bengaluru,Series E,696.8,696800000.0
+2018,Startup_134,AgriTech,Pune,Series A,322.67,322670000.0
+2018,Startup_135,E-commerce,Mumbai,Angel,332.78,332780000.0
+2018,Startup_136,AgriTech,Chennai,Series A,23.54,23540000.0
+2018,Startup_137,SaaS,Hyderabad,Seed,258.68,258680000.0
+2018,Startup_138,SpaceTech,Chennai,Series F,799.04,799040000.0
+2018,Startup_139,AgriTech,Gurgaon,Series E,426.58,426580000.0
+2018,Startup_140,SpaceTech,Pune,Series C,563.69,563690000.0
+2018,Startup_141,E-commerce,Bengaluru,Series E,444.89,444890000.0
+2018,Startup_142,CleanTech,Mumbai,Series D,550.56,550560000.0
+2018,Startup_143,FinTech,Gurgaon,Angel,722.65,722650000.0
+2018,Startup_144,CleanTech,Bengaluru,Angel,485.79,485790000.0
+2018,Startup_145,SaaS,Bengaluru,Series F,20.83,20830000.0
+2018,Startup_146,AI,Hyderabad,Series E,433.71,433710000.0
+2018,Startup_147,FoodTech,Kolkata,Series A,324.4,324400000.0
+2018,Startup_148,AgriTech,Hyderabad,Pre-Seed,541.14,541140000.0
+2018,Startup_149,Gaming,Kolkata,Series C,509.65,509650000.0
+2018,Startup_150,AI,Hyderabad,Series E,520.66,520659999.99999994
+2018,Startup_151,FoodTech,Pune,Series A,693.25,693250000.0
+2018,Startup_152,FoodTech,Delhi,Pre-Seed,549.55,549550000.0
+2018,Startup_153,SpaceTech,Bengaluru,Pre-Seed,360.16,360160000.0
+2018,Startup_154,FinTech,Mumbai,Seed,317.1,317100000.0
+2018,Startup_155,E-commerce,Noida,Seed,240.91,240910000.0
+2018,Startup_156,CleanTech,Mumbai,Seed,208.71,208710000.0
+2018,Startup_157,E-commerce,Hyderabad,Series A,447.44,447440000.0
+2018,Startup_158,SpaceTech,Mumbai,Series C,172.26,172260000.0
+2018,Startup_159,AI,Kolkata,Angel,459.8,459800000.0
+2018,Startup_160,SaaS,Pune,Private Equity,718.98,718980000.0
+2018,Startup_161,CleanTech,Bengaluru,Series C,315.98,315980000.0
+2018,Startup_162,FoodTech,Chennai,Pre-Seed,97.02,97020000.0
+2018,Startup_163,FinTech,Chennai,Series C,137.31,137310000.0
+2018,Startup_164,AgriTech,Delhi,Series B,242.74,242740000.0
+2018,Startup_165,FoodTech,Gurgaon,Series E,138.08,138080000.0
+2018,Startup_166,SpaceTech,Hyderabad,Seed,217.53,217530000.0
+2018,Startup_167,FinTech,Gurgaon,Pre-Seed,456.16,456160000.0
+2018,Startup_168,FoodTech,Kolkata,Series E,317.94,317940000.0
+2018,Startup_169,AgriTech,Chennai,Series A,347.07,347070000.0
+2018,Startup_170,FinTech,Gurgaon,Seed,268.43,268430000.0
+2018,Startup_171,Mobility,Pune,Series D,623.71,623710000.0
+2018,Startup_172,HealthTech,Noida,Series F,725.68,725680000.0
+2018,Startup_173,Mobility,Kolkata,Series F,690.74,690740000.0
+2018,Startup_174,EdTech,Noida,Angel,57.52,57520000.0
+2018,Startup_175,FoodTech,Kolkata,Series D,143.29,143290000.0
+2018,Startup_176,AI,Mumbai,Private Equity,135.09,135090000.0
+2018,Startup_177,Mobility,Kolkata,Series D,430.45,430450000.0
+2018,Startup_178,EdTech,Noida,Series B,437.73,437730000.0
+2018,Startup_179,SpaceTech,Bengaluru,Series D,723.48,723480000.0
+2018,Startup_180,SpaceTech,Delhi,Seed,234.3,234300000.0
+2018,Startup_181,CleanTech,Kolkata,Series B,103.51,103510000.0
+2018,Startup_182,Mobility,Gurgaon,Series B,468.18,468180000.0
+2018,Startup_183,FinTech,Mumbai,Private Equity,698.43,698430000.0
+2018,Startup_184,CleanTech,Delhi,Series B,695.34,695340000.0
+2018,Startup_185,HealthTech,Noida,Series B,350.28,350280000.0
+2018,Startup_186,FoodTech,Hyderabad,Series B,470.47,470470000.0
+2018,Startup_187,FinTech,Gurgaon,Series F,586.12,586120000.0
+2018,Startup_188,FoodTech,Kolkata,Series C,301.91,301910000.0
+2018,Startup_189,CleanTech,Noida,Series B,491.75,491750000.0
+2018,Startup_190,Gaming,Kolkata,Series A,737.55,737550000.0
+2018,Startup_191,Mobility,Noida,Series C,444.01,444010000.0
+2018,Startup_192,SaaS,Pune,Seed,669.66,669660000.0
+2018,Startup_193,Mobility,Delhi,Private Equity,748.04,748040000.0
+2018,Startup_194,AI,Delhi,Pre-Seed,643.4,643400000.0
+2018,Startup_195,AgriTech,Noida,Pre-Seed,309.97,309970000.0
+2018,Startup_196,Gaming,Gurgaon,Series D,595.24,595240000.0
+2018,Startup_197,FoodTech,Noida,Private Equity,268.59,268590000.0
+2018,Startup_198,SaaS,Chennai,Private Equity,776.2,776200000.0
+2018,Startup_199,AgriTech,Chennai,Pre-Seed,470.79,470790000.0
+2018,Startup_200,AgriTech,Bengaluru,Series B,166.23,166230000.0
+2018,Startup_201,EdTech,Noida,Seed,293.46,293460000.0
+2018,Startup_202,AgriTech,Kolkata,Series A,205.81,205810000.0
+2018,Startup_203,FoodTech,Mumbai,Pre-Seed,35.63,35630000.0
+2018,Startup_204,FinTech,Bengaluru,Series A,474.13,474130000.0
+2018,Startup_205,CleanTech,Noida,Pre-Seed,638.06,638060000.0
+2018,Startup_206,EdTech,Gurgaon,Angel,186.95,186950000.0
+2018,Startup_207,AgriTech,Hyderabad,Angel,247.34,247340000.0
+2018,Startup_208,SpaceTech,Gurgaon,Private Equity,444.02,444020000.0
+2018,Startup_209,FinTech,Hyderabad,Private Equity,159.99,159990000.0
+2018,Startup_210,CleanTech,Hyderabad,Series D,764.48,764480000.0
+2018,Startup_211,HealthTech,Bengaluru,Private Equity,95.3,95300000.0
+2018,Startup_212,E-commerce,Kolkata,Series F,733.68,733680000.0
+2018,Startup_213,Mobility,Chennai,Private Equity,354.75,354750000.0
+2018,Startup_214,E-commerce,Chennai,Series C,247.67,247670000.0
+2018,Startup_215,FoodTech,Chennai,Series F,157.97,157970000.0
+2018,Startup_216,E-commerce,Kolkata,Series A,236.31,236310000.0
+2018,Startup_217,SaaS,Kolkata,Private Equity,568.08,568080000.0
+2018,Startup_218,AI,Delhi,Series F,29.09,29090000.0
+2018,Startup_219,E-commerce,Bengaluru,Series C,392.43,392430000.0
+2018,Startup_220,SpaceTech,Mumbai,Series B,57.67,57670000.0
+2019,Startup_1,EdTech,Bengaluru,Series F,137.44,137440000.0
+2019,Startup_2,Mobility,Mumbai,Series B,709.42,709420000.0
+2019,Startup_3,AI,Pune,Pre-Seed,150.91,150910000.0
+2019,Startup_4,FinTech,Pune,Series C,197.19,197190000.0
+2019,Startup_5,FinTech,Hyderabad,Series C,464.74,464740000.0
+2019,Startup_6,CleanTech,Bengaluru,Series D,701.79,701790000.0
+2019,Startup_7,Gaming,Hyderabad,Pre-Seed,147.04,147040000.0
+2019,Startup_8,E-commerce,Mumbai,Series D,471.04,471040000.0
+2019,Startup_9,FinTech,Bengaluru,Series B,627.15,627150000.0
+2019,Startup_10,Gaming,Delhi,Series B,81.36,81360000.0
+2019,Startup_11,SaaS,Gurgaon,Series C,372.96,372960000.0
+2019,Startup_12,Mobility,Chennai,Series F,44.58,44580000.0
+2019,Startup_13,CleanTech,Mumbai,Seed,656.32,656320000.0
+2019,Startup_14,Gaming,Mumbai,Series A,716.2,716200000.0
+2019,Startup_15,HealthTech,Delhi,Series C,122.13,122130000.0
+2019,Startup_16,AI,Chennai,Private Equity,696.35,696350000.0
+2019,Startup_17,HealthTech,Kolkata,Series B,481.0,481000000.0
+2019,Startup_18,FinTech,Mumbai,Series A,196.43,196430000.0
+2019,Startup_19,AgriTech,Delhi,Angel,184.65,184650000.0
+2019,Startup_20,Gaming,Noida,Series A,638.18,638180000.0
+2019,Startup_21,AI,Noida,Series F,497.68,497680000.0
+2019,Startup_22,E-commerce,Noida,Series F,263.55,263550000.0
+2019,Startup_23,AI,Noida,Angel,373.58,373580000.0
+2019,Startup_24,SpaceTech,Bengaluru,Series E,257.21,257209999.99999997
+2019,Startup_25,CleanTech,Kolkata,Series E,162.38,162380000.0
+2019,Startup_26,SaaS,Noida,Private Equity,790.55,790550000.0
+2019,Startup_27,Mobility,Pune,Private Equity,422.99,422990000.0
+2019,Startup_28,SaaS,Bengaluru,Series F,749.93,749930000.0
+2019,Startup_29,AI,Delhi,Seed,351.8,351800000.0
+2019,Startup_30,HealthTech,Gurgaon,Series D,433.23,433230000.0
+2019,Startup_31,HealthTech,Bengaluru,Series D,289.75,289750000.0
+2019,Startup_32,HealthTech,Kolkata,Angel,133.84,133840000.0
+2019,Startup_33,FinTech,Gurgaon,Series D,359.45,359450000.0
+2019,Startup_34,Gaming,Pune,Series A,345.19,345190000.0
+2019,Startup_35,AI,Noida,Series C,15.95,15950000.0
+2019,Startup_36,HealthTech,Chennai,Private Equity,388.11,388110000.0
+2019,Startup_37,SaaS,Chennai,Series A,651.78,651780000.0
+2019,Startup_38,HealthTech,Pune,Private Equity,621.31,621310000.0
+2019,Startup_39,SaaS,Mumbai,Series D,589.76,589760000.0
+2019,Startup_40,HealthTech,Chennai,Pre-Seed,617.58,617580000.0
+2019,Startup_41,FinTech,Kolkata,Series C,787.97,787970000.0
+2019,Startup_42,SaaS,Hyderabad,Series A,491.96,491960000.0
+2019,Startup_43,AgriTech,Chennai,Angel,504.67,504670000.0
+2019,Startup_44,HealthTech,Chennai,Private Equity,613.4,613400000.0
+2019,Startup_45,HealthTech,Chennai,Series E,616.92,616920000.0
+2019,Startup_46,CleanTech,Pune,Series F,571.98,571980000.0
+2019,Startup_47,E-commerce,Mumbai,Seed,677.77,677770000.0
+2019,Startup_48,SpaceTech,Gurgaon,Seed,125.28,125280000.0
+2019,Startup_49,Mobility,Hyderabad,Series B,586.53,586530000.0
+2019,Startup_50,Mobility,Chennai,Series E,133.05,133050000.00000001
+2019,Startup_51,Mobility,Bengaluru,Series C,353.19,353190000.0
+2019,Startup_52,AI,Pune,Series D,165.54,165540000.0
+2019,Startup_53,AI,Delhi,Private Equity,34.05,34050000.0
+2019,Startup_54,CleanTech,Noida,Pre-Seed,251.09,251090000.0
+2019,Startup_55,FinTech,Gurgaon,Series F,295.63,295630000.0
+2019,Startup_56,EdTech,Gurgaon,Series F,775.28,775280000.0
+2019,Startup_57,Mobility,Pune,Pre-Seed,525.26,525260000.0
+2019,Startup_58,SpaceTech,Chennai,Series F,689.26,689260000.0
+2019,Startup_59,SaaS,Hyderabad,Private Equity,237.55,237550000.0
+2019,Startup_60,HealthTech,Hyderabad,Series D,274.58,274580000.0
+2019,Startup_61,FinTech,Kolkata,Series C,494.55,494550000.0
+2019,Startup_62,SpaceTech,Kolkata,Angel,13.97,13970000.0
+2019,Startup_63,AgriTech,Chennai,Series F,631.61,631610000.0
+2019,Startup_64,E-commerce,Kolkata,Seed,293.29,293290000.0
+2019,Startup_65,CleanTech,Kolkata,Series D,684.25,684250000.0
+2019,Startup_66,CleanTech,Gurgaon,Pre-Seed,557.61,557610000.0
+2019,Startup_67,E-commerce,Pune,Series D,557.89,557890000.0
+2019,Startup_68,EdTech,Noida,Series B,89.71,89710000.0
+2019,Startup_69,E-commerce,Gurgaon,Series A,329.76,329760000.0
+2019,Startup_70,FoodTech,Noida,Angel,72.34,72340000.0
+2019,Startup_71,SpaceTech,Noida,Series C,130.1,130100000.0
+2019,Startup_72,AI,Delhi,Series E,58.61,58610000.0
+2019,Startup_73,Mobility,Hyderabad,Private Equity,2.56,2560000.0
+2019,Startup_74,AI,Gurgaon,Seed,328.0,328000000.0
+2019,Startup_75,FoodTech,Delhi,Series E,218.96,218960000.0
+2019,Startup_76,AI,Bengaluru,Series D,221.85,221850000.0
+2019,Startup_77,FinTech,Mumbai,Series A,780.47,780470000.0
+2019,Startup_78,Mobility,Pune,Series E,462.15,462150000.0
+2019,Startup_79,FoodTech,Mumbai,Seed,444.33,444330000.0
+2019,Startup_80,CleanTech,Mumbai,Pre-Seed,350.39,350390000.0
+2019,Startup_81,FinTech,Noida,Private Equity,431.04,431040000.0
+2019,Startup_82,HealthTech,Mumbai,Series A,607.47,607470000.0
+2019,Startup_83,FinTech,Gurgaon,Series D,496.49,496490000.0
+2019,Startup_84,E-commerce,Noida,Pre-Seed,558.1,558100000.0
+2019,Startup_85,FoodTech,Pune,Series C,133.4,133400000.0
+2019,Startup_86,Mobility,Delhi,Series A,245.02,245020000.0
+2019,Startup_87,HealthTech,Hyderabad,Private Equity,125.0,125000000.0
+2019,Startup_88,E-commerce,Hyderabad,Series B,616.51,616510000.0
+2019,Startup_89,Gaming,Gurgaon,Series B,138.1,138100000.0
+2019,Startup_90,FinTech,Pune,Pre-Seed,364.38,364380000.0
+2019,Startup_91,Gaming,Chennai,Series D,379.62,379620000.0
+2019,Startup_92,SpaceTech,Hyderabad,Pre-Seed,708.48,708480000.0
+2019,Startup_93,FinTech,Mumbai,Seed,723.1,723100000.0
+2019,Startup_94,EdTech,Bengaluru,Angel,325.7,325700000.0
+2019,Startup_95,E-commerce,Kolkata,Series E,767.75,767750000.0
+2019,Startup_96,SaaS,Kolkata,Series A,369.57,369570000.0
+2019,Startup_97,EdTech,Gurgaon,Series E,65.28,65280000.0
+2019,Startup_98,FinTech,Gurgaon,Series D,382.83,382830000.0
+2019,Startup_99,EdTech,Hyderabad,Pre-Seed,410.93,410930000.0
+2019,Startup_100,E-commerce,Pune,Series D,629.06,629060000.0
+2019,Startup_101,SaaS,Kolkata,Series A,191.43,191430000.0
+2019,Startup_102,CleanTech,Chennai,Angel,58.34,58340000.0
+2019,Startup_103,AI,Bengaluru,Pre-Seed,167.42,167420000.0
+2019,Startup_104,AgriTech,Kolkata,Pre-Seed,67.15,67150000.0
+2019,Startup_105,CleanTech,Delhi,Series C,592.13,592130000.0
+2019,Startup_106,CleanTech,Kolkata,Series A,351.38,351380000.0
+2019,Startup_107,AI,Noida,Series E,692.91,692910000.0
+2019,Startup_108,HealthTech,Kolkata,Seed,641.11,641110000.0
+2019,Startup_109,AgriTech,Chennai,Seed,612.6,612600000.0
+2019,Startup_110,FoodTech,Kolkata,Series F,486.48,486480000.0
+2019,Startup_111,E-commerce,Hyderabad,Series C,483.75,483750000.0
+2019,Startup_112,SpaceTech,Chennai,Series B,168.11,168110000.0
+2019,Startup_113,HealthTech,Bengaluru,Series F,314.43,314430000.0
+2019,Startup_114,EdTech,Delhi,Series B,436.42,436420000.0
+2019,Startup_115,HealthTech,Pune,Series F,189.4,189400000.0
+2019,Startup_116,SaaS,Hyderabad,Series A,222.97,222970000.0
+2019,Startup_117,EdTech,Pune,Series A,620.1,620100000.0
+2019,Startup_118,EdTech,Noida,Private Equity,546.26,546260000.0
+2019,Startup_119,SpaceTech,Bengaluru,Angel,436.93,436930000.0
+2019,Startup_120,FinTech,Pune,Series B,640.95,640950000.0
+2019,Startup_121,CleanTech,Kolkata,Series F,621.69,621690000.0
+2019,Startup_122,HealthTech,Kolkata,Series E,115.93,115930000.0
+2019,Startup_123,FoodTech,Kolkata,Private Equity,656.25,656250000.0
+2019,Startup_124,AgriTech,Mumbai,Private Equity,239.13,239130000.0
+2019,Startup_125,AgriTech,Mumbai,Series A,533.0,533000000.0
+2019,Startup_126,FinTech,Gurgaon,Series C,104.67,104670000.0
+2019,Startup_127,SpaceTech,Kolkata,Seed,629.16,629160000.0
+2019,Startup_128,HealthTech,Chennai,Series F,439.85,439850000.0
+2019,Startup_129,E-commerce,Gurgaon,Private Equity,751.26,751260000.0
+2019,Startup_130,Gaming,Mumbai,Seed,268.82,268820000.0
+2019,Startup_131,FoodTech,Delhi,Angel,393.11,393110000.0
+2019,Startup_132,Gaming,Noida,Angel,128.8,128800000.00000001
+2019,Startup_133,FoodTech,Pune,Private Equity,14.2,14200000.0
+2019,Startup_134,E-commerce,Mumbai,Series D,631.34,631340000.0
+2019,Startup_135,FoodTech,Bengaluru,Series C,416.78,416780000.0
+2019,Startup_136,CleanTech,Delhi,Series A,114.92,114920000.0
+2019,Startup_137,CleanTech,Pune,Series B,775.04,775040000.0
+2019,Startup_138,AgriTech,Hyderabad,Series D,254.71,254710000.0
+2019,Startup_139,FoodTech,Hyderabad,Angel,156.57,156570000.0
+2019,Startup_140,HealthTech,Bengaluru,Series E,574.68,574680000.0
+2019,Startup_141,FoodTech,Delhi,Series C,555.73,555730000.0
+2019,Startup_142,SpaceTech,Hyderabad,Private Equity,459.69,459690000.0
+2019,Startup_143,SaaS,Bengaluru,Private Equity,0.82,820000.0
+2019,Startup_144,FinTech,Noida,Series F,668.8,668800000.0
+2019,Startup_145,FoodTech,Delhi,Private Equity,271.42,271420000.0
+2019,Startup_146,HealthTech,Delhi,Series E,682.28,682280000.0
+2019,Startup_147,SpaceTech,Pune,Series D,643.23,643230000.0
+2019,Startup_148,FinTech,Noida,Series B,639.87,639870000.0
+2019,Startup_149,Mobility,Bengaluru,Angel,412.39,412390000.0
+2019,Startup_150,AgriTech,Kolkata,Series A,568.62,568620000.0
+2019,Startup_151,SpaceTech,Bengaluru,Angel,233.02,233020000.0
+2019,Startup_152,AI,Noida,Series E,313.83,313830000.0
+2019,Startup_153,HealthTech,Bengaluru,Series A,401.45,401450000.0
+2019,Startup_154,Mobility,Hyderabad,Seed,129.52,129520000.00000001
+2019,Startup_155,HealthTech,Mumbai,Series C,588.57,588570000.0
+2019,Startup_156,Gaming,Pune,Series F,375.08,375080000.0
+2019,Startup_157,CleanTech,Hyderabad,Series F,289.78,289780000.0
+2019,Startup_158,FinTech,Chennai,Angel,68.92,68920000.0
+2019,Startup_159,FoodTech,Bengaluru,Pre-Seed,198.1,198100000.0
+2019,Startup_160,Mobility,Chennai,Angel,303.34,303340000.0
+2019,Startup_161,CleanTech,Chennai,Private Equity,699.74,699740000.0
+2019,Startup_162,SpaceTech,Chennai,Series D,48.36,48360000.0
+2019,Startup_163,CleanTech,Chennai,Series A,743.47,743470000.0
+2019,Startup_164,SaaS,Hyderabad,Series C,739.2,739200000.0
+2019,Startup_165,AgriTech,Kolkata,Seed,68.91,68910000.0
+2019,Startup_166,FoodTech,Mumbai,Series F,144.43,144430000.0
+2019,Startup_167,Gaming,Hyderabad,Series C,725.46,725460000.0
+2019,Startup_168,HealthTech,Gurgaon,Series C,629.0,629000000.0
+2019,Startup_169,FinTech,Hyderabad,Series A,690.86,690860000.0
+2019,Startup_170,SaaS,Pune,Series B,29.28,29280000.0
+2019,Startup_171,Gaming,Mumbai,Series E,155.55,155550000.0
+2019,Startup_172,HealthTech,Kolkata,Series C,80.4,80400000.0
+2019,Startup_173,SaaS,Hyderabad,Series D,4.89,4890000.0
+2019,Startup_174,Mobility,Gurgaon,Series E,149.09,149090000.0
+2019,Startup_175,CleanTech,Gurgaon,Series E,716.96,716960000.0
+2019,Startup_176,E-commerce,Bengaluru,Series A,376.64,376640000.0
+2019,Startup_177,HealthTech,Hyderabad,Series C,15.21,15210000.0
+2019,Startup_178,Mobility,Hyderabad,Series C,566.92,566920000.0
+2019,Startup_179,SpaceTech,Mumbai,Series F,367.95,367950000.0
+2019,Startup_180,HealthTech,Kolkata,Series D,782.12,782120000.0
+2019,Startup_181,FinTech,Mumbai,Private Equity,47.34,47340000.0
+2019,Startup_182,AgriTech,Gurgaon,Series F,781.88,781880000.0
+2019,Startup_183,EdTech,Delhi,Series D,200.15,200150000.0
+2019,Startup_184,FoodTech,Bengaluru,Series B,665.09,665090000.0
+2019,Startup_185,SpaceTech,Noida,Private Equity,198.29,198290000.0
+2019,Startup_186,HealthTech,Kolkata,Angel,643.53,643530000.0
+2019,Startup_187,HealthTech,Bengaluru,Angel,632.45,632450000.0
+2019,Startup_188,AgriTech,Chennai,Series A,395.59,395590000.0
+2019,Startup_189,CleanTech,Pune,Series A,72.47,72470000.0
+2019,Startup_190,HealthTech,Kolkata,Private Equity,501.16,501160000.0
+2019,Startup_191,Mobility,Hyderabad,Series A,257.89,257890000.0
+2019,Startup_192,AI,Mumbai,Series C,525.87,525870000.0
+2019,Startup_193,CleanTech,Mumbai,Series E,303.61,303610000.0
+2019,Startup_194,AI,Kolkata,Series C,264.27,264269999.99999997
+2019,Startup_195,AgriTech,Mumbai,Series B,428.77,428770000.0
+2019,Startup_196,Mobility,Kolkata,Series D,645.61,645610000.0
+2019,Startup_197,FinTech,Gurgaon,Pre-Seed,720.52,720520000.0
+2019,Startup_198,AI,Delhi,Seed,144.8,144800000.0
+2019,Startup_199,AgriTech,Pune,Series E,159.27,159270000.0
+2019,Startup_200,Mobility,Mumbai,Angel,464.12,464120000.0
+2019,Startup_201,EdTech,Bengaluru,Private Equity,198.32,198320000.0
+2019,Startup_202,SaaS,Gurgaon,Series B,646.24,646240000.0
+2019,Startup_203,HealthTech,Delhi,Series B,717.21,717210000.0
+2019,Startup_204,SpaceTech,Pune,Series C,271.44,271440000.0
+2019,Startup_205,SaaS,Bengaluru,Seed,613.39,613390000.0
+2019,Startup_206,AI,Chennai,Series F,465.52,465520000.0
+2019,Startup_207,SaaS,Delhi,Series A,132.98,132979999.99999999
+2019,Startup_208,SaaS,Delhi,Series F,245.68,245680000.0
+2019,Startup_209,AI,Bengaluru,Series C,779.99,779990000.0
+2019,Startup_210,HealthTech,Bengaluru,Seed,378.02,378020000.0
+2019,Startup_211,SpaceTech,Pune,Pre-Seed,405.78,405780000.0
+2019,Startup_212,AI,Noida,Series B,754.59,754590000.0
+2019,Startup_213,Mobility,Gurgaon,Series A,492.81,492810000.0
+2019,Startup_214,AI,Gurgaon,Series A,188.33,188330000.0
+2019,Startup_215,SaaS,Noida,Series A,386.81,386810000.0
+2019,Startup_216,CleanTech,Mumbai,Series D,720.17,720170000.0
+2019,Startup_217,AgriTech,Noida,Private Equity,346.86,346860000.0
+2019,Startup_218,SaaS,Gurgaon,Series C,315.67,315670000.0
+2019,Startup_219,SaaS,Chennai,Seed,593.24,593240000.0
+2019,Startup_220,FoodTech,Mumbai,Pre-Seed,378.13,378130000.0
+2020,Startup_1,EdTech,Mumbai,Angel,772.3,772300000.0
+2020,Startup_2,FoodTech,Mumbai,Series E,245.11,245110000.0
+2020,Startup_3,E-commerce,Noida,Series C,772.04,772040000.0
+2020,Startup_4,AgriTech,Bengaluru,Pre-Seed,263.92,263920000.00000003
+2020,Startup_5,Gaming,Chennai,Series C,249.91,249910000.0
+2020,Startup_6,FoodTech,Delhi,Series C,367.9,367900000.0
+2020,Startup_7,EdTech,Bengaluru,Series C,373.74,373740000.0
+2020,Startup_8,FoodTech,Bengaluru,Private Equity,656.0,656000000.0
+2020,Startup_9,FoodTech,Kolkata,Series F,470.97,470970000.0
+2020,Startup_10,HealthTech,Gurgaon,Seed,555.41,555410000.0
+2020,Startup_11,CleanTech,Noida,Series B,253.84,253840000.0
+2020,Startup_12,Gaming,Chennai,Seed,713.26,713260000.0
+2020,Startup_13,E-commerce,Kolkata,Private Equity,470.75,470750000.0
+2020,Startup_14,E-commerce,Pune,Series B,117.69,117690000.0
+2020,Startup_15,Mobility,Chennai,Angel,383.02,383020000.0
+2020,Startup_16,SaaS,Pune,Seed,143.4,143400000.0
+2020,Startup_17,CleanTech,Chennai,Series E,498.75,498750000.0
+2020,Startup_18,SpaceTech,Noida,Series F,72.63,72630000.0
+2020,Startup_19,EdTech,Pune,Series C,321.47,321470000.0
+2020,Startup_20,FoodTech,Delhi,Series D,682.13,682130000.0
+2020,Startup_21,SpaceTech,Hyderabad,Private Equity,370.79,370790000.0
+2020,Startup_22,CleanTech,Hyderabad,Private Equity,125.66,125660000.0
+2020,Startup_23,FoodTech,Chennai,Pre-Seed,461.86,461860000.0
+2020,Startup_24,AgriTech,Mumbai,Seed,349.29,349290000.0
+2020,Startup_25,AI,Bengaluru,Angel,44.25,44250000.0
+2020,Startup_26,FoodTech,Pune,Series F,497.25,497250000.0
+2020,Startup_27,FoodTech,Noida,Series A,87.93,87930000.0
+2020,Startup_28,AI,Mumbai,Series F,522.79,522789999.99999994
+2020,Startup_29,Mobility,Mumbai,Series D,157.21,157210000.0
+2020,Startup_30,E-commerce,Chennai,Series E,444.19,444190000.0
+2020,Startup_31,Mobility,Noida,Series D,215.7,215700000.0
+2020,Startup_32,Mobility,Noida,Series B,619.67,619670000.0
+2020,Startup_33,HealthTech,Kolkata,Series B,590.23,590230000.0
+2020,Startup_34,E-commerce,Pune,Series F,252.07,252070000.0
+2020,Startup_35,E-commerce,Hyderabad,Private Equity,780.42,780420000.0
+2020,Startup_36,FoodTech,Hyderabad,Series E,114.33,114330000.0
+2020,Startup_37,FoodTech,Gurgaon,Series C,327.01,327010000.0
+2020,Startup_38,Gaming,Hyderabad,Series F,100.6,100600000.0
+2020,Startup_39,AgriTech,Chennai,Series B,616.7,616700000.0
+2020,Startup_40,SaaS,Gurgaon,Private Equity,752.9,752900000.0
+2020,Startup_41,FinTech,Gurgaon,Series A,238.15,238150000.0
+2020,Startup_42,AgriTech,Noida,Series A,331.05,331050000.0
+2020,Startup_43,Mobility,Chennai,Series E,472.0,472000000.0
+2020,Startup_44,HealthTech,Noida,Series B,348.48,348480000.0
+2020,Startup_45,SaaS,Hyderabad,Series C,34.61,34610000.0
+2020,Startup_46,SaaS,Gurgaon,Series F,139.31,139310000.0
+2020,Startup_47,FoodTech,Mumbai,Series C,562.0,562000000.0
+2020,Startup_48,E-commerce,Noida,Series E,654.41,654410000.0
+2020,Startup_49,CleanTech,Bengaluru,Seed,747.71,747710000.0
+2020,Startup_50,SpaceTech,Bengaluru,Seed,143.8,143800000.0
+2020,Startup_51,SaaS,Noida,Pre-Seed,200.28,200280000.0
+2020,Startup_52,E-commerce,Bengaluru,Series E,442.69,442690000.0
+2020,Startup_53,SaaS,Noida,Series D,765.49,765490000.0
+2020,Startup_54,SaaS,Pune,Series A,624.58,624580000.0
+2020,Startup_55,HealthTech,Noida,Series C,375.87,375870000.0
+2020,Startup_56,FoodTech,Noida,Series F,411.42,411420000.0
+2020,Startup_57,FinTech,Pune,Private Equity,530.78,530780000.0
+2020,Startup_58,E-commerce,Kolkata,Seed,627.69,627690000.0
+2020,Startup_59,SpaceTech,Gurgaon,Series E,419.21,419210000.0
+2020,Startup_60,Gaming,Delhi,Private Equity,329.15,329150000.0
+2020,Startup_61,FoodTech,Gurgaon,Series D,462.22,462220000.0
+2020,Startup_62,SpaceTech,Pune,Pre-Seed,277.72,277720000.0
+2020,Startup_63,FoodTech,Bengaluru,Series F,49.33,49330000.0
+2020,Startup_64,AgriTech,Kolkata,Series F,486.49,486490000.0
+2020,Startup_65,E-commerce,Kolkata,Series C,307.07,307070000.0
+2020,Startup_66,Mobility,Delhi,Series E,394.17,394170000.0
+2020,Startup_67,AgriTech,Noida,Angel,166.22,166220000.0
+2020,Startup_68,CleanTech,Hyderabad,Series B,739.08,739080000.0
+2020,Startup_69,E-commerce,Chennai,Series D,636.11,636110000.0
+2020,Startup_70,AI,Hyderabad,Series B,780.8,780800000.0
+2020,Startup_71,AgriTech,Hyderabad,Seed,154.03,154030000.0
+2020,Startup_72,FoodTech,Mumbai,Angel,98.58,98580000.0
+2020,Startup_73,AgriTech,Pune,Pre-Seed,733.44,733440000.0
+2020,Startup_74,SaaS,Hyderabad,Pre-Seed,479.5,479500000.0
+2020,Startup_75,FoodTech,Chennai,Series B,450.81,450810000.0
+2020,Startup_76,FoodTech,Pune,Seed,277.39,277390000.0
+2020,Startup_77,HealthTech,Pune,Angel,589.19,589190000.0
+2020,Startup_78,CleanTech,Delhi,Series D,256.97,256970000.00000003
+2020,Startup_79,CleanTech,Delhi,Private Equity,471.2,471200000.0
+2020,Startup_80,EdTech,Pune,Series D,99.47,99470000.0
+2020,Startup_81,Gaming,Bengaluru,Series D,42.35,42350000.0
+2020,Startup_82,HealthTech,Mumbai,Series B,704.62,704620000.0
+2020,Startup_83,AgriTech,Pune,Series A,177.93,177930000.0
+2020,Startup_84,FoodTech,Kolkata,Pre-Seed,89.59,89590000.0
+2020,Startup_85,AgriTech,Mumbai,Series E,758.03,758030000.0
+2020,Startup_86,HealthTech,Delhi,Angel,742.83,742830000.0
+2020,Startup_87,E-commerce,Noida,Pre-Seed,200.67,200670000.0
+2020,Startup_88,AI,Noida,Series A,181.99,181990000.0
+2020,Startup_89,EdTech,Pune,Series C,495.56,495560000.0
+2020,Startup_90,Mobility,Bengaluru,Series B,681.54,681540000.0
+2020,Startup_91,HealthTech,Noida,Series D,176.21,176210000.0
+2020,Startup_92,HealthTech,Noida,Series B,712.62,712620000.0
+2020,Startup_93,AI,Mumbai,Series B,556.76,556760000.0
+2020,Startup_94,Gaming,Bengaluru,Seed,759.43,759430000.0
+2020,Startup_95,E-commerce,Chennai,Series B,774.8,774800000.0
+2020,Startup_96,HealthTech,Hyderabad,Series A,514.76,514760000.0
+2020,Startup_97,AgriTech,Bengaluru,Series D,371.36,371360000.0
+2020,Startup_98,SpaceTech,Mumbai,Series C,344.49,344490000.0
+2020,Startup_99,CleanTech,Delhi,Pre-Seed,137.12,137120000.0
+2020,Startup_100,AgriTech,Noida,Series E,361.05,361050000.0
+2020,Startup_101,FoodTech,Noida,Series E,669.63,669630000.0
+2020,Startup_102,CleanTech,Pune,Angel,760.12,760120000.0
+2020,Startup_103,SpaceTech,Chennai,Series D,450.11,450110000.0
+2020,Startup_104,HealthTech,Mumbai,Series C,305.71,305710000.0
+2020,Startup_105,AgriTech,Noida,Pre-Seed,513.08,513080000.00000006
+2020,Startup_106,EdTech,Pune,Series D,617.83,617830000.0
+2020,Startup_107,FoodTech,Mumbai,Private Equity,2.99,2990000.0
+2020,Startup_108,SpaceTech,Gurgaon,Seed,492.63,492630000.0
+2020,Startup_109,CleanTech,Mumbai,Pre-Seed,453.68,453680000.0
+2020,Startup_110,FinTech,Mumbai,Private Equity,4.72,4720000.0
+2020,Startup_111,SaaS,Delhi,Series A,716.03,716030000.0
+2020,Startup_112,AgriTech,Bengaluru,Series A,363.03,363030000.0
+2020,Startup_113,CleanTech,Chennai,Series D,797.23,797230000.0
+2020,Startup_114,HealthTech,Mumbai,Series B,260.03,260029999.99999997
+2020,Startup_115,E-commerce,Gurgaon,Series D,390.04,390040000.0
+2020,Startup_116,EdTech,Chennai,Series B,357.18,357180000.0
+2020,Startup_117,AgriTech,Delhi,Series A,767.04,767040000.0
+2020,Startup_118,Gaming,Pune,Angel,205.03,205030000.0
+2020,Startup_119,SpaceTech,Delhi,Series D,86.56,86560000.0
+2020,Startup_120,AgriTech,Pune,Series B,391.58,391580000.0
+2020,Startup_121,AgriTech,Hyderabad,Series F,684.15,684150000.0
+2020,Startup_122,SaaS,Kolkata,Series D,715.6,715600000.0
+2020,Startup_123,AI,Hyderabad,Series E,541.01,541010000.0
+2020,Startup_124,Gaming,Gurgaon,Private Equity,31.7,31700000.0
+2020,Startup_125,SpaceTech,Mumbai,Private Equity,716.02,716020000.0
+2020,Startup_126,FinTech,Hyderabad,Series E,783.96,783960000.0
+2020,Startup_127,AI,Mumbai,Series C,473.16,473160000.0
+2020,Startup_128,CleanTech,Noida,Seed,306.75,306750000.0
+2020,Startup_129,Gaming,Gurgaon,Angel,470.51,470510000.0
+2020,Startup_130,Gaming,Noida,Series E,54.49,54490000.0
+2020,Startup_131,AgriTech,Pune,Series E,321.62,321620000.0
+2020,Startup_132,FinTech,Delhi,Series B,208.31,208310000.0
+2020,Startup_133,CleanTech,Kolkata,Series A,127.26,127260000.0
+2020,Startup_134,AI,Hyderabad,Series D,405.22,405220000.0
+2020,Startup_135,Gaming,Hyderabad,Angel,499.87,499870000.0
+2020,Startup_136,E-commerce,Bengaluru,Series F,623.96,623960000.0
+2020,Startup_137,FinTech,Bengaluru,Series D,457.93,457930000.0
+2020,Startup_138,Mobility,Delhi,Series C,363.08,363080000.0
+2020,Startup_139,SpaceTech,Delhi,Pre-Seed,548.88,548880000.0
+2020,Startup_140,E-commerce,Chennai,Series D,545.6,545600000.0
+2020,Startup_141,EdTech,Delhi,Seed,245.19,245190000.0
+2020,Startup_142,EdTech,Chennai,Seed,549.81,549810000.0
+2020,Startup_143,FinTech,Noida,Series C,644.4,644400000.0
+2020,Startup_144,AgriTech,Pune,Series B,354.81,354810000.0
+2020,Startup_145,Gaming,Mumbai,Series C,388.76,388760000.0
+2020,Startup_146,AgriTech,Delhi,Series E,256.98,256980000.00000003
+2020,Startup_147,SaaS,Delhi,Seed,150.35,150350000.0
+2020,Startup_148,CleanTech,Gurgaon,Series D,443.54,443540000.0
+2020,Startup_149,AgriTech,Mumbai,Series F,401.12,401120000.0
+2020,Startup_150,Gaming,Pune,Pre-Seed,194.65,194650000.0
+2020,Startup_151,E-commerce,Gurgaon,Series C,655.72,655720000.0
+2020,Startup_152,FinTech,Delhi,Pre-Seed,57.58,57580000.0
+2020,Startup_153,FoodTech,Mumbai,Private Equity,139.3,139300000.0
+2020,Startup_154,AgriTech,Hyderabad,Series F,647.18,647180000.0
+2020,Startup_155,Mobility,Pune,Private Equity,614.09,614090000.0
+2020,Startup_156,Mobility,Mumbai,Series E,123.73,123730000.0
+2020,Startup_157,AgriTech,Hyderabad,Private Equity,613.26,613260000.0
+2020,Startup_158,SaaS,Pune,Series E,627.98,627980000.0
+2020,Startup_159,SpaceTech,Chennai,Private Equity,393.63,393630000.0
+2020,Startup_160,E-commerce,Noida,Series B,265.2,265200000.0
+2020,Startup_161,Mobility,Hyderabad,Series D,784.51,784510000.0
+2020,Startup_162,FoodTech,Gurgaon,Angel,309.77,309770000.0
+2020,Startup_163,FinTech,Noida,Series E,394.53,394530000.0
+2020,Startup_164,Mobility,Pune,Angel,37.44,37440000.0
+2020,Startup_165,E-commerce,Delhi,Series C,636.74,636740000.0
+2020,Startup_166,Gaming,Bengaluru,Series D,464.8,464800000.0
+2020,Startup_167,Mobility,Pune,Seed,267.33,267329999.99999997
+2020,Startup_168,EdTech,Pune,Angel,398.76,398760000.0
+2020,Startup_169,HealthTech,Kolkata,Series B,315.47,315470000.0
+2020,Startup_170,FinTech,Hyderabad,Series D,443.34,443340000.0
+2020,Startup_171,FoodTech,Chennai,Series D,741.16,741160000.0
+2020,Startup_172,E-commerce,Hyderabad,Series E,196.63,196630000.0
+2020,Startup_173,SaaS,Gurgaon,Angel,645.08,645080000.0
+2020,Startup_174,Mobility,Pune,Series F,497.14,497140000.0
+2020,Startup_175,FinTech,Hyderabad,Private Equity,728.22,728220000.0
+2020,Startup_176,SaaS,Chennai,Series F,669.3,669300000.0
+2020,Startup_177,CleanTech,Delhi,Private Equity,332.72,332720000.0
+2020,Startup_178,EdTech,Mumbai,Series C,657.98,657980000.0
+2020,Startup_179,SpaceTech,Delhi,Angel,390.23,390230000.0
+2020,Startup_180,EdTech,Bengaluru,Series D,545.8,545800000.0
+2020,Startup_181,SaaS,Kolkata,Private Equity,623.82,623820000.0
+2020,Startup_182,HealthTech,Gurgaon,Series D,386.13,386130000.0
+2020,Startup_183,Mobility,Pune,Series E,648.52,648520000.0
+2020,Startup_184,SaaS,Bengaluru,Series F,652.02,652020000.0
+2020,Startup_185,E-commerce,Pune,Series B,320.33,320330000.0
+2020,Startup_186,FinTech,Hyderabad,Seed,154.44,154440000.0
+2020,Startup_187,E-commerce,Delhi,Series B,346.16,346160000.0
+2020,Startup_188,FinTech,Gurgaon,Pre-Seed,171.64,171640000.0
+2020,Startup_189,AI,Pune,Pre-Seed,210.83,210830000.0
+2020,Startup_190,HealthTech,Pune,Series A,453.98,453980000.0
+2020,Startup_191,FoodTech,Mumbai,Private Equity,634.5,634500000.0
+2020,Startup_192,FoodTech,Pune,Series E,157.4,157400000.0
+2020,Startup_193,FinTech,Noida,Angel,435.13,435130000.0
+2020,Startup_194,AgriTech,Hyderabad,Private Equity,326.97,326970000.0
+2020,Startup_195,EdTech,Delhi,Series B,650.08,650080000.0
+2020,Startup_196,Mobility,Pune,Angel,228.55,228550000.0
+2020,Startup_197,E-commerce,Pune,Series D,86.65,86650000.0
+2020,Startup_198,FinTech,Delhi,Seed,131.84,131840000.0
+2020,Startup_199,HealthTech,Kolkata,Series B,116.85,116850000.0
+2020,Startup_200,AgriTech,Pune,Pre-Seed,713.78,713780000.0
+2020,Startup_201,HealthTech,Chennai,Angel,164.86,164860000.0
+2020,Startup_202,SpaceTech,Delhi,Seed,180.2,180200000.0
+2020,Startup_203,FoodTech,Gurgaon,Private Equity,31.15,31150000.0
+2020,Startup_204,FoodTech,Gurgaon,Series D,447.89,447890000.0
+2020,Startup_205,SpaceTech,Delhi,Series F,41.72,41720000.0
+2020,Startup_206,AgriTech,Hyderabad,Series C,308.53,308530000.0
+2020,Startup_207,CleanTech,Kolkata,Private Equity,160.86,160860000.0
+2020,Startup_208,Mobility,Chennai,Series D,645.09,645090000.0
+2020,Startup_209,AgriTech,Hyderabad,Series B,23.6,23600000.0
+2020,Startup_210,SpaceTech,Noida,Series E,610.88,610880000.0
+2020,Startup_211,SaaS,Mumbai,Series A,113.66,113660000.0
+2020,Startup_212,Gaming,Mumbai,Series B,459.95,459950000.0
+2020,Startup_213,SaaS,Bengaluru,Series E,280.22,280220000.0
+2020,Startup_214,Mobility,Noida,Angel,355.59,355590000.0
+2020,Startup_215,FoodTech,Hyderabad,Series F,498.43,498430000.0
+2020,Startup_216,AI,Hyderabad,Seed,737.84,737840000.0
+2020,Startup_217,CleanTech,Delhi,Private Equity,439.55,439550000.0
+2020,Startup_218,EdTech,Noida,Series C,319.71,319710000.0
+2020,Startup_219,Mobility,Kolkata,Angel,157.15,157150000.0
+2020,Startup_220,Gaming,Kolkata,Series D,407.73,407730000.0
+2021,Startup_1,HealthTech,Hyderabad,Series A,647.61,647610000.0
+2021,Startup_2,SpaceTech,Gurgaon,Series A,784.03,784030000.0
+2021,Startup_3,SaaS,Pune,Series F,712.22,712220000.0
+2021,Startup_4,Gaming,Pune,Angel,1.77,1770000.0
+2021,Startup_5,Mobility,Chennai,Series A,447.71,447710000.0
+2021,Startup_6,FinTech,Pune,Series C,576.52,576520000.0
+2021,Startup_7,EdTech,Pune,Series D,392.69,392690000.0
+2021,Startup_8,EdTech,Kolkata,Series A,710.28,710280000.0
+2021,Startup_9,FoodTech,Gurgaon,Series A,573.93,573930000.0
+2021,Startup_10,HealthTech,Delhi,Series C,237.76,237760000.0
+2021,Startup_11,CleanTech,Mumbai,Private Equity,573.43,573430000.0
+2021,Startup_12,E-commerce,Delhi,Series C,191.07,191070000.0
+2021,Startup_13,SpaceTech,Pune,Pre-Seed,345.88,345880000.0
+2021,Startup_14,SpaceTech,Kolkata,Private Equity,78.51,78510000.0
+2021,Startup_15,Mobility,Delhi,Pre-Seed,174.63,174630000.0
+2021,Startup_16,FoodTech,Bengaluru,Series A,569.69,569690000.0
+2021,Startup_17,SaaS,Chennai,Series B,687.89,687890000.0
+2021,Startup_18,AI,Gurgaon,Pre-Seed,603.88,603880000.0
+2021,Startup_19,AgriTech,Kolkata,Series B,755.52,755520000.0
+2021,Startup_20,SaaS,Pune,Series B,546.75,546750000.0
+2021,Startup_21,E-commerce,Chennai,Series A,491.62,491620000.0
+2021,Startup_22,AI,Hyderabad,Series F,710.96,710960000.0
+2021,Startup_23,EdTech,Gurgaon,Pre-Seed,769.37,769370000.0
+2021,Startup_24,SaaS,Hyderabad,Series A,178.91,178910000.0
+2021,Startup_25,SpaceTech,Gurgaon,Seed,658.05,658050000.0
+2021,Startup_26,Gaming,Hyderabad,Series B,653.38,653380000.0
+2021,Startup_27,AgriTech,Gurgaon,Seed,698.36,698360000.0
+2021,Startup_28,Gaming,Kolkata,Series F,648.29,648290000.0
+2021,Startup_29,E-commerce,Chennai,Series A,788.61,788610000.0
+2021,Startup_30,SpaceTech,Noida,Series A,392.28,392280000.0
+2021,Startup_31,AgriTech,Noida,Series D,459.18,459180000.0
+2021,Startup_32,CleanTech,Pune,Series D,408.25,408250000.0
+2021,Startup_33,Mobility,Pune,Series D,397.88,397880000.0
+2021,Startup_34,Gaming,Noida,Seed,468.09,468090000.0
+2021,Startup_35,EdTech,Gurgaon,Pre-Seed,19.63,19630000.0
+2021,Startup_36,AgriTech,Kolkata,Series B,788.41,788410000.0
+2021,Startup_37,AgriTech,Bengaluru,Series B,37.08,37080000.0
+2021,Startup_38,Gaming,Mumbai,Series C,136.59,136590000.0
+2021,Startup_39,SpaceTech,Mumbai,Series D,727.55,727550000.0
+2021,Startup_40,EdTech,Bengaluru,Private Equity,744.83,744830000.0
+2021,Startup_41,E-commerce,Kolkata,Pre-Seed,279.62,279620000.0
+2021,Startup_42,E-commerce,Pune,Series E,137.97,137970000.0
+2021,Startup_43,Mobility,Chennai,Series A,238.74,238740000.0
+2021,Startup_44,SaaS,Delhi,Series F,554.29,554290000.0
+2021,Startup_45,SpaceTech,Kolkata,Angel,107.17,107170000.0
+2021,Startup_46,E-commerce,Chennai,Angel,536.8,536799999.99999994
+2021,Startup_47,AgriTech,Bengaluru,Series F,288.61,288610000.0
+2021,Startup_48,SpaceTech,Mumbai,Series A,221.5,221500000.0
+2021,Startup_49,FinTech,Chennai,Pre-Seed,261.62,261620000.0
+2021,Startup_50,FinTech,Chennai,Series F,196.47,196470000.0
+2021,Startup_51,EdTech,Delhi,Series C,758.2,758200000.0
+2021,Startup_52,E-commerce,Pune,Series E,772.4,772400000.0
+2021,Startup_53,CleanTech,Bengaluru,Seed,660.48,660480000.0
+2021,Startup_54,Gaming,Chennai,Angel,643.23,643230000.0
+2021,Startup_55,AI,Delhi,Series B,50.36,50360000.0
+2021,Startup_56,FoodTech,Gurgaon,Pre-Seed,542.17,542170000.0
+2021,Startup_57,AgriTech,Noida,Series A,167.65,167650000.0
+2021,Startup_58,AI,Chennai,Series A,199.71,199710000.0
+2021,Startup_59,Gaming,Delhi,Series B,715.66,715660000.0
+2021,Startup_60,FoodTech,Noida,Series F,476.87,476870000.0
+2021,Startup_61,AI,Gurgaon,Series F,264.96,264959999.99999997
+2021,Startup_62,AI,Gurgaon,Series B,528.83,528830000.00000006
+2021,Startup_63,Gaming,Mumbai,Series C,400.11,400110000.0
+2021,Startup_64,Gaming,Pune,Pre-Seed,369.42,369420000.0
+2021,Startup_65,FoodTech,Chennai,Private Equity,21.71,21710000.0
+2021,Startup_66,FinTech,Pune,Series D,693.02,693020000.0
+2021,Startup_67,AgriTech,Pune,Private Equity,516.66,516659999.99999994
+2021,Startup_68,AI,Mumbai,Pre-Seed,658.06,658060000.0
+2021,Startup_69,Mobility,Bengaluru,Series E,326.95,326950000.0
+2021,Startup_70,SpaceTech,Kolkata,Seed,735.74,735740000.0
+2021,Startup_71,SaaS,Bengaluru,Series A,335.1,335100000.0
+2021,Startup_72,AgriTech,Delhi,Series C,428.42,428420000.0
+2021,Startup_73,SpaceTech,Pune,Series C,147.51,147510000.0
+2021,Startup_74,FoodTech,Chennai,Seed,736.61,736610000.0
+2021,Startup_75,Gaming,Mumbai,Series A,600.06,600060000.0
+2021,Startup_76,EdTech,Hyderabad,Seed,693.36,693360000.0
+2021,Startup_77,SaaS,Chennai,Series E,262.43,262430000.0
+2021,Startup_78,HealthTech,Mumbai,Seed,513.94,513940000.00000006
+2021,Startup_79,FinTech,Gurgaon,Series A,699.26,699260000.0
+2021,Startup_80,Mobility,Noida,Seed,177.33,177330000.0
+2021,Startup_81,Gaming,Bengaluru,Series C,726.29,726290000.0
+2021,Startup_82,CleanTech,Noida,Private Equity,342.77,342770000.0
+2021,Startup_83,HealthTech,Gurgaon,Series F,218.87,218870000.0
+2021,Startup_84,FinTech,Hyderabad,Private Equity,353.83,353830000.0
+2021,Startup_85,HealthTech,Delhi,Series A,715.29,715290000.0
+2021,Startup_86,EdTech,Noida,Angel,512.27,512270000.0
+2021,Startup_87,E-commerce,Mumbai,Seed,32.96,32960000.0
+2021,Startup_88,CleanTech,Hyderabad,Series D,719.84,719840000.0
+2021,Startup_89,HealthTech,Kolkata,Series F,740.78,740780000.0
+2021,Startup_90,SpaceTech,Mumbai,Angel,345.74,345740000.0
+2021,Startup_91,EdTech,Hyderabad,Pre-Seed,778.33,778330000.0
+2021,Startup_92,AgriTech,Kolkata,Series B,781.85,781850000.0
+2021,Startup_93,SaaS,Kolkata,Series E,65.54,65540000.00000001
+2021,Startup_94,AgriTech,Mumbai,Private Equity,626.96,626960000.0
+2021,Startup_95,Gaming,Noida,Seed,161.52,161520000.0
+2021,Startup_96,FinTech,Chennai,Seed,465.09,465090000.0
+2021,Startup_97,HealthTech,Chennai,Series F,364.52,364520000.0
+2021,Startup_98,FinTech,Mumbai,Series C,625.68,625680000.0
+2021,Startup_99,E-commerce,Pune,Private Equity,754.62,754620000.0
+2021,Startup_100,EdTech,Kolkata,Private Equity,63.66,63660000.0
+2021,Startup_101,FinTech,Bengaluru,Series B,83.75,83750000.0
+2021,Startup_102,CleanTech,Chennai,Series F,80.63,80630000.0
+2021,Startup_103,HealthTech,Bengaluru,Series E,194.5,194500000.0
+2021,Startup_104,HealthTech,Hyderabad,Angel,23.92,23920000.0
+2021,Startup_105,AgriTech,Noida,Private Equity,710.93,710930000.0
+2021,Startup_106,Gaming,Noida,Series F,746.74,746740000.0
+2021,Startup_107,FinTech,Delhi,Series E,580.25,580250000.0
+2021,Startup_108,FinTech,Kolkata,Series E,226.9,226900000.0
+2021,Startup_109,CleanTech,Chennai,Angel,746.18,746180000.0
+2021,Startup_110,CleanTech,Delhi,Seed,690.01,690010000.0
+2021,Startup_111,AI,Noida,Seed,447.29,447290000.0
+2021,Startup_112,FoodTech,Kolkata,Series B,174.95,174950000.0
+2021,Startup_113,E-commerce,Bengaluru,Series B,469.69,469690000.0
+2021,Startup_114,E-commerce,Mumbai,Series B,334.17,334170000.0
+2021,Startup_115,CleanTech,Delhi,Pre-Seed,559.2,559200000.0
+2021,Startup_116,AI,Delhi,Series F,241.47,241470000.0
+2021,Startup_117,FoodTech,Hyderabad,Angel,317.5,317500000.0
+2021,Startup_118,AgriTech,Noida,Seed,727.29,727290000.0
+2021,Startup_119,SpaceTech,Pune,Series E,297.19,297190000.0
+2021,Startup_120,HealthTech,Hyderabad,Series C,410.65,410650000.0
+2021,Startup_121,FoodTech,Gurgaon,Series A,654.34,654340000.0
+2021,Startup_122,Gaming,Pune,Angel,397.23,397230000.0
+2021,Startup_123,HealthTech,Mumbai,Private Equity,126.46,126460000.0
+2021,Startup_124,CleanTech,Delhi,Series B,607.13,607130000.0
+2021,Startup_125,FoodTech,Hyderabad,Angel,490.49,490490000.0
+2021,Startup_126,SpaceTech,Noida,Series E,489.81,489810000.0
+2021,Startup_127,HealthTech,Chennai,Series B,171.96,171960000.0
+2021,Startup_128,FinTech,Kolkata,Series B,468.08,468080000.0
+2021,Startup_129,EdTech,Delhi,Seed,246.02,246020000.0
+2021,Startup_130,Mobility,Pune,Series C,399.47,399470000.0
+2021,Startup_131,AgriTech,Kolkata,Series B,365.99,365990000.0
+2021,Startup_132,CleanTech,Hyderabad,Series F,651.95,651950000.0
+2021,Startup_133,HealthTech,Gurgaon,Private Equity,49.46,49460000.0
+2021,Startup_134,SaaS,Hyderabad,Series A,605.05,605050000.0
+2021,Startup_135,EdTech,Chennai,Series C,422.2,422200000.0
+2021,Startup_136,HealthTech,Mumbai,Pre-Seed,560.58,560580000.0
+2021,Startup_137,FoodTech,Delhi,Series F,191.33,191330000.0
+2021,Startup_138,CleanTech,Delhi,Series B,778.48,778480000.0
+2021,Startup_139,EdTech,Bengaluru,Private Equity,274.26,274260000.0
+2021,Startup_140,E-commerce,Kolkata,Private Equity,645.54,645540000.0
+2021,Startup_141,Mobility,Bengaluru,Angel,253.94,253940000.0
+2021,Startup_142,SpaceTech,Bengaluru,Pre-Seed,214.4,214400000.0
+2021,Startup_143,EdTech,Bengaluru,Seed,544.36,544360000.0
+2021,Startup_144,SpaceTech,Hyderabad,Series A,680.46,680460000.0
+2021,Startup_145,EdTech,Gurgaon,Series F,749.65,749650000.0
+2021,Startup_146,Gaming,Mumbai,Series A,672.33,672330000.0
+2021,Startup_147,CleanTech,Hyderabad,Private Equity,156.27,156270000.0
+2021,Startup_148,EdTech,Pune,Private Equity,598.28,598280000.0
+2021,Startup_149,AI,Bengaluru,Series A,347.73,347730000.0
+2021,Startup_150,CleanTech,Mumbai,Series A,666.2,666200000.0
+2021,Startup_151,Mobility,Kolkata,Series B,73.95,73950000.0
+2021,Startup_152,Mobility,Chennai,Series D,778.8,778800000.0
+2021,Startup_153,FoodTech,Noida,Series B,588.88,588880000.0
+2021,Startup_154,HealthTech,Hyderabad,Pre-Seed,762.05,762050000.0
+2021,Startup_155,SpaceTech,Pune,Series B,632.29,632290000.0
+2021,Startup_156,AI,Delhi,Series E,272.36,272360000.0
+2021,Startup_157,E-commerce,Noida,Series E,165.38,165380000.0
+2021,Startup_158,EdTech,Chennai,Series F,376.54,376540000.0
+2021,Startup_159,AgriTech,Chennai,Seed,205.14,205140000.0
+2021,Startup_160,Mobility,Hyderabad,Seed,519.22,519220000.0
+2021,Startup_161,HealthTech,Delhi,Pre-Seed,497.29,497290000.0
+2021,Startup_162,EdTech,Chennai,Private Equity,378.0,378000000.0
+2021,Startup_163,SpaceTech,Hyderabad,Series C,553.35,553350000.0
+2021,Startup_164,AI,Gurgaon,Series B,644.57,644570000.0
+2021,Startup_165,CleanTech,Delhi,Series A,601.07,601070000.0
+2021,Startup_166,SpaceTech,Gurgaon,Pre-Seed,114.5,114500000.0
+2021,Startup_167,FoodTech,Pune,Angel,305.32,305320000.0
+2021,Startup_168,AI,Mumbai,Private Equity,268.2,268200000.0
+2021,Startup_169,Mobility,Chennai,Private Equity,721.76,721760000.0
+2021,Startup_170,Mobility,Mumbai,Angel,535.67,535669999.99999994
+2021,Startup_171,Gaming,Kolkata,Series B,494.29,494290000.0
+2021,Startup_172,Mobility,Kolkata,Series D,240.12,240120000.0
+2021,Startup_173,FoodTech,Delhi,Series B,534.93,534929999.99999994
+2021,Startup_174,AI,Hyderabad,Series B,565.74,565740000.0
+2021,Startup_175,Gaming,Mumbai,Series C,5.12,5120000.0
+2021,Startup_176,CleanTech,Pune,Pre-Seed,587.4,587400000.0
+2021,Startup_177,EdTech,Pune,Private Equity,283.02,283020000.0
+2021,Startup_178,E-commerce,Bengaluru,Series F,228.0,228000000.0
+2021,Startup_179,AgriTech,Kolkata,Series B,30.99,30990000.0
+2021,Startup_180,AgriTech,Hyderabad,Angel,529.32,529320000.00000006
+2021,Startup_181,E-commerce,Delhi,Series F,217.92,217920000.0
+2021,Startup_182,AgriTech,Gurgaon,Series B,463.92,463920000.0
+2021,Startup_183,Gaming,Noida,Series D,139.16,139160000.0
+2021,Startup_184,HealthTech,Delhi,Angel,419.65,419650000.0
+2021,Startup_185,AI,Noida,Angel,529.29,529289999.99999994
+2021,Startup_186,Gaming,Chennai,Seed,211.12,211120000.0
+2021,Startup_187,E-commerce,Bengaluru,Series C,466.07,466070000.0
+2021,Startup_188,Mobility,Hyderabad,Series D,65.27,65269999.99999999
+2021,Startup_189,SpaceTech,Hyderabad,Series B,615.43,615430000.0
+2021,Startup_190,Mobility,Bengaluru,Series B,573.28,573280000.0
+2021,Startup_191,AI,Delhi,Series D,548.81,548810000.0
+2021,Startup_192,FoodTech,Gurgaon,Series B,358.65,358650000.0
+2021,Startup_193,AgriTech,Hyderabad,Series F,379.92,379920000.0
+2021,Startup_194,FinTech,Noida,Pre-Seed,609.33,609330000.0
+2021,Startup_195,FinTech,Hyderabad,Series A,652.36,652360000.0
+2021,Startup_196,AgriTech,Bengaluru,Series E,560.95,560950000.0
+2021,Startup_197,AgriTech,Delhi,Series C,414.34,414340000.0
+2021,Startup_198,Gaming,Pune,Series A,784.82,784820000.0
+2021,Startup_199,E-commerce,Pune,Pre-Seed,182.91,182910000.0
+2021,Startup_200,FoodTech,Mumbai,Series E,66.42,66420000.0
+2021,Startup_201,E-commerce,Mumbai,Seed,100.84,100840000.0
+2021,Startup_202,SaaS,Hyderabad,Series D,682.87,682870000.0
+2021,Startup_203,SpaceTech,Pune,Seed,762.77,762770000.0
+2021,Startup_204,E-commerce,Bengaluru,Pre-Seed,119.53,119530000.0
+2021,Startup_205,SpaceTech,Bengaluru,Angel,275.99,275990000.0
+2021,Startup_206,AI,Pune,Series B,237.86,237860000.0
+2021,Startup_207,E-commerce,Hyderabad,Series E,496.21,496210000.0
+2021,Startup_208,AgriTech,Bengaluru,Seed,127.45,127450000.0
+2021,Startup_209,HealthTech,Delhi,Series F,756.07,756070000.0
+2021,Startup_210,Mobility,Delhi,Series D,518.39,518390000.0
+2021,Startup_211,Gaming,Mumbai,Private Equity,29.04,29040000.0
+2021,Startup_212,HealthTech,Pune,Pre-Seed,433.15,433150000.0
+2021,Startup_213,E-commerce,Delhi,Private Equity,763.62,763620000.0
+2021,Startup_214,HealthTech,Bengaluru,Series A,642.34,642340000.0
+2021,Startup_215,SaaS,Gurgaon,Seed,740.93,740930000.0
+2021,Startup_216,AgriTech,Mumbai,Angel,59.79,59790000.0
+2021,Startup_217,Gaming,Chennai,Private Equity,546.97,546970000.0
+2021,Startup_218,AI,Gurgaon,Series E,551.84,551840000.0
+2021,Startup_219,AI,Mumbai,Series C,615.79,615790000.0
+2021,Startup_220,E-commerce,Bengaluru,Series B,492.4,492400000.0
+2022,Startup_1,FinTech,Pune,Series E,386.95,386950000.0
+2022,Startup_2,SaaS,Mumbai,Series D,129.35,129350000.0
+2022,Startup_3,EdTech,Hyderabad,Series F,2.59,2590000.0
+2022,Startup_4,Mobility,Gurgaon,Series A,751.96,751960000.0
+2022,Startup_5,AgriTech,Noida,Private Equity,277.37,277370000.0
+2022,Startup_6,HealthTech,Mumbai,Seed,29.4,29400000.0
+2022,Startup_7,HealthTech,Delhi,Seed,46.17,46170000.0
+2022,Startup_8,SpaceTech,Chennai,Pre-Seed,788.75,788750000.0
+2022,Startup_9,SpaceTech,Gurgaon,Series F,202.71,202710000.0
+2022,Startup_10,FinTech,Mumbai,Seed,600.25,600250000.0
+2022,Startup_11,EdTech,Chennai,Series C,697.5,697500000.0
+2022,Startup_12,FinTech,Delhi,Series E,553.5,553500000.0
+2022,Startup_13,SpaceTech,Pune,Series D,198.0,198000000.0
+2022,Startup_14,SaaS,Pune,Series D,667.49,667490000.0
+2022,Startup_15,SpaceTech,Hyderabad,Series B,460.25,460250000.0
+2022,Startup_16,FinTech,Hyderabad,Series E,589.42,589420000.0
+2022,Startup_17,FinTech,Noida,Series E,45.15,45150000.0
+2022,Startup_18,FoodTech,Chennai,Private Equity,121.34,121340000.0
+2022,Startup_19,AI,Hyderabad,Series C,337.0,337000000.0
+2022,Startup_20,SaaS,Kolkata,Series F,80.08,80080000.0
+2022,Startup_21,CleanTech,Gurgaon,Series B,299.47,299470000.0
+2022,Startup_22,E-commerce,Mumbai,Private Equity,396.92,396920000.0
+2022,Startup_23,AgriTech,Bengaluru,Series B,94.1,94100000.0
+2022,Startup_24,EdTech,Hyderabad,Angel,236.78,236780000.0
+2022,Startup_25,EdTech,Gurgaon,Series E,664.89,664890000.0
+2022,Startup_26,E-commerce,Hyderabad,Series C,519.51,519510000.0
+2022,Startup_27,HealthTech,Gurgaon,Series E,375.76,375760000.0
+2022,Startup_28,HealthTech,Gurgaon,Private Equity,369.58,369580000.0
+2022,Startup_29,SaaS,Noida,Series E,512.87,512870000.0
+2022,Startup_30,SpaceTech,Noida,Private Equity,672.74,672740000.0
+2022,Startup_31,SaaS,Kolkata,Pre-Seed,764.45,764450000.0
+2022,Startup_32,Gaming,Mumbai,Seed,275.38,275380000.0
+2022,Startup_33,E-commerce,Bengaluru,Pre-Seed,645.35,645350000.0
+2022,Startup_34,SpaceTech,Hyderabad,Pre-Seed,392.75,392750000.0
+2022,Startup_35,HealthTech,Hyderabad,Series C,712.53,712530000.0
+2022,Startup_36,SpaceTech,Hyderabad,Series A,603.8,603800000.0
+2022,Startup_37,HealthTech,Gurgaon,Series C,374.37,374370000.0
+2022,Startup_38,AgriTech,Gurgaon,Series B,336.91,336910000.0
+2022,Startup_39,SpaceTech,Chennai,Series C,293.48,293480000.0
+2022,Startup_40,Mobility,Bengaluru,Pre-Seed,122.02,122020000.0
+2022,Startup_41,Mobility,Bengaluru,Series C,144.2,144200000.0
+2022,Startup_42,SaaS,Noida,Pre-Seed,617.56,617560000.0
+2022,Startup_43,SpaceTech,Kolkata,Series E,519.81,519809999.99999994
+2022,Startup_44,Mobility,Kolkata,Series B,343.28,343280000.0
+2022,Startup_45,AgriTech,Kolkata,Series D,639.09,639090000.0
+2022,Startup_46,HealthTech,Pune,Series D,794.17,794170000.0
+2022,Startup_47,CleanTech,Delhi,Series B,156.44,156440000.0
+2022,Startup_48,Mobility,Pune,Series D,327.42,327420000.0
+2022,Startup_49,Mobility,Mumbai,Seed,548.67,548670000.0
+2022,Startup_50,CleanTech,Hyderabad,Angel,229.63,229630000.0
+2022,Startup_51,SaaS,Mumbai,Series F,154.54,154540000.0
+2022,Startup_52,AgriTech,Chennai,Pre-Seed,8.07,8070000.0
+2022,Startup_53,Mobility,Noida,Series B,14.56,14560000.0
+2022,Startup_54,HealthTech,Kolkata,Pre-Seed,385.45,385450000.0
+2022,Startup_55,CleanTech,Chennai,Seed,394.36,394360000.0
+2022,Startup_56,Gaming,Delhi,Pre-Seed,315.33,315330000.0
+2022,Startup_57,Mobility,Gurgaon,Seed,387.44,387440000.0
+2022,Startup_58,AI,Delhi,Seed,235.55,235550000.0
+2022,Startup_59,AgriTech,Mumbai,Angel,335.32,335320000.0
+2022,Startup_60,CleanTech,Delhi,Pre-Seed,474.28,474280000.0
+2022,Startup_61,Gaming,Pune,Series B,466.36,466360000.0
+2022,Startup_62,EdTech,Pune,Series B,362.88,362880000.0
+2022,Startup_63,FinTech,Kolkata,Seed,23.1,23100000.0
+2022,Startup_64,SpaceTech,Chennai,Seed,239.76,239760000.0
+2022,Startup_65,AI,Delhi,Series B,573.75,573750000.0
+2022,Startup_66,CleanTech,Delhi,Series D,704.82,704820000.0
+2022,Startup_67,SaaS,Mumbai,Series E,617.97,617970000.0
+2022,Startup_68,SaaS,Noida,Private Equity,522.96,522960000.00000006
+2022,Startup_69,SaaS,Bengaluru,Series D,717.62,717620000.0
+2022,Startup_70,Mobility,Chennai,Series C,795.06,795060000.0
+2022,Startup_71,HealthTech,Delhi,Series E,338.28,338280000.0
+2022,Startup_72,AgriTech,Bengaluru,Series E,527.0,527000000.0
+2022,Startup_73,HealthTech,Bengaluru,Series F,29.14,29140000.0
+2022,Startup_74,SpaceTech,Mumbai,Series A,732.65,732650000.0
+2022,Startup_75,SaaS,Hyderabad,Series B,517.95,517950000.00000006
+2022,Startup_76,EdTech,Gurgaon,Series F,186.12,186120000.0
+2022,Startup_77,HealthTech,Mumbai,Series B,339.32,339320000.0
+2022,Startup_78,Gaming,Delhi,Pre-Seed,304.55,304550000.0
+2022,Startup_79,E-commerce,Kolkata,Series E,247.18,247180000.0
+2022,Startup_80,Mobility,Noida,Angel,409.4,409400000.0
+2022,Startup_81,CleanTech,Chennai,Angel,626.44,626440000.0
+2022,Startup_82,SpaceTech,Bengaluru,Series D,186.6,186600000.0
+2022,Startup_83,SaaS,Gurgaon,Series F,652.27,652270000.0
+2022,Startup_84,HealthTech,Chennai,Series D,555.13,555130000.0
+2022,Startup_85,FoodTech,Noida,Series F,469.49,469490000.0
+2022,Startup_86,HealthTech,Hyderabad,Series C,689.21,689210000.0
+2022,Startup_87,SpaceTech,Noida,Series D,478.03,478030000.0
+2022,Startup_88,AgriTech,Chennai,Series E,118.47,118470000.0
+2022,Startup_89,FinTech,Chennai,Pre-Seed,339.5,339500000.0
+2022,Startup_90,HealthTech,Bengaluru,Series F,452.67,452670000.0
+2022,Startup_91,CleanTech,Mumbai,Private Equity,687.51,687510000.0
+2022,Startup_92,EdTech,Delhi,Seed,695.69,695690000.0
+2022,Startup_93,SpaceTech,Pune,Series E,290.17,290170000.0
+2022,Startup_94,CleanTech,Hyderabad,Series C,500.57,500570000.0
+2022,Startup_95,Mobility,Mumbai,Seed,673.7,673700000.0
+2022,Startup_96,FinTech,Hyderabad,Private Equity,321.66,321660000.0
+2022,Startup_97,Mobility,Chennai,Series F,759.52,759520000.0
+2022,Startup_98,HealthTech,Bengaluru,Series D,660.45,660450000.0
+2022,Startup_99,FoodTech,Chennai,Angel,353.77,353770000.0
+2022,Startup_100,E-commerce,Noida,Series F,362.72,362720000.0
+2022,Startup_101,Gaming,Mumbai,Series F,631.02,631020000.0
+2022,Startup_102,E-commerce,Mumbai,Series F,344.49,344490000.0
+2022,Startup_103,E-commerce,Noida,Series C,707.73,707730000.0
+2022,Startup_104,SpaceTech,Mumbai,Series A,122.09,122090000.0
+2022,Startup_105,SpaceTech,Mumbai,Pre-Seed,88.91,88910000.0
+2022,Startup_106,E-commerce,Gurgaon,Series C,614.58,614580000.0
+2022,Startup_107,HealthTech,Delhi,Series F,450.27,450270000.0
+2022,Startup_108,E-commerce,Bengaluru,Angel,755.77,755770000.0
+2022,Startup_109,SaaS,Delhi,Series C,433.16,433160000.0
+2022,Startup_110,Mobility,Hyderabad,Series C,529.51,529510000.0
+2022,Startup_111,AgriTech,Kolkata,Series D,568.18,568180000.0
+2022,Startup_112,SaaS,Kolkata,Private Equity,684.45,684450000.0
+2022,Startup_113,Mobility,Noida,Angel,403.32,403320000.0
+2022,Startup_114,HealthTech,Mumbai,Series D,177.54,177540000.0
+2022,Startup_115,FoodTech,Noida,Series E,787.36,787360000.0
+2022,Startup_116,HealthTech,Kolkata,Private Equity,42.85,42850000.0
+2022,Startup_117,SaaS,Delhi,Series E,324.61,324610000.0
+2022,Startup_118,HealthTech,Gurgaon,Series C,174.56,174560000.0
+2022,Startup_119,E-commerce,Noida,Series E,513.71,513710000.00000006
+2022,Startup_120,AgriTech,Kolkata,Series A,501.88,501880000.0
+2022,Startup_121,FinTech,Noida,Angel,586.87,586870000.0
+2022,Startup_122,EdTech,Kolkata,Series A,629.39,629390000.0
+2022,Startup_123,E-commerce,Bengaluru,Series A,474.87,474870000.0
+2022,Startup_124,AgriTech,Gurgaon,Private Equity,793.83,793830000.0
+2022,Startup_125,FinTech,Delhi,Series A,583.19,583190000.0
+2022,Startup_126,CleanTech,Pune,Series B,586.75,586750000.0
+2022,Startup_127,E-commerce,Hyderabad,Series E,426.03,426030000.0
+2022,Startup_128,E-commerce,Chennai,Series F,322.18,322180000.0
+2022,Startup_129,AgriTech,Hyderabad,Series C,185.24,185240000.0
+2022,Startup_130,AI,Pune,Series B,611.19,611190000.0
+2022,Startup_131,E-commerce,Noida,Private Equity,246.17,246170000.0
+2022,Startup_132,SpaceTech,Noida,Series C,186.91,186910000.0
+2022,Startup_133,HealthTech,Delhi,Angel,473.55,473550000.0
+2022,Startup_134,Gaming,Kolkata,Series C,285.77,285770000.0
+2022,Startup_135,EdTech,Mumbai,Series C,500.65,500650000.0
+2022,Startup_136,AI,Kolkata,Pre-Seed,17.66,17660000.0
+2022,Startup_137,SaaS,Bengaluru,Angel,771.45,771450000.0
+2022,Startup_138,E-commerce,Bengaluru,Pre-Seed,24.84,24840000.0
+2022,Startup_139,EdTech,Pune,Pre-Seed,166.31,166310000.0
+2022,Startup_140,EdTech,Bengaluru,Series D,682.08,682080000.0
+2022,Startup_141,SpaceTech,Pune,Series A,99.2,99200000.0
+2022,Startup_142,E-commerce,Gurgaon,Pre-Seed,338.32,338320000.0
+2022,Startup_143,FinTech,Chennai,Private Equity,246.6,246600000.0
+2022,Startup_144,Mobility,Delhi,Series D,506.43,506430000.0
+2022,Startup_145,Gaming,Noida,Series E,36.9,36900000.0
+2022,Startup_146,AI,Bengaluru,Pre-Seed,115.73,115730000.0
+2022,Startup_147,Mobility,Bengaluru,Seed,302.25,302250000.0
+2022,Startup_148,FinTech,Bengaluru,Series B,49.93,49930000.0
+2022,Startup_149,SpaceTech,Gurgaon,Private Equity,406.37,406370000.0
+2022,Startup_150,SaaS,Chennai,Series D,524.96,524960000.00000006
+2022,Startup_151,FoodTech,Mumbai,Private Equity,604.76,604760000.0
+2022,Startup_152,FinTech,Noida,Series D,78.92,78920000.0
+2022,Startup_153,FoodTech,Hyderabad,Series F,441.96,441960000.0
+2022,Startup_154,FoodTech,Pune,Private Equity,661.16,661160000.0
+2022,Startup_155,FinTech,Bengaluru,Seed,585.86,585860000.0
+2022,Startup_156,AI,Delhi,Seed,299.08,299080000.0
+2022,Startup_157,CleanTech,Pune,Seed,750.07,750070000.0
+2022,Startup_158,Gaming,Chennai,Series D,307.19,307190000.0
+2022,Startup_159,FinTech,Noida,Series F,561.54,561540000.0
+2022,Startup_160,Gaming,Delhi,Private Equity,662.87,662870000.0
+2022,Startup_161,AgriTech,Bengaluru,Series B,278.43,278430000.0
+2022,Startup_162,HealthTech,Kolkata,Series B,536.38,536380000.0
+2022,Startup_163,SpaceTech,Noida,Series B,225.69,225690000.0
+2022,Startup_164,Gaming,Noida,Series A,166.07,166070000.0
+2022,Startup_165,HealthTech,Chennai,Series A,396.6,396600000.0
+2022,Startup_166,HealthTech,Mumbai,Series A,382.36,382360000.0
+2022,Startup_167,CleanTech,Delhi,Private Equity,721.57,721570000.0
+2022,Startup_168,SaaS,Delhi,Series F,546.27,546270000.0
+2022,Startup_169,FoodTech,Pune,Angel,332.23,332230000.0
+2022,Startup_170,Mobility,Kolkata,Series C,342.4,342400000.0
+2022,Startup_171,E-commerce,Kolkata,Pre-Seed,579.77,579770000.0
+2022,Startup_172,Mobility,Chennai,Pre-Seed,512.56,512559999.99999994
+2022,Startup_173,FinTech,Pune,Series C,300.8,300800000.0
+2022,Startup_174,SpaceTech,Bengaluru,Series B,550.92,550920000.0
+2022,Startup_175,SaaS,Bengaluru,Angel,208.12,208120000.0
+2022,Startup_176,AgriTech,Noida,Series E,779.19,779190000.0
+2022,Startup_177,Gaming,Delhi,Series D,299.84,299840000.0
+2022,Startup_178,SaaS,Mumbai,Series B,646.6,646600000.0
+2022,Startup_179,AI,Noida,Series D,153.49,153490000.0
+2022,Startup_180,AgriTech,Bengaluru,Series C,239.07,239070000.0
+2022,Startup_181,E-commerce,Noida,Series E,622.74,622740000.0
+2022,Startup_182,E-commerce,Kolkata,Series E,436.22,436220000.0
+2022,Startup_183,FinTech,Gurgaon,Series F,393.44,393440000.0
+2022,Startup_184,SpaceTech,Chennai,Series B,358.57,358570000.0
+2022,Startup_185,EdTech,Gurgaon,Pre-Seed,720.2,720200000.0
+2022,Startup_186,AI,Noida,Series E,526.38,526380000.0
+2022,Startup_187,AgriTech,Gurgaon,Series B,127.67,127670000.0
+2022,Startup_188,CleanTech,Hyderabad,Angel,380.12,380120000.0
+2022,Startup_189,SpaceTech,Mumbai,Private Equity,324.62,324620000.0
+2022,Startup_190,FinTech,Delhi,Private Equity,513.4,513400000.0
+2022,Startup_191,Gaming,Noida,Series A,746.57,746570000.0
+2022,Startup_192,SaaS,Mumbai,Series C,556.41,556410000.0
+2022,Startup_193,FinTech,Pune,Private Equity,498.16,498160000.0
+2022,Startup_194,AI,Hyderabad,Private Equity,714.98,714980000.0
+2022,Startup_195,AgriTech,Pune,Series C,85.49,85490000.0
+2022,Startup_196,Mobility,Chennai,Series F,337.33,337330000.0
+2022,Startup_197,EdTech,Mumbai,Series E,368.46,368460000.0
+2022,Startup_198,EdTech,Kolkata,Series F,43.92,43920000.0
+2022,Startup_199,Mobility,Kolkata,Series A,574.62,574620000.0
+2022,Startup_200,CleanTech,Mumbai,Series B,217.53,217530000.0
+2022,Startup_201,HealthTech,Noida,Pre-Seed,546.46,546460000.0
+2022,Startup_202,AgriTech,Noida,Series A,287.14,287140000.0
+2022,Startup_203,EdTech,Chennai,Series F,616.85,616850000.0
+2022,Startup_204,Gaming,Bengaluru,Series C,200.86,200860000.0
+2022,Startup_205,Gaming,Kolkata,Seed,681.36,681360000.0
+2022,Startup_206,AI,Bengaluru,Series F,798.23,798230000.0
+2022,Startup_207,SpaceTech,Hyderabad,Series D,222.15,222150000.0
+2022,Startup_208,AI,Delhi,Private Equity,419.94,419940000.0
+2022,Startup_209,E-commerce,Bengaluru,Series E,274.51,274510000.0
+2022,Startup_210,E-commerce,Mumbai,Series E,55.06,55060000.0
+2022,Startup_211,AgriTech,Pune,Pre-Seed,321.02,321020000.0
+2022,Startup_212,Gaming,Noida,Series E,612.93,612930000.0
+2022,Startup_213,HealthTech,Mumbai,Series C,430.29,430290000.0
+2022,Startup_214,HealthTech,Bengaluru,Seed,491.66,491660000.0
+2022,Startup_215,AI,Gurgaon,Private Equity,136.02,136020000.0
+2022,Startup_216,FoodTech,Bengaluru,Series A,355.91,355910000.0
+2022,Startup_217,SaaS,Chennai,Series A,495.32,495320000.0
+2022,Startup_218,FinTech,Chennai,Series A,325.16,325160000.0
+2022,Startup_219,EdTech,Mumbai,Series C,312.73,312730000.0
+2022,Startup_220,FoodTech,Delhi,Series C,377.98,377980000.0
+2023,Startup_1,SaaS,Bengaluru,Series B,724.55,724550000.0
+2023,Startup_2,SaaS,Delhi,Seed,432.11,432110000.0
+2023,Startup_3,SpaceTech,Chennai,Angel,200.06,200060000.0
+2023,Startup_4,CleanTech,Bengaluru,Series B,20.28,20280000.0
+2023,Startup_5,Gaming,Hyderabad,Private Equity,176.68,176680000.0
+2023,Startup_6,HealthTech,Mumbai,Pre-Seed,641.39,641390000.0
+2023,Startup_7,SpaceTech,Delhi,Series E,53.63,53630000.0
+2023,Startup_8,Mobility,Delhi,Series B,687.1,687100000.0
+2023,Startup_9,SaaS,Chennai,Seed,643.7,643700000.0
+2023,Startup_10,AgriTech,Noida,Angel,419.41,419410000.0
+2023,Startup_11,FinTech,Kolkata,Series B,731.57,731570000.0
+2023,Startup_12,E-commerce,Kolkata,Angel,184.59,184590000.0
+2023,Startup_13,Mobility,Delhi,Series C,560.27,560270000.0
+2023,Startup_14,FoodTech,Noida,Pre-Seed,468.15,468150000.0
+2023,Startup_15,HealthTech,Delhi,Private Equity,289.08,289080000.0
+2023,Startup_16,AgriTech,Hyderabad,Series B,643.62,643620000.0
+2023,Startup_17,Gaming,Gurgaon,Angel,166.69,166690000.0
+2023,Startup_18,FoodTech,Kolkata,Private Equity,385.42,385420000.0
+2023,Startup_19,EdTech,Chennai,Series F,693.96,693960000.0
+2023,Startup_20,FoodTech,Bengaluru,Series E,424.86,424860000.0
+2023,Startup_21,HealthTech,Chennai,Pre-Seed,711.53,711530000.0
+2023,Startup_22,FoodTech,Mumbai,Angel,157.5,157500000.0
+2023,Startup_23,E-commerce,Gurgaon,Series A,91.07,91070000.0
+2023,Startup_24,AgriTech,Noida,Series E,92.79,92790000.0
+2023,Startup_25,AgriTech,Kolkata,Series B,410.12,410120000.0
+2023,Startup_26,Gaming,Mumbai,Series C,491.43,491430000.0
+2023,Startup_27,SaaS,Bengaluru,Seed,590.61,590610000.0
+2023,Startup_28,HealthTech,Bengaluru,Series D,94.83,94830000.0
+2023,Startup_29,Mobility,Bengaluru,Pre-Seed,304.8,304800000.0
+2023,Startup_30,EdTech,Kolkata,Series F,184.82,184820000.0
+2023,Startup_31,SpaceTech,Noida,Series B,125.03,125030000.0
+2023,Startup_32,FinTech,Gurgaon,Pre-Seed,671.98,671980000.0
+2023,Startup_33,Gaming,Bengaluru,Series C,195.87,195870000.0
+2023,Startup_34,EdTech,Kolkata,Seed,472.42,472420000.0
+2023,Startup_35,SpaceTech,Mumbai,Series D,450.11,450110000.0
+2023,Startup_36,HealthTech,Bengaluru,Series D,171.47,171470000.0
+2023,Startup_37,CleanTech,Noida,Series F,557.32,557320000.0
+2023,Startup_38,FoodTech,Mumbai,Series C,61.93,61930000.0
+2023,Startup_39,HealthTech,Gurgaon,Series B,550.65,550650000.0
+2023,Startup_40,E-commerce,Pune,Series D,377.81,377810000.0
+2023,Startup_41,HealthTech,Kolkata,Series D,559.8,559800000.0
+2023,Startup_42,FinTech,Hyderabad,Series B,122.52,122520000.0
+2023,Startup_43,SaaS,Chennai,Series F,461.57,461570000.0
+2023,Startup_44,CleanTech,Bengaluru,Private Equity,740.93,740930000.0
+2023,Startup_45,SpaceTech,Noida,Pre-Seed,338.66,338660000.0
+2023,Startup_46,AI,Noida,Series F,193.08,193080000.0
+2023,Startup_47,HealthTech,Delhi,Pre-Seed,521.59,521590000.00000006
+2023,Startup_48,CleanTech,Noida,Series D,288.41,288410000.0
+2023,Startup_49,E-commerce,Bengaluru,Series C,626.05,626050000.0
+2023,Startup_50,SaaS,Hyderabad,Series A,261.67,261670000.00000003
+2023,Startup_51,SpaceTech,Pune,Angel,252.33,252330000.0
+2023,Startup_52,HealthTech,Hyderabad,Pre-Seed,616.69,616690000.0
+2023,Startup_53,FinTech,Gurgaon,Private Equity,353.66,353660000.0
+2023,Startup_54,AI,Gurgaon,Series D,799.85,799850000.0
+2023,Startup_55,FoodTech,Noida,Private Equity,419.81,419810000.0
+2023,Startup_56,EdTech,Gurgaon,Angel,182.05,182050000.0
+2023,Startup_57,AgriTech,Pune,Series E,274.75,274750000.0
+2023,Startup_58,SpaceTech,Pune,Series F,453.39,453390000.0
+2023,Startup_59,FinTech,Delhi,Private Equity,300.77,300770000.0
+2023,Startup_60,HealthTech,Gurgaon,Series D,419.91,419910000.0
+2023,Startup_61,Mobility,Chennai,Series C,285.26,285260000.0
+2023,Startup_62,E-commerce,Mumbai,Seed,195.1,195100000.0
+2023,Startup_63,HealthTech,Kolkata,Series C,759.08,759080000.0
+2023,Startup_64,EdTech,Noida,Pre-Seed,336.35,336350000.0
+2023,Startup_65,HealthTech,Mumbai,Angel,724.25,724250000.0
+2023,Startup_66,SpaceTech,Delhi,Angel,271.56,271560000.0
+2023,Startup_67,Gaming,Delhi,Series A,173.92,173920000.0
+2023,Startup_68,Gaming,Hyderabad,Series B,643.58,643580000.0
+2023,Startup_69,AgriTech,Bengaluru,Pre-Seed,310.46,310460000.0
+2023,Startup_70,E-commerce,Pune,Pre-Seed,195.36,195360000.0
+2023,Startup_71,E-commerce,Pune,Series C,654.08,654080000.0
+2023,Startup_72,AI,Bengaluru,Seed,531.28,531280000.0
+2023,Startup_73,HealthTech,Hyderabad,Pre-Seed,347.92,347920000.0
+2023,Startup_74,Gaming,Noida,Series C,56.67,56670000.0
+2023,Startup_75,HealthTech,Chennai,Series F,18.3,18300000.0
+2023,Startup_76,FoodTech,Bengaluru,Series C,247.11,247110000.0
+2023,Startup_77,CleanTech,Noida,Private Equity,605.51,605510000.0
+2023,Startup_78,AI,Mumbai,Series C,576.14,576140000.0
+2023,Startup_79,EdTech,Mumbai,Private Equity,490.32,490320000.0
+2023,Startup_80,AgriTech,Mumbai,Series B,53.43,53430000.0
+2023,Startup_81,SaaS,Noida,Series E,189.17,189170000.0
+2023,Startup_82,Mobility,Bengaluru,Series F,448.5,448500000.0
+2023,Startup_83,FinTech,Bengaluru,Seed,442.04,442040000.0
+2023,Startup_84,AI,Hyderabad,Series E,419.28,419280000.0
+2023,Startup_85,SaaS,Chennai,Series B,624.84,624840000.0
+2023,Startup_86,CleanTech,Mumbai,Series E,512.69,512690000.00000006
+2023,Startup_87,SaaS,Noida,Series E,166.31,166310000.0
+2023,Startup_88,SpaceTech,Bengaluru,Angel,769.11,769110000.0
+2023,Startup_89,AI,Pune,Series A,706.34,706340000.0
+2023,Startup_90,AI,Delhi,Series F,279.63,279630000.0
+2023,Startup_91,FoodTech,Bengaluru,Private Equity,62.07,62070000.0
+2023,Startup_92,SaaS,Pune,Series C,576.4,576400000.0
+2023,Startup_93,CleanTech,Noida,Series C,304.05,304050000.0
+2023,Startup_94,EdTech,Delhi,Pre-Seed,498.01,498010000.0
+2023,Startup_95,E-commerce,Gurgaon,Pre-Seed,480.38,480380000.0
+2023,Startup_96,FoodTech,Hyderabad,Series B,170.89,170890000.0
+2023,Startup_97,FinTech,Noida,Seed,414.64,414640000.0
+2023,Startup_98,SaaS,Delhi,Pre-Seed,213.48,213480000.0
+2023,Startup_99,FoodTech,Chennai,Series D,215.85,215850000.0
+2023,Startup_100,HealthTech,Pune,Angel,324.44,324440000.0
+2023,Startup_101,Gaming,Hyderabad,Series E,178.85,178850000.0
+2023,Startup_102,FinTech,Delhi,Private Equity,537.47,537470000.0
+2023,Startup_103,FoodTech,Bengaluru,Series D,46.72,46720000.0
+2023,Startup_104,SaaS,Mumbai,Series F,137.82,137820000.0
+2023,Startup_105,Mobility,Delhi,Series F,445.74,445740000.0
+2023,Startup_106,Mobility,Pune,Series F,533.49,533490000.0
+2023,Startup_107,E-commerce,Delhi,Series B,10.34,10340000.0
+2023,Startup_108,E-commerce,Chennai,Angel,645.56,645560000.0
+2023,Startup_109,FoodTech,Kolkata,Series B,545.26,545260000.0
+2023,Startup_110,FoodTech,Hyderabad,Private Equity,464.85,464850000.0
+2023,Startup_111,AI,Kolkata,Angel,601.29,601290000.0
+2023,Startup_112,EdTech,Kolkata,Pre-Seed,311.12,311120000.0
+2023,Startup_113,FinTech,Pune,Series B,90.57,90570000.0
+2023,Startup_114,SpaceTech,Hyderabad,Angel,665.1,665100000.0
+2023,Startup_115,HealthTech,Bengaluru,Series C,575.32,575320000.0
+2023,Startup_116,AgriTech,Pune,Series D,5.43,5430000.0
+2023,Startup_117,Mobility,Delhi,Series A,104.43,104430000.0
+2023,Startup_118,CleanTech,Hyderabad,Angel,241.33,241330000.0
+2023,Startup_119,Mobility,Chennai,Pre-Seed,777.7,777700000.0
+2023,Startup_120,FoodTech,Mumbai,Series D,18.37,18370000.0
+2023,Startup_121,EdTech,Gurgaon,Private Equity,767.89,767890000.0
+2023,Startup_122,Gaming,Pune,Series C,110.33,110330000.0
+2023,Startup_123,Mobility,Hyderabad,Series D,307.96,307960000.0
+2023,Startup_124,FoodTech,Pune,Series E,692.74,692740000.0
+2023,Startup_125,E-commerce,Kolkata,Series A,155.95,155950000.0
+2023,Startup_126,FoodTech,Hyderabad,Series F,186.21,186210000.0
+2023,Startup_127,AgriTech,Gurgaon,Series A,799.8,799800000.0
+2023,Startup_128,Mobility,Hyderabad,Series C,435.23,435230000.0
+2023,Startup_129,FinTech,Kolkata,Series F,287.42,287420000.0
+2023,Startup_130,CleanTech,Hyderabad,Series B,745.87,745870000.0
+2023,Startup_131,FoodTech,Mumbai,Series D,87.45,87450000.0
+2023,Startup_132,Gaming,Gurgaon,Seed,472.57,472570000.0
+2023,Startup_133,FoodTech,Delhi,Series A,794.47,794470000.0
+2023,Startup_134,Gaming,Kolkata,Seed,157.43,157430000.0
+2023,Startup_135,E-commerce,Delhi,Series F,278.25,278250000.0
+2023,Startup_136,CleanTech,Bengaluru,Private Equity,264.7,264700000.0
+2023,Startup_137,SaaS,Mumbai,Series D,530.01,530010000.0
+2023,Startup_138,Gaming,Hyderabad,Series A,454.38,454380000.0
+2023,Startup_139,AgriTech,Chennai,Angel,421.1,421100000.0
+2023,Startup_140,AI,Hyderabad,Pre-Seed,580.85,580850000.0
+2023,Startup_141,AI,Kolkata,Series F,557.92,557920000.0
+2023,Startup_142,SpaceTech,Chennai,Seed,663.47,663470000.0
+2023,Startup_143,FinTech,Hyderabad,Series D,495.19,495190000.0
+2023,Startup_144,SpaceTech,Chennai,Angel,672.93,672930000.0
+2023,Startup_145,HealthTech,Chennai,Angel,31.9,31900000.0
+2023,Startup_146,HealthTech,Gurgaon,Seed,574.67,574670000.0
+2023,Startup_147,HealthTech,Hyderabad,Series F,207.99,207990000.0
+2023,Startup_148,CleanTech,Kolkata,Series F,742.6,742600000.0
+2023,Startup_149,FinTech,Mumbai,Series C,564.88,564880000.0
+2023,Startup_150,SaaS,Bengaluru,Series A,577.94,577940000.0
+2023,Startup_151,E-commerce,Mumbai,Angel,108.32,108320000.0
+2023,Startup_152,FoodTech,Hyderabad,Series E,743.95,743950000.0
+2023,Startup_153,Mobility,Delhi,Series B,234.83,234830000.0
+2023,Startup_154,AI,Chennai,Series D,371.7,371700000.0
+2023,Startup_155,FinTech,Hyderabad,Series A,576.39,576390000.0
+2023,Startup_156,E-commerce,Bengaluru,Pre-Seed,549.4,549400000.0
+2023,Startup_157,Mobility,Chennai,Private Equity,297.97,297970000.0
+2023,Startup_158,SaaS,Gurgaon,Seed,23.36,23360000.0
+2023,Startup_159,AI,Noida,Series C,671.86,671860000.0
+2023,Startup_160,FoodTech,Kolkata,Angel,794.85,794850000.0
+2023,Startup_161,Gaming,Delhi,Series E,285.31,285310000.0
+2023,Startup_162,HealthTech,Kolkata,Series A,189.31,189310000.0
+2023,Startup_163,FoodTech,Mumbai,Series D,701.29,701290000.0
+2023,Startup_164,FoodTech,Chennai,Pre-Seed,676.32,676320000.0
+2023,Startup_165,Mobility,Mumbai,Pre-Seed,541.61,541610000.0
+2023,Startup_166,HealthTech,Chennai,Seed,495.54,495540000.0
+2023,Startup_167,AI,Bengaluru,Series A,333.55,333550000.0
+2023,Startup_168,HealthTech,Bengaluru,Series C,324.94,324940000.0
+2023,Startup_169,CleanTech,Kolkata,Series E,736.91,736910000.0
+2023,Startup_170,SpaceTech,Hyderabad,Series B,159.06,159060000.0
+2023,Startup_171,SaaS,Bengaluru,Series D,94.88,94880000.0
+2023,Startup_172,HealthTech,Kolkata,Series B,482.48,482480000.0
+2023,Startup_173,HealthTech,Gurgaon,Angel,69.21,69210000.0
+2023,Startup_174,Gaming,Bengaluru,Seed,254.55,254550000.0
+2023,Startup_175,E-commerce,Noida,Angel,205.26,205260000.0
+2023,Startup_176,Mobility,Delhi,Private Equity,237.98,237980000.0
+2023,Startup_177,HealthTech,Bengaluru,Series F,564.84,564840000.0
+2023,Startup_178,Gaming,Noida,Series A,458.89,458890000.0
+2023,Startup_179,EdTech,Chennai,Seed,576.17,576170000.0
+2023,Startup_180,SpaceTech,Noida,Pre-Seed,173.66,173660000.0
+2023,Startup_181,Gaming,Kolkata,Series A,75.41,75410000.0
+2023,Startup_182,E-commerce,Gurgaon,Series C,480.05,480050000.0
+2023,Startup_183,EdTech,Chennai,Angel,73.9,73900000.0
+2023,Startup_184,SpaceTech,Noida,Private Equity,748.82,748820000.0
+2023,Startup_185,SaaS,Chennai,Seed,639.16,639160000.0
+2023,Startup_186,CleanTech,Chennai,Series A,596.59,596590000.0
+2023,Startup_187,EdTech,Pune,Seed,608.34,608340000.0
+2023,Startup_188,FoodTech,Hyderabad,Series A,506.58,506580000.0
+2023,Startup_189,Gaming,Gurgaon,Series A,500.08,500080000.0
+2023,Startup_190,SpaceTech,Kolkata,Series F,500.17,500170000.0
+2023,Startup_191,E-commerce,Hyderabad,Series D,95.48,95480000.0
+2023,Startup_192,Mobility,Delhi,Private Equity,647.61,647610000.0
+2023,Startup_193,EdTech,Pune,Private Equity,112.19,112190000.0
+2023,Startup_194,E-commerce,Delhi,Series C,244.88,244880000.0
+2023,Startup_195,HealthTech,Bengaluru,Series C,443.68,443680000.0
+2023,Startup_196,SaaS,Gurgaon,Series F,771.44,771440000.0
+2023,Startup_197,EdTech,Hyderabad,Private Equity,496.58,496580000.0
+2023,Startup_198,FinTech,Hyderabad,Series C,96.54,96540000.0
+2023,Startup_199,E-commerce,Gurgaon,Pre-Seed,183.16,183160000.0
+2023,Startup_200,E-commerce,Chennai,Series E,744.87,744870000.0
+2023,Startup_201,Mobility,Gurgaon,Series C,478.39,478390000.0
+2023,Startup_202,EdTech,Mumbai,Angel,24.94,24940000.0
+2023,Startup_203,SaaS,Noida,Series C,680.02,680020000.0
+2023,Startup_204,AgriTech,Gurgaon,Private Equity,559.64,559640000.0
+2023,Startup_205,SpaceTech,Delhi,Pre-Seed,35.37,35370000.0
+2023,Startup_206,Mobility,Kolkata,Series F,43.38,43380000.0
+2023,Startup_207,AgriTech,Hyderabad,Pre-Seed,637.3,637300000.0
+2023,Startup_208,CleanTech,Chennai,Series A,235.16,235160000.0
+2023,Startup_209,EdTech,Hyderabad,Series B,741.12,741120000.0
+2023,Startup_210,AgriTech,Pune,Angel,452.38,452380000.0
+2023,Startup_211,Mobility,Kolkata,Pre-Seed,604.05,604050000.0
+2023,Startup_212,FinTech,Delhi,Seed,503.33,503330000.0
+2023,Startup_213,FoodTech,Pune,Series C,409.73,409730000.0
+2023,Startup_214,AI,Pune,Series B,682.33,682330000.0
+2023,Startup_215,FoodTech,Gurgaon,Seed,761.55,761550000.0
+2023,Startup_216,FinTech,Gurgaon,Seed,1.38,1380000.0
+2023,Startup_217,FoodTech,Gurgaon,Private Equity,392.17,392170000.0
+2023,Startup_218,Gaming,Delhi,Seed,75.72,75720000.0
+2023,Startup_219,Gaming,Delhi,Series F,696.78,696780000.0
+2023,Startup_220,E-commerce,Delhi,Private Equity,473.86,473860000.0
+2024,Startup_1,FinTech,Hyderabad,Series C,572.93,572930000.0
+2024,Startup_2,CleanTech,Noida,Angel,38.08,38080000.0
+2024,Startup_3,Gaming,Gurgaon,Series E,576.55,576550000.0
+2024,Startup_4,AI,Delhi,Series A,428.97,428970000.0
+2024,Startup_5,AI,Delhi,Series B,9.76,9760000.0
+2024,Startup_6,AgriTech,Bengaluru,Series D,453.54,453540000.0
+2024,Startup_7,SpaceTech,Chennai,Seed,7.89,7890000.0
+2024,Startup_8,HealthTech,Noida,Seed,438.89,438890000.0
+2024,Startup_9,FinTech,Gurgaon,Series D,589.34,589340000.0
+2024,Startup_10,Mobility,Pune,Series A,189.59,189590000.0
+2024,Startup_11,CleanTech,Bengaluru,Angel,40.3,40300000.0
+2024,Startup_12,Mobility,Noida,Series A,426.09,426090000.0
+2024,Startup_13,HealthTech,Gurgaon,Seed,58.88,58880000.0
+2024,Startup_14,HealthTech,Bengaluru,Angel,363.98,363980000.0
+2024,Startup_15,HealthTech,Chennai,Angel,235.88,235880000.0
+2024,Startup_16,SpaceTech,Bengaluru,Series C,574.53,574530000.0
+2024,Startup_17,FinTech,Kolkata,Pre-Seed,50.87,50870000.0
+2024,Startup_18,AgriTech,Noida,Angel,111.95,111950000.0
+2024,Startup_19,Mobility,Bengaluru,Seed,398.12,398120000.0
+2024,Startup_20,Mobility,Delhi,Series B,207.76,207760000.0
+2024,Startup_21,Gaming,Bengaluru,Series B,31.3,31300000.0
+2024,Startup_22,AI,Chennai,Private Equity,722.76,722760000.0
+2024,Startup_23,FoodTech,Bengaluru,Series F,476.47,476470000.0
+2024,Startup_24,Gaming,Chennai,Series D,154.19,154190000.0
+2024,Startup_25,EdTech,Gurgaon,Series F,269.79,269790000.0
+2024,Startup_26,SaaS,Hyderabad,Series E,255.83,255830000.0
+2024,Startup_27,FoodTech,Hyderabad,Private Equity,257.29,257290000.00000003
+2024,Startup_28,AgriTech,Gurgaon,Angel,347.32,347320000.0
+2024,Startup_29,E-commerce,Gurgaon,Private Equity,475.56,475560000.0
+2024,Startup_30,Mobility,Gurgaon,Series F,553.25,553250000.0
+2024,Startup_31,EdTech,Chennai,Series C,428.49,428490000.0
+2024,Startup_32,HealthTech,Gurgaon,Series C,610.45,610450000.0
+2024,Startup_33,E-commerce,Hyderabad,Series E,570.18,570180000.0
+2024,Startup_34,FinTech,Mumbai,Series B,739.48,739480000.0
+2024,Startup_35,AI,Kolkata,Pre-Seed,546.64,546640000.0
+2024,Startup_36,EdTech,Noida,Angel,343.62,343620000.0
+2024,Startup_37,E-commerce,Pune,Series C,50.51,50510000.0
+2024,Startup_38,SpaceTech,Gurgaon,Private Equity,238.95,238950000.0
+2024,Startup_39,Gaming,Delhi,Pre-Seed,674.18,674180000.0
+2024,Startup_40,FoodTech,Kolkata,Seed,790.79,790790000.0
+2024,Startup_41,SaaS,Gurgaon,Series A,765.15,765150000.0
+2024,Startup_42,SaaS,Mumbai,Series F,749.04,749040000.0
+2024,Startup_43,E-commerce,Hyderabad,Private Equity,712.66,712660000.0
+2024,Startup_44,FoodTech,Noida,Series B,272.78,272780000.0
+2024,Startup_45,AgriTech,Kolkata,Seed,100.26,100260000.0
+2024,Startup_46,Mobility,Pune,Series D,563.89,563890000.0
+2024,Startup_47,HealthTech,Chennai,Series E,308.07,308070000.0
+2024,Startup_48,EdTech,Chennai,Series A,255.3,255300000.0
+2024,Startup_49,Mobility,Delhi,Seed,383.37,383370000.0
+2024,Startup_50,FinTech,Gurgaon,Series E,781.69,781690000.0
+2024,Startup_51,Gaming,Hyderabad,Seed,538.61,538610000.0
+2024,Startup_52,Mobility,Gurgaon,Series F,145.07,145070000.0
+2024,Startup_53,SaaS,Noida,Series E,276.35,276350000.0
+2024,Startup_54,Mobility,Gurgaon,Series B,395.4,395400000.0
+2024,Startup_55,CleanTech,Bengaluru,Private Equity,662.05,662050000.0
+2024,Startup_56,CleanTech,Noida,Seed,414.98,414980000.0
+2024,Startup_57,SaaS,Noida,Seed,120.41,120410000.0
+2024,Startup_58,SaaS,Hyderabad,Series B,26.8,26800000.0
+2024,Startup_59,AI,Pune,Series E,713.22,713220000.0
+2024,Startup_60,Mobility,Pune,Series A,222.9,222900000.0
+2024,Startup_61,Mobility,Gurgaon,Seed,507.99,507990000.0
+2024,Startup_62,HealthTech,Pune,Series C,14.75,14750000.0
+2024,Startup_63,AgriTech,Pune,Series E,199.94,199940000.0
+2024,Startup_64,CleanTech,Pune,Series E,319.04,319040000.0
+2024,Startup_65,E-commerce,Delhi,Pre-Seed,215.81,215810000.0
+2024,Startup_66,Mobility,Gurgaon,Series F,374.58,374580000.0
+2024,Startup_67,FoodTech,Mumbai,Series F,659.36,659360000.0
+2024,Startup_68,HealthTech,Kolkata,Series E,696.43,696430000.0
+2024,Startup_69,Mobility,Pune,Seed,582.07,582070000.0
+2024,Startup_70,HealthTech,Noida,Private Equity,547.39,547390000.0
+2024,Startup_71,EdTech,Noida,Pre-Seed,182.87,182870000.0
+2024,Startup_72,SaaS,Bengaluru,Pre-Seed,729.75,729750000.0
+2024,Startup_73,AI,Mumbai,Series F,251.58,251580000.0
+2024,Startup_74,SpaceTech,Delhi,Series B,2.74,2740000.0
+2024,Startup_75,SpaceTech,Chennai,Pre-Seed,292.11,292110000.0
+2024,Startup_76,Gaming,Delhi,Series F,653.11,653110000.0
+2024,Startup_77,FinTech,Pune,Series C,172.06,172060000.0
+2024,Startup_78,E-commerce,Kolkata,Series A,234.72,234720000.0
+2024,Startup_79,AgriTech,Bengaluru,Series E,261.79,261790000.00000003
+2024,Startup_80,Mobility,Gurgaon,Pre-Seed,677.05,677050000.0
+2024,Startup_81,Mobility,Noida,Seed,412.69,412690000.0
+2024,Startup_82,FinTech,Chennai,Pre-Seed,585.12,585120000.0
+2024,Startup_83,AgriTech,Hyderabad,Seed,220.6,220600000.0
+2024,Startup_84,FoodTech,Chennai,Pre-Seed,205.47,205470000.0
+2024,Startup_85,AgriTech,Chennai,Series B,51.7,51700000.0
+2024,Startup_86,Mobility,Noida,Series A,117.98,117980000.0
+2024,Startup_87,E-commerce,Chennai,Angel,203.45,203450000.0
+2024,Startup_88,AI,Mumbai,Pre-Seed,642.2,642200000.0
+2024,Startup_89,EdTech,Bengaluru,Series D,775.54,775540000.0
+2024,Startup_90,Gaming,Pune,Series F,746.4,746400000.0
+2024,Startup_91,HealthTech,Chennai,Pre-Seed,600.15,600150000.0
+2024,Startup_92,Mobility,Mumbai,Series A,571.78,571780000.0
+2024,Startup_93,EdTech,Mumbai,Pre-Seed,604.08,604080000.0
+2024,Startup_94,FinTech,Mumbai,Series D,712.4,712400000.0
+2024,Startup_95,Gaming,Noida,Private Equity,399.01,399010000.0
+2024,Startup_96,FinTech,Chennai,Series E,783.6,783600000.0
+2024,Startup_97,HealthTech,Bengaluru,Series C,19.64,19640000.0
+2024,Startup_98,AI,Hyderabad,Series F,137.58,137580000.0
+2024,Startup_99,AgriTech,Mumbai,Seed,422.72,422720000.0
+2024,Startup_100,SaaS,Pune,Series A,652.63,652630000.0
+2024,Startup_101,AgriTech,Noida,Series A,530.59,530590000.00000006
+2024,Startup_102,FinTech,Gurgaon,Angel,10.81,10810000.0
+2024,Startup_103,SpaceTech,Gurgaon,Series B,49.18,49180000.0
+2024,Startup_104,AgriTech,Hyderabad,Private Equity,305.66,305660000.0
+2024,Startup_105,AI,Kolkata,Series A,721.06,721060000.0
+2024,Startup_106,FinTech,Delhi,Angel,494.05,494050000.0
+2024,Startup_107,Mobility,Pune,Angel,546.7,546700000.0
+2024,Startup_108,CleanTech,Pune,Series A,242.91,242910000.0
+2024,Startup_109,EdTech,Noida,Series B,337.36,337360000.0
+2024,Startup_110,HealthTech,Chennai,Private Equity,79.37,79370000.0
+2024,Startup_111,HealthTech,Hyderabad,Seed,388.0,388000000.0
+2024,Startup_112,AI,Delhi,Seed,12.37,12370000.0
+2024,Startup_113,EdTech,Hyderabad,Pre-Seed,86.44,86440000.0
+2024,Startup_114,HealthTech,Gurgaon,Pre-Seed,584.69,584690000.0
+2024,Startup_115,CleanTech,Noida,Seed,200.32,200320000.0
+2024,Startup_116,Mobility,Kolkata,Series D,699.85,699850000.0
+2024,Startup_117,Gaming,Bengaluru,Private Equity,71.71,71710000.0
+2024,Startup_118,HealthTech,Gurgaon,Series F,585.1,585100000.0
+2024,Startup_119,FinTech,Gurgaon,Private Equity,377.19,377190000.0
+2024,Startup_120,FoodTech,Pune,Pre-Seed,136.83,136830000.0
+2024,Startup_121,Gaming,Noida,Angel,730.8,730800000.0
+2024,Startup_122,FoodTech,Mumbai,Pre-Seed,469.82,469820000.0
+2024,Startup_123,Gaming,Pune,Series E,150.41,150410000.0
+2024,Startup_124,E-commerce,Chennai,Series C,146.73,146730000.0
+2024,Startup_125,CleanTech,Pune,Pre-Seed,371.72,371720000.0
+2024,Startup_126,HealthTech,Gurgaon,Private Equity,552.41,552410000.0
+2024,Startup_127,EdTech,Gurgaon,Series A,243.94,243940000.0
+2024,Startup_128,FinTech,Mumbai,Private Equity,476.85,476850000.0
+2024,Startup_129,Gaming,Gurgaon,Series E,620.58,620580000.0
+2024,Startup_130,AI,Chennai,Series A,382.42,382420000.0
+2024,Startup_131,Gaming,Gurgaon,Series A,170.64,170640000.0
+2024,Startup_132,HealthTech,Pune,Series C,505.61,505610000.0
+2024,Startup_133,E-commerce,Gurgaon,Series B,475.88,475880000.0
+2024,Startup_134,AgriTech,Hyderabad,Series F,34.86,34860000.0
+2024,Startup_135,AgriTech,Mumbai,Pre-Seed,490.56,490560000.0
+2024,Startup_136,CleanTech,Mumbai,Series F,453.18,453180000.0
+2024,Startup_137,FoodTech,Kolkata,Pre-Seed,98.03,98030000.0
+2024,Startup_138,FoodTech,Kolkata,Series A,788.07,788070000.0
+2024,Startup_139,Gaming,Bengaluru,Series E,162.61,162610000.0
+2024,Startup_140,Gaming,Pune,Angel,658.24,658240000.0
+2024,Startup_141,Mobility,Pune,Series E,529.2,529200000.00000006
+2024,Startup_142,HealthTech,Gurgaon,Series B,350.61,350610000.0
+2024,Startup_143,Gaming,Pune,Private Equity,22.61,22610000.0
+2024,Startup_144,E-commerce,Mumbai,Private Equity,663.64,663640000.0
+2024,Startup_145,E-commerce,Chennai,Series E,112.88,112880000.0
+2024,Startup_146,CleanTech,Kolkata,Series B,197.81,197810000.0
+2024,Startup_147,Mobility,Noida,Series E,473.18,473180000.0
+2024,Startup_148,HealthTech,Gurgaon,Series E,385.97,385970000.0
+2024,Startup_149,E-commerce,Noida,Series B,549.49,549490000.0
+2024,Startup_150,Mobility,Gurgaon,Seed,796.92,796920000.0
+2024,Startup_151,SaaS,Pune,Series B,371.64,371640000.0
+2024,Startup_152,SpaceTech,Chennai,Pre-Seed,780.37,780370000.0
+2024,Startup_153,FoodTech,Noida,Series F,594.43,594430000.0
+2024,Startup_154,SpaceTech,Delhi,Private Equity,428.08,428080000.0
+2024,Startup_155,Gaming,Hyderabad,Pre-Seed,565.74,565740000.0
+2024,Startup_156,CleanTech,Chennai,Series B,500.53,500530000.0
+2024,Startup_157,FinTech,Mumbai,Series F,198.79,198790000.0
+2024,Startup_158,FinTech,Kolkata,Series F,178.38,178380000.0
+2024,Startup_159,AgriTech,Mumbai,Angel,481.48,481480000.0
+2024,Startup_160,AI,Gurgaon,Series C,85.04,85040000.0
+2024,Startup_161,SaaS,Bengaluru,Series A,619.52,619520000.0
+2024,Startup_162,FoodTech,Gurgaon,Series F,567.38,567380000.0
+2024,Startup_163,CleanTech,Kolkata,Private Equity,787.49,787490000.0
+2024,Startup_164,SpaceTech,Chennai,Series E,395.01,395010000.0
+2024,Startup_165,CleanTech,Noida,Private Equity,167.06,167060000.0
+2024,Startup_166,SaaS,Noida,Angel,614.28,614280000.0
+2024,Startup_167,FinTech,Bengaluru,Private Equity,494.93,494930000.0
+2024,Startup_168,E-commerce,Delhi,Series C,451.59,451590000.0
+2024,Startup_169,SaaS,Kolkata,Pre-Seed,188.36,188360000.0
+2024,Startup_170,CleanTech,Bengaluru,Series E,180.02,180020000.0
+2024,Startup_171,E-commerce,Pune,Private Equity,794.68,794680000.0
+2024,Startup_172,HealthTech,Noida,Seed,271.66,271660000.0
+2024,Startup_173,SpaceTech,Gurgaon,Series E,213.21,213210000.0
+2024,Startup_174,SaaS,Hyderabad,Seed,741.44,741440000.0
+2024,Startup_175,EdTech,Chennai,Series D,137.68,137680000.0
+2024,Startup_176,SpaceTech,Bengaluru,Angel,528.32,528320000.00000006
+2024,Startup_177,CleanTech,Chennai,Series A,135.79,135790000.0
+2024,Startup_178,Gaming,Kolkata,Pre-Seed,543.59,543590000.0
+2024,Startup_179,EdTech,Gurgaon,Series F,273.29,273290000.0
+2024,Startup_180,SaaS,Mumbai,Private Equity,24.01,24010000.0
+2024,Startup_181,CleanTech,Noida,Private Equity,626.12,626120000.0
+2024,Startup_182,E-commerce,Hyderabad,Series C,244.68,244680000.0
+2024,Startup_183,Gaming,Hyderabad,Private Equity,217.21,217210000.0
+2024,Startup_184,AI,Bengaluru,Seed,785.25,785250000.0
+2024,Startup_185,CleanTech,Kolkata,Series E,273.6,273600000.0
+2024,Startup_186,E-commerce,Noida,Series E,15.01,15010000.0
+2024,Startup_187,FoodTech,Gurgaon,Series C,183.8,183800000.0
+2024,Startup_188,EdTech,Chennai,Private Equity,571.84,571840000.0
+2024,Startup_189,HealthTech,Delhi,Pre-Seed,702.97,702970000.0
+2024,Startup_190,AgriTech,Mumbai,Angel,765.91,765910000.0
+2024,Startup_191,EdTech,Pune,Angel,555.54,555540000.0
+2024,Startup_192,HealthTech,Delhi,Series D,709.75,709750000.0
+2024,Startup_193,CleanTech,Hyderabad,Angel,670.7,670700000.0
+2024,Startup_194,Mobility,Chennai,Angel,347.05,347050000.0
+2024,Startup_195,HealthTech,Pune,Pre-Seed,74.92,74920000.0
+2024,Startup_196,E-commerce,Mumbai,Private Equity,679.51,679510000.0
+2024,Startup_197,AgriTech,Delhi,Angel,122.64,122640000.0
+2024,Startup_198,Mobility,Noida,Series A,233.89,233890000.0
+2024,Startup_199,HealthTech,Hyderabad,Series D,131.88,131880000.0
+2024,Startup_200,E-commerce,Gurgaon,Seed,506.23,506230000.0
+2024,Startup_201,Mobility,Hyderabad,Series E,120.26,120260000.0
+2024,Startup_202,AgriTech,Chennai,Series F,652.42,652420000.0
+2024,Startup_203,Gaming,Delhi,Angel,321.45,321450000.0
+2024,Startup_204,FinTech,Hyderabad,Pre-Seed,189.53,189530000.0
+2024,Startup_205,FinTech,Hyderabad,Series C,261.01,261010000.0
+2024,Startup_206,AI,Hyderabad,Seed,364.65,364650000.0
+2024,Startup_207,FinTech,Delhi,Series A,649.9,649900000.0
+2024,Startup_208,HealthTech,Delhi,Angel,681.82,681820000.0
+2024,Startup_209,AgriTech,Kolkata,Series B,187.15,187150000.0
+2024,Startup_210,EdTech,Mumbai,Angel,541.06,541060000.0
+2024,Startup_211,Gaming,Chennai,Seed,389.83,389830000.0
+2024,Startup_212,AgriTech,Kolkata,Angel,220.6,220600000.0
+2024,Startup_213,FinTech,Hyderabad,Series B,510.15,510150000.0
+2024,Startup_214,CleanTech,Pune,Series D,420.22,420220000.0
+2024,Startup_215,SaaS,Hyderabad,Series D,503.81,503810000.0
+2024,Startup_216,EdTech,Delhi,Series F,792.12,792120000.0
+2024,Startup_217,FinTech,Noida,Series F,509.79,509790000.0
+2024,Startup_218,HealthTech,Chennai,Series A,299.64,299640000.0
+2024,Startup_219,SaaS,Kolkata,Pre-Seed,710.72,710720000.0
+2024,Startup_220,CleanTech,Gurgaon,Seed,267.69,267690000.0
+2025,Startup_1,FinTech,Delhi,Series F,436.99,436990000.0
+2025,Startup_2,SaaS,Mumbai,Series B,371.67,371670000.0
+2025,Startup_3,HealthTech,Chennai,Series C,787.81,787810000.0
+2025,Startup_4,HealthTech,Chennai,Series A,43.18,43180000.0
+2025,Startup_5,CleanTech,Gurgaon,Series E,109.85,109850000.0
+2025,Startup_6,HealthTech,Chennai,Series F,411.83,411830000.0
+2025,Startup_7,Mobility,Gurgaon,Series E,518.05,518049999.99999994
+2025,Startup_8,Mobility,Bengaluru,Series D,611.72,611720000.0
+2025,Startup_9,EdTech,Gurgaon,Series B,336.21,336210000.0
+2025,Startup_10,Gaming,Bengaluru,Seed,503.28,503280000.0
+2025,Startup_11,AI,Hyderabad,Series F,643.84,643840000.0
+2025,Startup_12,SaaS,Delhi,Series D,437.82,437820000.0
+2025,Startup_13,SaaS,Delhi,Series E,733.18,733180000.0
+2025,Startup_14,Gaming,Noida,Series E,482.24,482240000.0
+2025,Startup_15,Mobility,Bengaluru,Private Equity,511.83,511830000.0
+2025,Startup_16,Mobility,Pune,Series F,703.27,703270000.0
+2025,Startup_17,EdTech,Hyderabad,Series F,37.46,37460000.0
+2025,Startup_18,FoodTech,Pune,Series F,429.65,429650000.0
+2025,Startup_19,EdTech,Delhi,Series B,716.7,716700000.0
+2025,Startup_20,FinTech,Hyderabad,Seed,282.56,282560000.0
+2025,Startup_21,HealthTech,Chennai,Angel,538.35,538350000.0
+2025,Startup_22,FoodTech,Delhi,Series E,291.7,291700000.0
+2025,Startup_23,Mobility,Bengaluru,Series B,58.54,58540000.0
+2025,Startup_24,EdTech,Bengaluru,Series B,452.66,452660000.0
+2025,Startup_25,Gaming,Kolkata,Series E,611.85,611850000.0
+2025,Startup_26,AI,Mumbai,Angel,270.41,270410000.0
+2025,Startup_27,CleanTech,Noida,Series F,74.91,74910000.0
+2025,Startup_28,AgriTech,Hyderabad,Seed,664.94,664940000.0
+2025,Startup_29,EdTech,Gurgaon,Series B,403.68,403680000.0
+2025,Startup_30,SpaceTech,Chennai,Series D,431.94,431940000.0
+2025,Startup_31,CleanTech,Noida,Series A,704.9,704900000.0
+2025,Startup_32,SpaceTech,Mumbai,Series F,566.83,566830000.0
+2025,Startup_33,E-commerce,Mumbai,Series E,649.36,649360000.0
+2025,Startup_34,AI,Delhi,Series E,72.4,72400000.0
+2025,Startup_35,Mobility,Delhi,Seed,778.51,778510000.0
+2025,Startup_36,AgriTech,Pune,Series D,258.41,258410000.00000003
+2025,Startup_37,FoodTech,Chennai,Series B,619.47,619470000.0
+2025,Startup_38,FoodTech,Hyderabad,Series A,472.44,472440000.0
+2025,Startup_39,SaaS,Pune,Series C,735.69,735690000.0
+2025,Startup_40,AgriTech,Hyderabad,Series D,82.52,82520000.0
+2025,Startup_41,AI,Delhi,Angel,440.68,440680000.0
+2025,Startup_42,SaaS,Kolkata,Series F,347.4,347400000.0
+2025,Startup_43,Mobility,Kolkata,Series C,94.43,94430000.0
+2025,Startup_44,E-commerce,Gurgaon,Pre-Seed,537.1,537100000.0
+2025,Startup_45,SpaceTech,Noida,Series E,640.58,640580000.0
+2025,Startup_46,AgriTech,Kolkata,Series D,73.76,73760000.0
+2025,Startup_47,FoodTech,Bengaluru,Series E,799.2,799200000.0
+2025,Startup_48,CleanTech,Delhi,Series A,92.37,92370000.0
+2025,Startup_49,AI,Chennai,Series B,615.01,615010000.0
+2025,Startup_50,Mobility,Delhi,Series E,790.67,790670000.0
+2025,Startup_51,FinTech,Pune,Series D,304.61,304610000.0
+2025,Startup_52,CleanTech,Mumbai,Series B,30.78,30780000.0
+2025,Startup_53,E-commerce,Gurgaon,Series B,544.98,544980000.0
+2025,Startup_54,FoodTech,Bengaluru,Seed,182.82,182820000.0
+2025,Startup_55,E-commerce,Hyderabad,Series E,736.14,736140000.0
+2025,Startup_56,FinTech,Hyderabad,Series F,498.28,498280000.0
+2025,Startup_57,Gaming,Delhi,Seed,40.45,40450000.0
+2025,Startup_58,HealthTech,Hyderabad,Pre-Seed,791.96,791960000.0
+2025,Startup_59,AI,Delhi,Private Equity,532.73,532730000.0
+2025,Startup_60,AgriTech,Mumbai,Private Equity,564.93,564930000.0
+2025,Startup_61,CleanTech,Delhi,Pre-Seed,224.39,224390000.0
+2025,Startup_62,AI,Pune,Seed,799.04,799040000.0
+2025,Startup_63,FinTech,Chennai,Series B,793.75,793750000.0
+2025,Startup_64,SaaS,Bengaluru,Series F,94.99,94990000.0
+2025,Startup_65,CleanTech,Mumbai,Series C,710.44,710440000.0
+2025,Startup_66,AI,Mumbai,Series D,173.71,173710000.0
+2025,Startup_67,HealthTech,Noida,Seed,406.67,406670000.0
+2025,Startup_68,SpaceTech,Pune,Series B,420.19,420190000.0
+2025,Startup_69,FinTech,Gurgaon,Seed,696.66,696660000.0
+2025,Startup_70,Gaming,Chennai,Seed,52.63,52630000.0
+2025,Startup_71,FinTech,Mumbai,Seed,445.12,445120000.0
+2025,Startup_72,SaaS,Delhi,Series C,534.24,534240000.0
+2025,Startup_73,HealthTech,Pune,Series D,261.5,261500000.0
+2025,Startup_74,E-commerce,Mumbai,Private Equity,773.26,773260000.0
+2025,Startup_75,HealthTech,Noida,Pre-Seed,327.03,327030000.0
+2025,Startup_76,Gaming,Chennai,Series A,212.7,212700000.0
+2025,Startup_77,HealthTech,Hyderabad,Series D,590.4,590400000.0
+2025,Startup_78,E-commerce,Kolkata,Series E,720.97,720970000.0
+2025,Startup_79,E-commerce,Delhi,Angel,174.39,174390000.0
+2025,Startup_80,EdTech,Mumbai,Series C,421.73,421730000.0
+2025,Startup_81,FinTech,Bengaluru,Series D,408.77,408770000.0
+2025,Startup_82,AI,Delhi,Series D,302.85,302850000.0
+2025,Startup_83,CleanTech,Chennai,Series C,596.76,596760000.0
+2025,Startup_84,Mobility,Hyderabad,Pre-Seed,276.19,276190000.0
+2025,Startup_85,FinTech,Bengaluru,Series F,558.76,558760000.0
+2025,Startup_86,SaaS,Bengaluru,Series B,129.14,129139999.99999999
+2025,Startup_87,E-commerce,Gurgaon,Angel,479.23,479230000.0
+2025,Startup_88,Gaming,Gurgaon,Private Equity,104.16,104160000.0
+2025,Startup_89,Mobility,Bengaluru,Series D,408.9,408900000.0
+2025,Startup_90,Gaming,Kolkata,Series F,566.32,566320000.0
+2025,Startup_91,FoodTech,Chennai,Series E,633.72,633720000.0
+2025,Startup_92,FoodTech,Chennai,Series B,190.01,190010000.0
+2025,Startup_93,SpaceTech,Gurgaon,Series E,410.8,410800000.0
+2025,Startup_94,E-commerce,Hyderabad,Series E,693.07,693070000.0
+2025,Startup_95,Mobility,Delhi,Series C,402.24,402240000.0
+2025,Startup_96,E-commerce,Noida,Series E,2.59,2590000.0
+2025,Startup_97,AI,Delhi,Series A,613.03,613030000.0
+2025,Startup_98,SpaceTech,Kolkata,Angel,140.81,140810000.0
+2025,Startup_99,AgriTech,Chennai,Angel,260.25,260250000.0
+2025,Startup_100,SpaceTech,Hyderabad,Angel,445.77,445770000.0
+2025,Startup_101,Mobility,Pune,Series E,26.66,26660000.0
+2025,Startup_102,EdTech,Noida,Series A,182.14,182140000.0
+2025,Startup_103,CleanTech,Pune,Pre-Seed,5.41,5410000.0
+2025,Startup_104,EdTech,Kolkata,Series C,358.71,358710000.0
+2025,Startup_105,SaaS,Bengaluru,Seed,129.9,129900000.0
+2025,Startup_106,FoodTech,Hyderabad,Pre-Seed,272.25,272250000.0
+2025,Startup_107,E-commerce,Bengaluru,Series B,718.54,718540000.0
+2025,Startup_108,HealthTech,Noida,Series F,358.1,358100000.0
+2025,Startup_109,EdTech,Pune,Series D,675.33,675330000.0
+2025,Startup_110,EdTech,Hyderabad,Series C,295.09,295090000.0
+2025,Startup_111,CleanTech,Hyderabad,Series D,582.04,582040000.0
+2025,Startup_112,SaaS,Kolkata,Pre-Seed,463.54,463540000.0
+2025,Startup_113,SpaceTech,Mumbai,Seed,531.72,531720000.0
+2025,Startup_114,AgriTech,Delhi,Series E,298.26,298260000.0
+2025,Startup_115,E-commerce,Pune,Series C,693.55,693550000.0
+2025,Startup_116,SaaS,Chennai,Seed,283.38,283380000.0
+2025,Startup_117,SpaceTech,Chennai,Series C,563.18,563180000.0
+2025,Startup_118,AI,Kolkata,Seed,4.45,4450000.0
+2025,Startup_119,FinTech,Chennai,Series F,735.05,735050000.0
+2025,Startup_120,SpaceTech,Noida,Series E,523.61,523610000.0
+2025,Startup_121,SpaceTech,Chennai,Series A,94.85,94850000.0
+2025,Startup_122,CleanTech,Mumbai,Angel,120.9,120900000.0
+2025,Startup_123,HealthTech,Pune,Series B,535.32,535320000.00000006
+2025,Startup_124,HealthTech,Bengaluru,Series C,493.74,493740000.0
+2025,Startup_125,SaaS,Chennai,Series D,483.07,483070000.0
+2025,Startup_126,FoodTech,Pune,Series A,450.59,450590000.0
+2025,Startup_127,AI,Delhi,Series B,262.08,262079999.99999997
+2025,Startup_128,Gaming,Bengaluru,Series C,28.48,28480000.0
+2025,Startup_129,FoodTech,Kolkata,Series B,643.68,643680000.0
+2025,Startup_130,CleanTech,Bengaluru,Angel,118.45,118450000.0
+2025,Startup_131,HealthTech,Chennai,Angel,76.71,76710000.0
+2025,Startup_132,EdTech,Bengaluru,Series C,377.25,377250000.0
+2025,Startup_133,SaaS,Delhi,Pre-Seed,390.44,390440000.0
+2025,Startup_134,AI,Noida,Series C,604.25,604250000.0
+2025,Startup_135,Gaming,Chennai,Angel,699.17,699170000.0
+2025,Startup_136,HealthTech,Noida,Private Equity,515.63,515630000.0
+2025,Startup_137,Gaming,Pune,Series D,254.17,254170000.0
+2025,Startup_138,CleanTech,Bengaluru,Series F,346.29,346290000.0
+2025,Startup_139,CleanTech,Mumbai,Series A,666.72,666720000.0
+2025,Startup_140,EdTech,Pune,Seed,691.22,691220000.0
+2025,Startup_141,E-commerce,Bengaluru,Angel,74.14,74140000.0
+2025,Startup_142,AgriTech,Noida,Series A,769.01,769010000.0
+2025,Startup_143,SaaS,Chennai,Series C,654.52,654520000.0
+2025,Startup_144,CleanTech,Gurgaon,Seed,563.93,563930000.0
+2025,Startup_145,HealthTech,Kolkata,Series F,727.5,727500000.0
+2025,Startup_146,FinTech,Hyderabad,Private Equity,559.76,559760000.0
+2025,Startup_147,AgriTech,Delhi,Series D,237.77,237770000.0
+2025,Startup_148,EdTech,Delhi,Pre-Seed,693.96,693960000.0
+2025,Startup_149,SaaS,Bengaluru,Series C,648.54,648540000.0
+2025,Startup_150,E-commerce,Noida,Pre-Seed,753.18,753180000.0
+2025,Startup_151,E-commerce,Noida,Series C,759.35,759350000.0
+2025,Startup_152,Gaming,Kolkata,Angel,133.67,133669999.99999999
+2025,Startup_153,FinTech,Kolkata,Seed,131.7,131699999.99999999
+2025,Startup_154,Mobility,Pune,Pre-Seed,425.41,425410000.0
+2025,Startup_155,AI,Chennai,Series E,613.77,613770000.0
+2025,Startup_156,SpaceTech,Hyderabad,Series A,511.09,511090000.0
+2025,Startup_157,HealthTech,Bengaluru,Seed,489.94,489940000.0
+2025,Startup_158,E-commerce,Chennai,Series D,657.42,657420000.0
+2025,Startup_159,FoodTech,Pune,Seed,763.85,763850000.0
+2025,Startup_160,AgriTech,Kolkata,Series D,590.54,590540000.0
+2025,Startup_161,SpaceTech,Gurgaon,Series E,487.23,487230000.0
+2025,Startup_162,Gaming,Kolkata,Seed,117.36,117360000.0
+2025,Startup_163,Mobility,Delhi,Private Equity,257.05,257050000.0
+2025,Startup_164,SpaceTech,Pune,Pre-Seed,207.48,207480000.0
+2025,Startup_165,AgriTech,Chennai,Series E,567.32,567320000.0
+2025,Startup_166,E-commerce,Bengaluru,Series D,142.77,142770000.0
+2025,Startup_167,CleanTech,Delhi,Series F,43.46,43460000.0
+2025,Startup_168,AgriTech,Hyderabad,Series F,703.2,703200000.0
+2025,Startup_169,SpaceTech,Noida,Private Equity,777.51,777510000.0
+2025,Startup_170,HealthTech,Kolkata,Series D,530.23,530230000.0
+2025,Startup_171,HealthTech,Delhi,Angel,116.4,116400000.0
+2025,Startup_172,Mobility,Noida,Pre-Seed,533.64,533640000.0
+2025,Startup_173,E-commerce,Kolkata,Series E,488.72,488720000.0
+2025,Startup_174,CleanTech,Delhi,Pre-Seed,649.87,649870000.0
+2025,Startup_175,HealthTech,Kolkata,Series C,705.51,705510000.0
+2025,Startup_176,AI,Hyderabad,Series F,23.06,23060000.0
+2025,Startup_177,FoodTech,Delhi,Series D,198.54,198540000.0
+2025,Startup_178,AgriTech,Pune,Seed,478.58,478580000.0
+2025,Startup_179,SaaS,Bengaluru,Series E,101.7,101700000.0
+2025,Startup_180,SpaceTech,Chennai,Series E,165.46,165460000.0
+2025,Startup_181,FinTech,Bengaluru,Series D,65.68,65680000.00000001
+2025,Startup_182,EdTech,Kolkata,Seed,621.6,621600000.0
+2025,Startup_183,SpaceTech,Noida,Series B,751.45,751450000.0
+2025,Startup_184,CleanTech,Delhi,Series A,39.43,39430000.0
+2025,Startup_185,CleanTech,Noida,Pre-Seed,424.56,424560000.0
+2025,Startup_186,SaaS,Hyderabad,Seed,729.53,729530000.0
+2025,Startup_187,FoodTech,Kolkata,Pre-Seed,558.12,558120000.0
+2025,Startup_188,SaaS,Noida,Series E,383.35,383350000.0
+2025,Startup_189,HealthTech,Noida,Angel,325.68,325680000.0
+2025,Startup_190,AI,Noida,Series B,132.73,132729999.99999999
+2025,Startup_191,EdTech,Hyderabad,Series B,749.69,749690000.0
+2025,Startup_192,E-commerce,Noida,Series F,119.28,119280000.0
+2025,Startup_193,SpaceTech,Chennai,Angel,629.38,629380000.0
+2025,Startup_194,E-commerce,Hyderabad,Series C,145.93,145930000.0
+2025,Startup_195,FoodTech,Gurgaon,Series A,560.04,560040000.0
+2025,Startup_196,Mobility,Gurgaon,Seed,651.44,651440000.0
+2025,Startup_197,FinTech,Bengaluru,Series C,5.24,5240000.0
+2025,Startup_198,FoodTech,Pune,Series A,336.43,336430000.0
+2025,Startup_199,FinTech,Delhi,Private Equity,349.78,349780000.0
+2025,Startup_200,FoodTech,Chennai,Pre-Seed,228.48,228480000.0
+2025,Startup_201,SaaS,Chennai,Series C,308.03,308030000.0
+2025,Startup_202,Mobility,Pune,Series B,695.47,695470000.0
+2025,Startup_203,FoodTech,Kolkata,Series B,608.32,608320000.0
+2025,Startup_204,AI,Bengaluru,Seed,670.09,670090000.0
+2025,Startup_205,Gaming,Chennai,Series D,377.29,377290000.0
+2025,Startup_206,AI,Chennai,Seed,38.23,38230000.0
+2025,Startup_207,CleanTech,Mumbai,Series F,128.28,128280000.0
+2025,Startup_208,FoodTech,Kolkata,Series E,556.41,556410000.0
+2025,Startup_209,Gaming,Mumbai,Series B,391.86,391860000.0
+2025,Startup_210,FinTech,Kolkata,Series A,644.86,644860000.0
+2025,Startup_211,Gaming,Mumbai,Series F,694.95,694950000.0
+2025,Startup_212,SpaceTech,Bengaluru,Series B,798.59,798590000.0
+2025,Startup_213,CleanTech,Kolkata,Series D,59.12,59120000.0
+2025,Startup_214,FoodTech,Bengaluru,Series A,308.6,308600000.0
+2025,Startup_215,Mobility,Delhi,Series F,615.1,615100000.0
+2025,Startup_216,SaaS,Delhi,Series D,71.17,71170000.0
+2025,Startup_217,E-commerce,Mumbai,Series A,192.53,192530000.0
+2025,Startup_218,HealthTech,Chennai,Pre-Seed,507.04,507040000.0
+2025,Startup_219,Gaming,Delhi,Private Equity,116.98,116980000.0
+2025,Startup_220,HealthTech,Hyderabad,Series A,461.25,461250000.0
